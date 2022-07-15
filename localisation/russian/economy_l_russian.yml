@@ -1,0 +1,5 @@
+﻿l_russian:
+
+ # Topbar
+ MONEY_VALUE:0 "[?state_treasury] млрд"
+ MONEY_TOOLTIP:0 "§YФінанси§!\nЧистий баланс: §G[ROOT.GetCurrency]§! §Y[?state_treasury|0]B§!\n\nМісячний податковий дохід: §G[ROOT.GetCurrency]§! §Y[?monthly_tax_revenue]B§!\n\nЩомісячні витрати: §R[ROOT.GetCurrency]§! §Y[?monthly_expenses]B"
