@@ -51,8 +51,8 @@
  # Party Names
  COALITION_PARTY1_TITLE: "[This.GetEnoughIslamic]Ісламісти§!"
  COALITION_PARTY2_TITLE: "[This.GetEnoughFascist]Фашисти§!"
- COALITION_PARTY3_TITLE: "[This.GetEnoughRightWingNationalist]Right-Wing Nationalist§!"
- COALITION_PARTY5_TITLE: "[This.GetEnoughNationalConservative]Праві Націоналісти§!"
+ COALITION_PARTY3_TITLE: "[This.GetEnoughRightWingNationalist]Праві Націоналісти§!"
+ COALITION_PARTY5_TITLE: "[This.GetEnoughNationalConservative]Націонал-консерватори§!"
  COALITION_PARTY6_TITLE: "[This.GetEnoughConservative]Консерватори§!"
  COALITION_PARTY7_TITLE: "[This.GetEnoughMarketLiberal]Клас-ліберали§!"
  COALITION_PARTY8_TITLE: "[This.GetEnoughSocialLiberal]Соціал-ліберали§!"
