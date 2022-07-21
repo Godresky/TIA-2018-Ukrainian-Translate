@@ -3,70 +3,70 @@
  ###Law Categories###
  ####################
  constitution: "Конституція"
- military: "Воєнна Політика"
- economic_policy: "Економічна Політика"
+ military: "Воєнна політика"
+ economic_policy: "Економічна політика"
  budget: "Бюджет"
- state_religion: "Державна Релігія"
- economic_system: "Економічна Система"
- form_of_government: "Форма Правління"
+ state_religion: "Державна релігія"
+ economic_system: "Економічна система"
+ form_of_government: "Форма правління"
  centralization: "Централізація"
- immigration_policy: "Імміграційна Політика"
+ immigration_policy: "Імміграційна політика"
  lgbt_minority_womens_rights: "ЛГБТ/Меншини/Права Жінок"
- workers_rights: "Права Робітників"
- gun_control: "Контроль Зброї"
- civil_liberties: "Громадянські Свободи"
- birth_control_policy: "Політика Контролю Народжуваності"
- climate_change_efforts: "Політика Щодо Зміни Клімату (TBA)"
- minimum_wage: "Мінімальна Зарплата"
- social_welfare: "Соціальна Допомога"
- healthcare: "Охорона Здоров'я"
+ workers_rights: "Працівники та підприємці"
+ gun_control: "Контроль товарообігу зброї"
+ civil_liberties: "Громадянські свободи"
+ birth_control_policy: "Політика народжуваності"
+ climate_change_efforts: "Політика щодо зміни клімату (TBA)"
+ minimum_wage: "Мінімальна зарплата"
+ social_welfare: "Соціальна допомога"
+ healthcare: "Охорона здоров'я"
  education: "Освіта"
  defense: "Оборона"
- law_enforcement: "Правоохоронні Органи"
- economic_subsidies: "Економічні Субсидії"
- tax_policy: "Податкова Політика"
+ law_enforcement: "Правоохоронні органи"
+ economic_subsidies: "Економічні субсидії"
+ tax_policy: "Податкова політика"
 
  ###Laws###
 
  #Economic System
  laissez_faire: "«Хай так буде»"
  laissez_faire_desc: "«Хай так буде» - це економічна система, в якій операції між приватними групами людей вільні або майже вільні від будь-якої форми економічного втручання, як-от регулювання та субсидії."
- social_market_economy: "Соціальна Ринкова Економіка"
+ social_market_economy: "Соціальна ринкова економіка"
  social_market_economy_desc: "Соціальна ринкова економіка — це соціально-економічна модель, яка поєднує капіталістичну економічну систему вільного ринку разом із соціальною політикою та достатнім регулюванням для встановлення справедливої ​​конкуренції на ринку."
- socialist_market_economy: "Соціалістична Ринкова Економіка"
+ socialist_market_economy: "Соціалістична ринкова економіка"
  socialist_market_economy_desc: "Соціалістична ринкова економіка — економічна система та модель економічного розвитку, заснована на переважанні суспільної власності та державних підприємств у ринковій економіці. Соціалістична ринкова економіка, яка бере свій початок у китайських економічних реформах, розпочатих у 1978 році, які інтегрували Китай у світову ринкову економіку, є попередньою стадією розвитку соціалізму. Багато коментаторів описують систему як форму державного капіталізму."
- planned_economy: "Планова Економіка"
+ planned_economy: "Планова економіка"
  planned_economy_desc: "Планова економіка — це тип економічної системи, де інвестиції, виробництво та розподіл капітальних благ відбуваються відповідно до загальноекономічних економічних планів і планів виробництва."
  
  #Immigration Policy
- immigration_closed_borders: "Закриті Кордони"
- immigration_heavily_regulated: "Сильно Регульовані"
- immigration_lightly_regulated: "Слабо Регульовані"
- immigration_open_borders: "Відкриті Кордони"
+ immigration_closed_borders: "Закриті кордони"
+ immigration_heavily_regulated: "Сильно регульовані"
+ immigration_lightly_regulated: "Слабо регульовані"
+ immigration_open_borders: "Відкриті кордони"
 
  #Centralization
- unitary: "Унітарна"
+ unitary: "Унітарна держава"
  unitary_desc: "Унітарна держава — це держава, якою керують як єдине ціле, в якому центральний уряд є верховною владою. Центральний уряд може створювати або скасовувати адміністративні підрозділи. Такі підрозділи здійснюють лише ті повноваження, які центральний уряд вирішив делегувати. Хоча політична влада може бути делегована шляхом делегування регіональним або місцевим органам влади згідно зі статутом, центральний уряд може скасувати акти делегованих урядів або обмежити їхні повноваження."
- federal: "Федеративна"
- federal_desc: "Федеральна держава — це політичне утворення, яке характеризується об’єднанням частково самоврядних провінцій, штатів або інших регіонів під центральним федеральним урядом. У федерації самоврядний статус складових штатів, а також розподіл влади між ними та центральним урядом, як правило, закріплені конституцією та не можуть бути змінені одностороннім рішенням будь-якої сторони, штатів чи федерального уряду."
+ federal: "Федеративна держава"
+ federal_desc: "Федеративна держава — це політичне утворення, яке характеризується об’єднанням частково самоврядних провінцій, штатів або інших регіонів під центральним федеральним урядом. У федерації самоврядний статус складових штатів, а також розподіл влади між ними та центральним урядом, як правило, закріплені конституцією та не можуть бути змінені одностороннім рішенням будь-якої сторони, штатів чи федерального уряду."
 
  #Form of Government
- presidential_republic: "Президентська Республіка"
+ presidential_republic: "Президентська республіка"
  presidential_republic_desc: "Президентська республіка — це форма правління, за якої глава уряду (президент) очолює виконавчу владу, відокремлену від законодавчої в системах, які використовують поділ влади. Цей глава уряду в більшості випадків також є главою держави. У президентських республіках глава уряду обирається і не несе відповідальності перед законодавчою владою, яка за звичайних обставин не може відправити президента у відставку. Однак таке звільнення можливе в окремих випадках, часто через імпічмент."
- parliamentary_system: "Парламентська Система"
+ parliamentary_system: "Парламентська система"
  parliamentary_system_desc: "Парламентська система — це форма правління, за якої виконавча влада отримує свою легітимність від законодавчої влади та несе відповідальність перед нею. Парламентська система може бути або республікою конституційної монархії."
- demarchic_republic: "Демоархічна Республіка"
+ demarchic_republic: "Демоархічна республіка"
  demarchic_republic_desc: "Демоархічна республіка — це республіка, яка використовує вибірку для вибору виконавчої влади. Сортування — це відбір політичних чиновників як випадкова вибірка з більшої кількості кандидатів. Сортування зазвичай використовується для заміщення окремих посад або, частіше в сучасних застосуваннях , щоб заповнити колегіальні палати. Система спрямована на те, щоб усі компетентні та зацікавлені сторони мали рівні шанси займати державні посади. Вона також зводить до мінімуму фракційність, оскільки не було б сенсу давати обіцянки залучити ключові електорати, якщо б хтось був обраний жеребом, тоді як вибори, навпаки, сприяють цьому.У стародавній афінській демократії сортування було традиційним і основним методом призначення політичних чиновників, і його використання вважалося головною характеристикою демократії."
- one_party_state: "Однопартійна Система"
- one_party_state_desc: "Однопартійна держава — це тип суверенної держави, в якому лише одна політична партія має право формувати уряд, зазвичай на основі чинної конституції. Усі інші партії або оголошені поза законом, або їм дозволено брати лише обмежену та контрольовану участь у виборах."
- absolute_monarchy: "Абсолютна Монархія"
+ one_party_state: "Однопартійна система"
+ one_party_state_desc: "Однопартійна система — це тип система, в якій лише одна політична партія має право формувати уряд, зазвичай на основі чинної конституції. Усі інші партії або оголошені поза законом, або їм дозволено брати лише обмежену та контрольовану участь у виборах."
+ absolute_monarchy: "Абсолютна монархія"
  absolute_monarchy_desc: "Абсолютна монархія — це форма монархії, в якій монарх має верховну автократичну владу, яка переважно не обмежена писаними законами, законодавчою владою чи неписаними звичаями. Часто це спадкові монархії."
- violent_non_state_actor: "Не Державна Воєнна Групировка"
+ violent_non_state_actor: "Недержавне військове угруповання"
  violent_non_state_actor_desc: "У міжнародних відносинах не державні воєнні групировки — це особи та групи, які повністю або частково незалежні від урядів і які погрожують насильством або використовують насильство для досягнення своїх цілей. НДВГ значно відрізняються за своїми цілями, розміром і методами. Вони можуть включати наркокартелі, народні визвольні рухи, релігійні та ідеологічні організації, ополчення самооборони та воєнізовані групи, створені урядами штатів для захисту своїх інтересів."
  
  #Trade Policy
- trade_policy: "Торгова Політика"
- free_trade: "Вільна Торгівля"
+ trade_policy: "Торгова політика"
+ free_trade: "Вільна торгівля"
  free_trade_desc: "Відкривши наш ринок для решти світу, ми розпочнемо нову еру економічного процвітання та глобальної дипломатії. Відкрийте його!"
  protectionism: "Протекціонізм"
  protectionism_desc: "Усе, чого досягає вільний ринок, — це красти ресурси нашої славетної країни та віддавати їх меншим націям! Застосовуючи тарифи та торговельні обмеження, торгівля нарешті принесе користь НАШИМ людям."
@@ -74,45 +74,45 @@
  isolationism_desc: "Навіщо торгувати, якщо у нас є все необхідне? Закрийте його!"
  
  #Birth Control Policy
- population_control: "Контроль Популяції"
+ population_control: "Повний контроль популяції"
  population_control_desc: "Активно просуваючи контрацепцію, легалізувавши аборти та відмовляючи наших громадян від багатодітності, ми зможемо активно скоротити зростання населення. Це зменшить тиск на нашу систему соціального забезпечення та дозволить нам контролювати темпи зростання нашого населення."
- pro_choice: "За Вибір"
+ pro_choice: "Вільний вибір"
  pro_choice_desc: "Наш уряд не повинен ані сприяти, ані перешкоджати зростанню населення. Кожен громадянин має бути вільним вибирати, що він хоче робити зі своїм тілом."
- pro_life: "За Життя"
+ pro_life: "Збереження життя"
  pro_life_desc: "Право на життя є фундаментальним правом. Активно працюючи проти абортів і контрацепції, ми можемо забезпечити дотримання цього права в нашій країні. Крім того, не зашкодить покращений приріст населення."
  
  #LGBT/Minority/Women's Rights
- lgbt_minority_womens_rights_conservative: "Консервативний"
+ lgbt_minority_womens_rights_conservative: "Консерватизм"
  lgbt_minority_womens_rights_conservative_desc: "Позитивні дії, права ЛГБТ і фемінізм – це прогресивна нісенітниця.  Щоб наше суспільство продовжувало функціонувати, наш уряд має заохочувати сімейні цінності, зберігати нашу культуру та традиції."
- lgbt_minority_womens_rights_egalitarian: "Егалітарний"
+ lgbt_minority_womens_rights_egalitarian: "Егалітаризм"
  lgbt_minority_womens_rights_egalitarian_desc: "Кожен громадянин повинен мати однакові законні права, ким би він не був, і уряд не повинен пропагувати ані консервативну, ані прогресивну програму. Немає необхідності втручання держави в приватне життя людей."
- lgbt_minority_womens_rights_progressive: "Прогресивний"
+ lgbt_minority_womens_rights_progressive: "Прогресивізм"
  lgbt_minority_womens_rights_progressive_desc: "Настав час змінити несправедливість, з якою століттями стикаються жінки, меншини та ЛГБТ! Лише за умови державного втручання на користь цих пригноблених меншин ми можемо справді досягти рівного та справедливого суспільства!"
  
  #Gun Control
- unregulated_firearms: "Unregulated Firearms"
+ unregulated_firearms: "Нерегульований товарообіг зброї"
  unregulated_firearms_desc: "If everyone has a gun, everyone can help defend our great nation against foreign enemies and criminals alike! Guns for everybody!"
- permissive_gun_laws: "Permissive Gun Laws"
+ permissive_gun_laws: "Вільний доступ до зброї"
  permissive_gun_laws_desc: "By enforcing basic licensing and universal background checks, we can ensure that firearms stay in the hands of responsible citizens instead of criminals."
- restrictive_gun_laws: "Restrictive Gun Laws"
+ restrictive_gun_laws: "Обмежений доступ до зброї"
  restrictive_gun_laws_desc: "Only those with a good reason, such as hunting or other exceptions, should be allowed own firearms."
- prohibited_firearms: "Prohibited Firearms"
+ prohibited_firearms: "Заборона вогнепальної зброї"
  prohibited_firearms_desc: "Allowing regular people to own firearms only serves to undermine the authority of the state. Ban it all!"
  
  #Civil Liberties
- civil_liberties_libertarian: "Libertarian"
+ civil_liberties_libertarian: "Лібертаріанізм"
  civil_liberties_libertarian_desc: "Civil liberties are a crucial part of any functioning society! Our people deserve the right to organize, the right to protest, a free press and a free judiciary."
- civil_liberties_authoritarian: "Authoritarian"
+ civil_liberties_authoritarian: "Авторитаризм"
  civil_liberties_authoritarian_desc: "Law and order is a crucial part of any functioning society! We need to ensure that foreign-backed subversion doesn't interfere with our politics, the press must be prevented from spreading subversive propaganda, and the judiciary needs to respect the authority of the government. Any allegations of electoral fraud are false."
- civil_liberties_totalitarian: "Totalitarian"
+ civil_liberties_totalitarian: "Тоталітаризм"
  civil_liberties_totalitarian_desc: "Only our great leader [ROOT.GetLeader] and the [ROOT.GetRulingParty] knows what's best for our nation. By taking control of the press and the judiciary, banning protests and cracking down on any foolish dissent, our great leader will have the power he needs to truly lead our nation to glory!"
  
  #Worker's Rights
- organized_labour_discouraged: "Organized Labour Discouraged"
+ organized_labour_discouraged: "Ставка на підприємців"
  organized_labour_discouraged_desc: "Organized labour is draining our industry of productivity, imposing ridiculous demands on our businesses and promoting laziness to our citizens! We must do everything we can to ensure that these couch sitting unionists gain as little power as possible. No bathroom breaks for you, John!"
- organized_labour_tolerated: "Organized Labour Tolerated"
+ organized_labour_tolerated: "Баланс між сторонами"
  organized_labour_tolerated_desc: "Our government will neither promote nor oppose organized labour."
- organized_labour_encouraged: "Organized Labour Encouraged"
+ organized_labour_encouraged: "Ставка на робітників"
  organized_labour_encouraged_desc: "By reforming our labour laws and actively cooperating with unions, we can ensure that no worker in our nation is treated unfairly. Human rights must take priority over productivity and economic growth."
  
  #Climate Change Efforts
@@ -121,33 +121,33 @@
  no_climate_regulations: "No Climate Regulations"
  
  #Minimum Wage
- generous_minimum_wage: "Generous Minimum Wage"
+ generous_minimum_wage: "Щедра мінімальна зарплата"
  generous_minimum_wage_desc: "Every single citizen of this nation deserves a living wage! The economy does not take priority over human rights!"
- moderate_minimum_wage: "Moderate Minimum Wage"
+ moderate_minimum_wage: "Велика мінімальна зарплата"
  moderate_minimum_wage_desc: "With a national minimum wage, we can ensure that no worker in our nation is actively being taken advantage of."
- basic_minimum_wage: "Basic Minimum Wage"
+ basic_minimum_wage: "Середня мінімальна зарплата"
  basic_minimum_wage_desc: "By enforcing just a basic minimum wage, we can strike a balance between economic flexibility and union pressure."
- no_minimum_wage: "No Minimum Wage"
+ no_minimum_wage: "Без мінімальної зарплати"
  no_minimum_wage_desc: "A national minimum wage is a surefire way to limit our economic flexibility and pander to left-wing populists. To keep our economy as dynamic as possible, we will NOT enforce a national minimum wage."
  
  #Conscription
- conscription: "Військовий Призов"
- no_standing_army: "Без Постійної Армії"
+ conscription: "Військовий призов"
+ no_standing_army: "Без постійної армії"
  no_standing_army_desc: "Ми ніколи більше не повинні брати участь у насильницькому військовому конфлікті. Наша національна поліція повинна забезпечувати нашу безпеку."
- volunteer_army: "Добровольча Армія"
+ volunteer_army: "Добровольча армія"
  volunteer_army_desc: "Якщо ми залучатимемо лише тих, хто охоче йде добровольцем, ми зможемо створити якісні професійні військові сили.."
- active_draft: "Екстенсивна Підготовка"
+ active_draft: "Екстенсивна підготовка"
  active_draft_desc: "Потреби в активному призові наразі немає. Однак ми повинні переконатися, що ми можемо швидко викликати більше робочої сили, коли вона нам потрібна."
- limited_conscription: "Обмежений Призов"
+ limited_conscription: "Обмежений призов"
  limited_conscription_desc: "Світ - небезпечне місце. Найкраще підходящі чоловіки у нашій країні повинні прибути на призов."
- extensive_conscription: "Розширений Призов"
+ extensive_conscription: "Розширений призов"
  extensive_conscription_desc: "Наша армія вимагає більше людей для захисту нації. Ми повинні запровадити повномасштабний призов."
- child_soldiers: "Діти-Солдати"
+ child_soldiers: "Діти-солдати"
  child_soldiers_desc: "Навіть із повним призовом у нас не вистачає людей для поповнення лав наших збройних сил. Треба призвати дітей. Вибач, ЮНІСЕФ!"
 
  #Religion
  secular: "Світська"
- state_atheism: "Державний Атеїзм"
+ state_atheism: "Державний атеїзм"
  christianity: "Християнство"
  islam: "Іслам"
  buddhism: "Будизм"
@@ -157,11 +157,11 @@
  shia_islam: "Шиїтський Іслам"
 
  #Tax Policy
- very_high_taxes: "Дуже Високі Податки"
- high_taxes: "Високі Податки"
- moderate_taxes: "Помірні Податки"
- low_taxes: "Низькі Податки"
- very_low_taxes: "Дуже Низькі Податки"
+ very_high_taxes: "Дуже високі податки"
+ high_taxes: "Високі податки"
+ moderate_taxes: "Помірні податки"
+ low_taxes: "Низькі податки"
+ very_low_taxes: "Дуже низькі податки"
 
  #Healthcare
  extensive_healthcare_spending: "Extensive Healthcare Spending"
@@ -218,29 +218,29 @@
  #Generic
  non_member_state: "Держава-нечлен"
  non_member_state_desc: "Ця країна не є членом ООН."
- salafist_jihadist_group: "Салафітсько-Джихадистська Група"
+ salafist_jihadist_group: "Салафітсько-джихадистська група"
  salafist_jihadist_group_desc: "Ця збройна група відмовилася від поваги до міжнародного права, щоб вести священну війну проти всіх ворогів ісламу. Вербування в соціальних мережах, жорстокі шокові напади та повна відмова здаватися є однією з багатьох тактик цієї групи."
- minority_government: "Уряд Меншості"
+ minority_government: "Уряд в меншості"
  minority_government_desc: "Оскільки нинішній уряд має менше 50% парламентських місць, уряд змушений вести інтенсивні переговори з опозицією, щоб ухвалити будь-які закони, витрачаючи значно більше політичного капіталу, ніж було б необхідно. Опозиція також може усунути уряд через вотум недовіри."
- unstable_coalition: "Нестійка Коаліція"
+ unstable_coalition: "Нестійка коаліція"
  unstable_coalition_desc: "With the current government being made up of parties with completely different ideologies, the government has no common goal or policy, and will likely not accomplish anything. A government like this may be even worse than a minority government."
- idea_neutral_foreign_policy: "Neutral Foreign Policy"
+ idea_neutral_foreign_policy: "Нейтральна зовнішня політика"
  idea_neutral_foreign_policy_desc: "This nation has declared a position of diplomatic and military neutrality, aiming to stay out of alliances and military conflicts between other nations. It is also a go-to location for neutral mediation and negotiation between opposing powers."
- nuclear_weapons_state: "Ядерна Держава"
+ nuclear_weapons_state: "Ядерна держава"
  nuclear_weapons_state_desc: "This nation is in possession of nuclear weapons."
- islamic_sectarian_violence: "Боротьба Між Ісламськими Течіями"
+ islamic_sectarian_violence: "Боротьба між ісламськими течіями"
  islamic_sectarian_violence_desc: "This country is plagued by sectarian violence between Sunni and Shia muslims."
- hutu_tutsi_tensions: "Hutu-Tutsi Tensions"
+ hutu_tutsi_tensions: "Напруженість між Хуту та Тутсі"
  hutu_tutsi_tensions_desc: "The Hutu and the Tutsi are two separate ethnic groups living in the border regions between the Democratic Republic of the Congo and Tanzania, especially in the two small countries Burundi and Rwanda. Burundi is dominated by the Tutsi and committed a genocide against the Hutu in 1972, whereas Rwanda is dominated by the Hutu and had thousands of Tutsis slaughtered by Hutu militias in 1994.\n\nThese two ethnic groups just seem to not get along, but have been forced into the same countries by the European-created colonial borders."
- electoral_honeymoon: "Виборчий Медовий Місяць"
+ electoral_honeymoon: "Виборчий медовий місяць"
  electoral_honeymoon_desc: "An electoral honeymoon refers to the month after a leader's election, where they face much less hostile opposition and much greater power to implement their policies. This highly valuable period of time should never go to waste."
- idea_nonpartisan_political_system: "Nonpartisan Political System"
+ idea_nonpartisan_political_system: "Безпартійна політична система"
  idea_nonpartisan_political_system_desc: "In this nation, established political parties are uncommon, and politics are individual-oriented. Parliamentary alliances form and disband between individual lawmakers, forcing them to truly stand out if they want to retain their seats. With less polarization and party politics, the people here certainly aren't stressing over politics. Here, independents rule the roost."
- idea_constitutional_monarchy: "Конституційна Монархія"
+ idea_constitutional_monarchy: "Конституційна монархія"
  idea_constitutional_monarchy_desc: "While this nation is a monarchy on paper, all political influence belongs to the [FROM.GetParliamentName] and the Government, with [FROM.GetLeader] being the de-facto national leader. While the monarch doesn't possess any real political power, they do partially represent the nation internationally and retain a celebrity-like status in the nation."
  idea_commonwealth_realm: "[ENG.GetFlag] Королівська Співдружність"
  idea_commonwealth_realm_desc: "While not practically differing from any other constitutional monarchy, this nation's monarch is mainly the monarch of [ENG.GetNameWithFlag], creating a personal union-like relationship between the two nations. The monarch is represented within the nation by their appointed Governor-General."
- idea_large_scale_protests: "Масштабні Протести"
+ idea_large_scale_protests: "Масштабні протести"
  idae_large_scale_protests_desc: "Ця нація зараз страждає від масових протестів і заворушень, спрямованих на досягнення політичних змін і/або покращення рівня життя. Вирішення цієї кризи має бути пріоритетом номер один для уряду."
 
  #International Organizations
@@ -282,29 +282,29 @@
  benelux_member_desc: "Ця країна є членом Бенілюксу."
 
  #Bosnia
- idea_dayton_agreement: "Dayton Agreement"
+ idea_dayton_agreement: "Дейтонська угода"
  idea_dayton_agreement_desc: "The Dayton Agreement is the peace agreement reached in Dayton, Ohio on 1 November 1995. These accords put an end to the ​3-and-a-half-year-long Bosnian War. The warring parties agreed to peace and to a single sovereign state known as Bosnia and Herzegovina composed of two parts, the largely Serb-populated Republika Srpska and the Croat-Bosniak Federation of Bosnia and Herzegovina."
 
  #Israel
- idea_the_jewish_state: "The Jewish State"
+ idea_the_jewish_state: "Єврейська держава"
  idea_the_jewish_state_desc: "For hundreds of decades after the loss of the of the Land of Israel, the Jewish people were scattered, stateless and treated as lesser beings. However, it was only the death of over 6 million Jews in Adolf Hitler's ruthless genocide, the Holocaust, that finally motivated the remaining Jews of the world to return to their homeland. In 1948, the state of Israel was founded, aiming to provide safe haven for any Jew that needed it. However, the young state immediately entered into violent territorial conflict with its neighboring Arab nations. Now, after a seemingly infinite time of peril, the Jews of Israel are motivated, willing and dedicated to staunchly defending their homeland against anyone who attempts to harm it, because they don't, they may never recover."
- idea_law_of_return: "Law of Return"
+ idea_law_of_return: "Закон про повернення"
  idea_law_of_return_desc: "The Law of Return is an Israeli law, passed on 5 July 1950, which gives Jews the right to relocate to Israel and acquire Israeli citizenship. Section 1 of the Law of Return declares that every Jew has the right to come to this country as an immigrant. In 1970, the right of entry and settlement was extended to people with one Jewish grandparent and a person who is married to a Jew, whether or not they are considered Jewish under Orthodox interpretations of Jewish law."
 
  #United States
- idea_constitution_of_the_united_states: "Constitution of the United States"
+ idea_constitution_of_the_united_states: "Конституція США"
  idea_constitution_of_the_united_states_desc: "The Constitution of the United States is the supreme law of the United States of America. This founding document, originally comprising seven articles, delineates the national frame of government. Its first three articles embody the doctrine of the separation of powers, whereby the federal government is divided into three branches: the legislative, consisting of the bicameral Congress; the executive, consisting of the president and subordinate officers; and the judicial, consisting of the Supreme Court and other federal courts. It is regarded as the oldest written and codified national constitution in force."
- idea_american_exceptionalism: "American Exceptionalism"
+ idea_american_exceptionalism: "Американська винятковість"
  idea_american_exceptionalism_desc: "\"O say does that star-spangled banner yet wave, O'er the land of the free and the home of the brave?\"\n\nAmerican exceptionalism is the idea that [USA.GetNameWithFlag] is inherently different from other nations. Its proponents argue that the values, political system, and historical development of the country are unique in human history, often with the implication that the country is both destined and entitled to play a distinct and positive role on the world stage.\n\nThe widespread belief in American exceptionalism has resulted in high levels of patriotism and military culture, as well as the American people being reluctant to embrace anti-democratic ideologies on both ends of the spectrum."
- idea_patriot_act: "PATRIOT Act"
+ idea_patriot_act: "Акт ПАТРІОТ"
  idea_patriot_act_desc: "The PATRIOT (Providing Appropriate Tools Required to Intercept and Obstruct Terrorism) Act of 2001 is a landmark Act of the United States Congress, signed into law by former President George W. Bush.\n\nThe Patriot Act was enacted following the September 11 attacks and the 2001 anthrax attacks with the stated goal of dramatically tightening U.S. national security, particularly as it related to foreign terrorism. The act expanded surveillance abilities of law enforcement, including by tapping domestic and international phones, easier interagency communication to allow federal agencies to more effectively use all available resources in counterterrorism efforts and increased penalties for terrorism crimes and an expanded list of activities which would qualify for terrorism charges.\n\nThe law is controversial due to its authorization of indefinite detention without trial of immigrants, and due to the permission given to law enforcement to search property and records without a warrant, consent, or knowledge."
 
  #Saudi Arabia
- saudi_vision_2030: "Saudi Vision 2030"
+ saudi_vision_2030: "Бачення Саудівської Аравії 2030"
  saudi_vision_2030_desc: "Saudi Vision 2030 is a plan to reduce Saudi Arabia's dependence on oil, diversify its economy, and develop public service sectors such as health, education, infrastructure, recreation and tourism. Goals include reinforcing economic and investment activities, increasing non-oil industry trade between countries through goods and consumer products, and increasing government spending on the military, manufacturing equipment and ammunition."
 
  #Austria
- austrian_neutrality: "Austrian Neutrality"
+ austrian_neutrality: "Австрійський нейтралітет"
  austrian_neutrality_desc: "After seeing the partition of Germany into two states in 1949, the Austrians looked to prevent a division of their own nation at all costs. When Austria was founded from the former western allied and Soviet occupation zones in 1955, Austria made a promise to both sides to neither join the western or the eastern alliance, was however soon locked on the western side of the Iron Curtain.\n\nAustria's commitment to a full neutrality has however been questioned when Austria applied to join the EU in 1989 and eventually did in 1995. Thus, its neutrality is considered less total than the one of its Swiss neighbors."
 
  #Belgium
@@ -316,13 +316,13 @@
  idea_sisu_desc: "Сісу — це фінське поняття, яке описується як стоїчна рішучість, цілеспрямованість, сміливість, хоробрість, стійкість, витривалість і використовується самими фінами для вираження свого національного характеру."
 
  #United Kingdom
- idea_brexit: "Brexit"
+ idea_brexit: "Брекзіт"
  idea_brexit_desc: "Brexit refers to the impending withdrawal of the United Kingdom from the European Union. It follows the referendum of 23 June 2016 when 51.9 percent of those who voted supported withdrawal. Withdrawal has been advocated by Eurosceptics, both left-wing and right-wing, while Pro-Europeanists, who also span the political spectrum, have advocated continued membership."
 
  #Germany
- GER_bundeswehr_shortcomings: "Bundeswehr Shortcomings"
+ GER_bundeswehr_shortcomings: "Недоліки Бундесверу"
  GER_bundeswehr_shortcomings_desc: "The Bundeswehr is in a historically bad shape. Helicopters, Tanks, Ships, Planes - there are logistical and economic challenges with all of them. We either need to reduce the size of our military or devote serious resources to fix all our problems."
- idea_GER_german_legacy: "German Legacy"
+ idea_GER_german_legacy: "Німецька спадщина"
  idea_GER_german_legacy_desc: "Germany has survived both the vicious influences of fascism and communism. The German people have become deeply connected with the ideals of liberal democracy and are unlikely to accept tyranny once again."
 
  #Vatican City
@@ -330,25 +330,25 @@
  idea_the_holy_see_desc: "Оскільки Місто-Держава Ватикан є окремою територіальною власністю Святого Престолу, воно підтримує чудові стосунки з іншими католицькими націями та має значний дипломатичний вплив через Главу Держави та Главу Католицької Церкви, Папу Римського."
 
  #Japan
- japanese_article_9: "Article 9"
+ japanese_article_9: "Стаття 9"
  japanese_article_9_desc: "Article 9 of the Japanese Constitution forbids the Japanese state to ever use its army in anything but absolute self-defense."
- japanese_article_9_adapted: "Revised Article 9"
+ japanese_article_9_adapted: "Переглянута стаття 9"
  japanese_article_9_adapted_desc: "While the Japanese government still cannot go into aggressive warfare according to Article 9, it is now allowed to aid its allies and to deploy its armed forces outside of Japanese territory."
 
  #People's Republic of China
- idea_great_firewall: "Great Firewall"
+ idea_great_firewall: "Великий брандмауер"
  idea_great_firewall_desc: "The Great Firewall is the combination of legislative actions and technologies enforced by the People's Republic of China to regulate the Internet domestically. Its role in internet censorship in China is to block access to selected foreign websites and to slow down cross-border internet traffic. The effect includes: limiting access to foreign information sources, blocking foreign internet tools and mobile apps, and requiring foreign companies to adapt to domestic regulations..\n\nThe policy prevents subversive information from reaching the minds of Chinese citizens, such as ideas of freedom or democracy. However, it costs a lot to maintain."
 
  #India
- idea_RAJ_south_asian_tiger: "The Tiger of South Asia"
+ idea_RAJ_south_asian_tiger: "Тигр Південної Азії"
  idea_RAJ_south_asian_tiger_desc: "India, birthplace of hinduism, one of of the greatest nations on earth, has finally recovered from centuries of colonialism and endless hardship. Let the enemies of India know that there is a tiger on the prowl - perhaps not visible, but definitely dangerous."
 
  #Sweden
- idea_SWE_king_charles_xvi: "King Carl XVI Gustaf"
+ idea_SWE_king_charles_xvi: "Король Карл XVI Густав"
  idea_SWE_king_charles_xvi_desc: "King Carl XVI is the king of Sweden and therefore the head of state. He took power in 1973 when his grandfather Gustav VI Adolf passed away. He is the seventh regent of the Bernadotte House and the seventy-fourth king of Sweden."
 
  #Syria
- syrian_revolution: "Syrian Revolution"
+ syrian_revolution: "Сирійська революція"
  syrian_revolution_desc: "We shall fight until the last man! Down with Assad!"
 
  #Russia
@@ -356,11 +356,11 @@
  idea_gazprom_desc: "ГАЗПРОМ - нафтогазова компанія, створена після перетворення радянського міністерства нафти в корпорацію. Більшість акцій корпорації належить російському уряду, тому вони отримують більшу частину доходу."
 
  #Venezuela
- idea_venezuelan_presidential_crisis: "Venezuelan Presidential Crisis"
+ idea_venezuelan_presidential_crisis: "Президентська криза у Венесуелі"
  idea_venezuelan_presidential_crisis_desc: "The office of President of Venezuela is currently disputed between Nicolás Maduro (PSUV) and Juan Guaidó (MUD)."
 
  #Islamic State
- idea_the_islamic_state: "The Islamic State"
+ idea_the_islamic_state: "Ісламська держава"
  idea_the_islamic_state_desc: "The Islamic State has emerged to become one of the most effective jihadist forces in history, largely due to their unique tactics and structure. Led by Caliph [ISS.GetLeader], the group is decentralized and spread out across several regions, with units largely independent of central leadership and experienced in guerrilla tactics."
 
  #North Korea

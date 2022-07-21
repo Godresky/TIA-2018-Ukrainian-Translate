@@ -6,7 +6,7 @@ bitmapfonts = {
 		name = "Helvetica_16"
 
 		fontfiles = {
-			"gfx/fonts/Helvetica_16"
+			"gfx/fonts/16px_black"
 		}
 		color = 0xff262626
 
@@ -25,7 +25,7 @@ bitmapfonts = {
 		name = "Helvetica_24b"
 
 		fontfiles = {
-			"gfx/fonts/Helvetica_24b"
+			"gfx/fonts/22px_black"
 		}
 		color = 0xff262626
 
