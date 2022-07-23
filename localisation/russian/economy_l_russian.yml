@@ -2,4 +2,4 @@
 
  # Topbar
  MONEY_VALUE:0 "[?state_treasury]"
- MONEY_TOOLTIP:0 "§YФінанси§!\nЧистий баланс: §Y[?state_treasury]§!\nМісячний податковий дохід: §G[?monthly_tax_revenue]§!\nЩомісячні витрати: §R[?monthly_expenses]"
+ MONEY_TOOLTIP:0 "§YДержавні фінанси§!\nЧистий баланс: §Y[?state_treasury]§!\nЩомісячний дохід: §G[?monthly_revenue]§!\n- Дохід від податків: §G[?monthly_income_tax_revenue]§!\nЩомісячні витрати: §R[?monthly_expenses]§!\nЩомісячний зміна: §Y[?monthly_net_income]§!"

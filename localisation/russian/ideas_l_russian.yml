@@ -45,10 +45,10 @@
  immigration_open_borders: "Відкриті кордони"
 
  #Centralization
- unitary: "Унітарна держава"
- unitary_desc: "Унітарна держава — це держава, якою керують як єдине ціле, в якому центральний уряд є верховною владою. Центральний уряд може створювати або скасовувати адміністративні підрозділи. Такі підрозділи здійснюють лише ті повноваження, які центральний уряд вирішив делегувати. Хоча політична влада може бути делегована шляхом делегування регіональним або місцевим органам влади згідно зі статутом, центральний уряд може скасувати акти делегованих урядів або обмежити їхні повноваження."
- federal: "Федеративна держава"
- federal_desc: "Федеративна держава — це політичне утворення, яке характеризується об’єднанням частково самоврядних провінцій, штатів або інших регіонів під центральним федеральним урядом. У федерації самоврядний статус складових штатів, а також розподіл влади між ними та центральним урядом, як правило, закріплені конституцією та не можуть бути змінені одностороннім рішенням будь-якої сторони, штатів чи федерального уряду."
+ unitary: "Унітарна"
+ unitary_desc: "Унітарна — це держава, якою керують як єдине ціле, в якому центральний уряд є верховною владою. Центральний уряд може створювати або скасовувати адміністративні підрозділи. Такі підрозділи здійснюють лише ті повноваження, які центральний уряд вирішив делегувати. Хоча політична влада може бути делегована шляхом делегування регіональним або місцевим органам влади згідно зі статутом, центральний уряд може скасувати акти делегованих урядів або обмежити їхні повноваження."
+ federal: "Федерація"
+ federal_desc: "Федерація — це політичне утворення, яке характеризується об’єднанням частково самоврядних провінцій, штатів або інших регіонів під центральним федеральним урядом. У федерації самоврядний статус складових штатів, а також розподіл влади між ними та центральним урядом, як правило, закріплені конституцією та не можуть бути змінені одностороннім рішенням будь-якої сторони, штатів чи федерального уряду."
 
  #Form of Government
  presidential_republic: "Президентська республіка"
@@ -71,7 +71,7 @@
  protectionism: "Протекціонізм"
  protectionism_desc: "Усе, чого досягає вільний ринок, — це красти ресурси нашої славетної країни та віддавати їх меншим націям! Застосовуючи тарифи та торговельні обмеження, торгівля нарешті принесе користь НАШИМ людям."
  isolationism: "Ізоляціонізм"
- isolationism_desc: "Навіщо торгувати, якщо у нас є все необхідне? Закрийте його!"
+ isolationism_desc: "Навіщо торгувати, якщо у нас є все необхідне? Закрийте ринок!"
  
  #Birth Control Policy
  population_control: "Повний контроль популяції"
@@ -116,9 +116,9 @@
  organized_labour_encouraged_desc: "By reforming our labour laws and actively cooperating with unions, we can ensure that no worker in our nation is treated unfairly. Human rights must take priority over productivity and economic growth."
  
  #Climate Change Efforts
- extensive_climate_regulations: "Extensive Climate Regulations"
- light_climate_regulations: "Light Climate Regulations"
- no_climate_regulations: "No Climate Regulations"
+ extensive_climate_regulations: "Розширені регуляції клімату"
+ light_climate_regulations: "Обмежені регуляції клімату"
+ no_climate_regulations: "Без регуляції клімату"
  
  #Minimum Wage
  generous_minimum_wage: "Щедра мінімальна зарплата"
@@ -164,51 +164,51 @@
  very_low_taxes: "Дуже низькі податки"
 
  #Healthcare
- extensive_healthcare_spending: "Extensive Healthcare Spending"
+ extensive_healthcare_spending: "Значні витрати на охорону здоров'я"
  extensive_healthcare_spending_desc: "Our citizens deserve only the very best! We must guarantee quality healthcare to every person in this nation!"
- moderate_healthcare_spending: "Moderate Healthcare Spending"
+ moderate_healthcare_spending: "Середні витрати на охорону здоров'я"
  moderate_healthcare_spending_desc: "We shall put together a pragmatic and sustainable healthcare system that both fulfills the most critical needs of society and fits within the state budget."
- minimal_healthcare_spending: "Minimal Healthcare Spending"
+ minimal_healthcare_spending: "Мінімальні витрати на охорону здоров'я"
  minimal_healthcare_spending_desc: "Universal healthcare? How could we possibly afford that?"
 
  #Education
- extensive_education_spending: "Extensive Education Spending"
+ extensive_education_spending: "Значні витрати на освіту"
  extensive_education_spending_desc: "Our children shall be the most educated in the world. The kids come first!"
- moderate_education_spending: "Moderate Education Spending"
+ moderate_education_spending: "Середні витрати на освіту"
  moderate_education_spending_desc: "We shall put together a pragmatic and sustainable education system that both fulfills the most critical needs of our children and fits within the state budget."
- minimal_education_spending: "Minimal Education Spending"
+ minimal_education_spending: "Мінімальні витрати на освіту"
  minimal_education_spending_desc: "Educating the kids? We have much greater concerns!"
 
  #Economic Subsidies
- extensive_economic_subsidies: "Extensive Economic Subsidies"
+ extensive_economic_subsidies: "Значні економічні субсидії"
  extensive_economic_subsidies_desc: "Our industry should be the greatest in the world! Let's give them everything they need!"
- moderate_economic_subsidies: "Moderate Economic Subsidies"
+ moderate_economic_subsidies: "Середні економічні субсидії"
  moderate_economic_subsidies_desc: "Economic subsidies? Fine, we'll help out."
- minimal_economic_subsidies: "Minimal Economic Subsidies"
+ minimal_economic_subsidies: "Мінімальні економічні субсидії"
  minimal_economic_subsidies_desc: "Our industry can handle itself!"
 
  #Defense
- extensive_defense_spending: "Extensive Defense Spending"
+ extensive_defense_spending: "Значні витрати на оборону"
  extensive_defense_spending_desc: "Our nation must be defended at any cost. More tanks and aircraft carriers! Pensions and public schools can wait."
- moderate_defense_spending: "Moderate Defense Spending"
+ moderate_defense_spending: "Середні витрати на оборону"
  moderate_defense_spending_desc: "The military must be treated like any other institution. They'll get what they need, no more."
- minimal_defense_spending: "Minimal Defense Spending"
+ minimal_defense_spending: "Мінімальні витрати на оборону"
  minimal_defense_spending_desc: "There is no need for killing and bombing in this modern world! Defund the military!"
 
  #Law Enforcement
- extensive_law_enforcement_spending: "Extensive Law Enforcement Spending"
+ extensive_law_enforcement_spending: "Значні витрати на правоохоронні органи"
  extensive_law_enforcement_spending_desc: "Crime is the biggest issue facing our society! We must take care of it by any means necessary!"
- moderate_law_enforcement_spending: "Moderate Law Enforcement Spending"
+ moderate_law_enforcement_spending: "Середні витрати на правоохоронні органи"
  moderate_law_enforcement_spending_desc: "Our crime situation is under control. We have greater priorities at the moment."
- minimal_law_enforcement_spending: "Minimal Law Enforcement Spending"
+ minimal_law_enforcement_spending: "Мінімальні витрати на правоохоронні органи"
  minimal_law_enforcement_spending_desc: "Who needs the police anyway? Our citizens are friendly and law abiding!"
 
  #Social Welfare
- extensive_welfare_spending: "Extensive Welfare Spending"
+ extensive_welfare_spending: "Значні витрати на соціальне забезпечення"
  extensive_welfare_spending_desc: "Pensions, social safety nets, grants, helping the homeless... So much to fund! What could be more important than ensuring the happiness of our citizens?"
- moderate_welfare_spending: "Moderate Welfare Spending"
+ moderate_welfare_spending: "Середні витрати на соціальне забезпечення"
  moderate_welfare_spending_desc: "We shall put together a pragmatic and sustainable social welfare system that both fulfills the most critical needs of society and fits within the state budget."
- minimal_welfare_spending: "Minimal Welfare Spending"
+ minimal_welfare_spending: "Мінімальні витрати на соціальне забезпечення"
  minimal_welfare_spending_desc: "Why should the government care for a bunch of poor freeloaders? Why not buy some new fighter jets instead?"
  
  ###########
@@ -242,6 +242,8 @@
  idea_commonwealth_realm_desc: "While not practically differing from any other constitutional monarchy, this nation's monarch is mainly the monarch of [ENG.GetNameWithFlag], creating a personal union-like relationship between the two nations. The monarch is represented within the nation by their appointed Governor-General."
  idea_large_scale_protests: "Масштабні протести"
  idae_large_scale_protests_desc: "Ця нація зараз страждає від масових протестів і заворушень, спрямованих на досягнення політичних змін і/або покращення рівня життя. Вирішення цієї кризи має бути пріоритетом номер один для уряду."
+ idea_monthly_tax_break: "Населення звільнене від податків на цей місяць"
+ idea_monthly_tax_break_desc: "Уряд цієї країни звільнив населення від подактів на цей місяць, що значно підвищило купівельну спроможність населення. Вплив податкових пільг на рейтинг схвалення уряду можна буде побачити через кілька місяців."
 
  #International Organizations
  idea_united_nations_security_council_member: "Постійний член Ради Безпеки ООН"
@@ -349,7 +351,7 @@
 
  #Syria
  syrian_revolution: "Сирійська революція"
- syrian_revolution_desc: "We shall fight until the last man! Down with Assad!"
+ syrian_revolution_desc: "Ми будемо боротися до останнього! Геть Асада!"
 
  #Russia
  idea_gazprom: "ГАЗПРОМ"
@@ -365,7 +367,7 @@
 
  #North Korea
  idea_songun: "Сонгун"
- idea_songun_desc: "Songun is the military-first policy of [PRK.GetNameWithFlag], prioritizing the Korean People's Army in the affairs of state and allocation of resources. Military-first as a principle guides political and economic life in [PRK.GetNameWithFlag], with military-first politics dominating the political system; a line of military-first economic construction acting as an economic system; and military-first ideology serving as the guiding ideology."
+ idea_songun_desc: "Сонгун — це військова політика [PRK.GetNameWithFlag], яка віддає перевагу Корейській народній армії в державних справах і розподілі ресурсів. Політичне та економічне життя в [PRK.GetNameWithFlag] керує принципом «перш за все військові», де політика «перш за все військова» домінує в політичній системі; лінія військово-господарського будівництва, що виступає як економічна система; і ідеологія військового призначення, яка виступає в якості керівної ідеології."
 
  #Hong Kong
  idea_FOMLACM: "ЗВВПДКС"
