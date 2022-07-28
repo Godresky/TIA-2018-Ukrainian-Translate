@@ -55,9 +55,9 @@ DIPLOMACY_MESSAGE_DECLINED_MESSAGE: "Держава $COUNTRY|Y$ §Rвідхил�
 
  DIPLOMACY_MESSAGE_DECLINED_TITLE_DIPLOMACY_MILACC: "Military Bases Refused"
  DIPLOMACY_MESSAGE_DECLINED_MESSAGE_DIPLOMACY_MILACC: "\n§Y$COUNTRY|U$§! has §Rrefused§! our request for military bases!"
- DIPLOMACY_MESSAGE_ACCEPTED_TITLE_DIPLOMACY_CALL_ALLY: "Accepted Call to War"
+ DIPLOMACY_MESSAGE_ACCEPTED_TITLE_DIPLOMACY_CALL_ALLY: "Приєдналася у війну"
  DIPLOMACY_MESSAGE_ACCEPTED_MESSAGE_DIPLOMACY_CALL_ALLY: "\n§Y$COUNTRY|U$§! §Gaccepted§! the call for them to join our war.\n\nWe stand together."
- DIPLOMACY_MESSAGE_DECLINED_TITLE_DIPLOMACY_CALL_ALLY: "Refusal to Join Our War"
+ DIPLOMACY_MESSAGE_DECLINED_TITLE_DIPLOMACY_CALL_ALLY: "Відмовилася приєднатися до війни"
  DIPLOMACY_MESSAGE_DECLINED_MESSAGE_DIPLOMACY_CALL_ALLY: "\n§Y$COUNTRY|U$§! has §Rrefused§! our call for them to join our war.\n\nThey will not support us in this conflict."
  DIPLOMACY_MESSAGE_ACCEPTED_TITLE_DIPLOMACY_JOIN_ALLY: "We Have Joined the War"
  DIPLOMACY_MESSAGE_ACCEPTED_MESSAGE_DIPLOMACY_JOIN_ALLY: "§Y$COUNTRY|U$§! has §Gaccepted§! our offer of support in their ongoing war.\n\nWe are now fighting on their side."

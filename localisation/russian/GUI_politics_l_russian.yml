@@ -75,7 +75,7 @@
  COALITION_NEXT_NO: "§RYou didn't select a party yet!§!\n\nYou have to select one before we can move on."
  COALITION_NEXT_OK_2: "§GYour coalition has a majority!§!\n\nYou're well set to rule this country now."
  COALITION_NEXT_NO_2: "§RYour coalition doesn't have a majority!§!\n\nYou'll rule with a minority government."
- COALITION_NEXT_GOV_FIRST: "§YYou must select a Coalition leader first!§!"
+ COALITION_NEXT_GOV_FIRST: "§YВам потрібно спочатку вибрати лідера коалції!§!"
  COALITION_PARTY_RED: "§R"
  COALITION_PARTY_GREEN: "§G"
  COALITION_FINISHED_OK: "§GThe coalition formation is finished.§!\n\nWe can now move on."
