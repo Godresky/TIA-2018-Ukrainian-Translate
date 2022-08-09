@@ -8,6 +8,20 @@
  SPEAKER: "Спікер"
  COMPOSITION: "Політичний Склад"
 
+ # Cabinet
+ cabinet_of: "Кабінет"
+ member_parties_title: "Правлячий уряд включає:"
+ kick_button: "Вигнати"
+
+ # Coalition
+coalition_government_title: "Уряд та формування коаліції"
+coalition_leader_text: "Лідер коаліції:"
+coalition_partners_text: "Партнер(и) коаліції:"
+coalition_conclusion_text: "Вигляд коаліції:"
+finish: "Завершити"
+select_leader: "Вибрати"
+select_partner: "Вибрати"
+
  # Flags
  coalition_islamist_party: "- §GІсламісти§!\n"
  coalition_islamist_party_seats: "- §GІсламісти ([?Root.islamist_seats]%)§!\n"
@@ -64,25 +78,25 @@
  # Party Tooltips
  COALITION_LEADER_SELECT_TT: "[This.GetNextAvailable1]\n\n[!next_click]"
  COALITION_PARTNER_SELECT_TT: "[This.GetNextAvailable2]\n\n[!next_click]"
- COALITION_NO_COALITION_TITLE: "§RNot forming a coalition§!"
- COALITION_NO_COALITION_TT: "§RWe will not form a coalition§!\n\n§YWarning:§! Not forming a coalition will result in a minority governemnt and difficulties for passing legislative acts coming from us."
+ COALITION_NO_COALITION_TITLE: "§RКоаліція не створена§!"
+ COALITION_NO_COALITION_TT: "§RМи не будемо створювати коаліцію§!\n\n§YУвага:§! Не створюючи коаліції призведе до уряду меншості та труднощів із ухваленням законодавчих актів, які нам потрібні."
  COALITION_FINISH_TT: "[This.GetCoalitionFinished]\n\n[!finish_click]"
  COALITION_PARTNER_RECOMMENDED: "[This.GetRecommendedPartner]"
- COALITION_PARTNER_RECOMMENDED_YES: "§GРекомендовані§!"
+ COALITION_PARTNER_RECOMMENDED_YES: "§GРекомендована§!"
 
- COALITION_PARTY_MAJORITY: "§GThis party is selectable and should be selected.§!\n\nIt even reached enough votes to form a majority government on its own."
- COALITION_NEXT_OK: "§GYou seleted a party.§!\n\nWe can move on to creating our coalition now."
- COALITION_NEXT_NO: "§RYou didn't select a party yet!§!\n\nYou have to select one before we can move on."
- COALITION_NEXT_OK_2: "§GYour coalition has a majority!§!\n\nYou're well set to rule this country now."
- COALITION_NEXT_NO_2: "§RYour coalition doesn't have a majority!§!\n\nYou'll rule with a minority government."
+ COALITION_PARTY_MAJORITY: "§GЦю партію можна вибрати, і її потрібно вибрати.§!\n\nВона набрала достатньо голосів, щоб самостійно сформувати уряд більшості."
+ COALITION_NEXT_OK: "§GВи вибрали головну партію.§!\n\nЗараз ми можемо переходити до створення нашої коаліції."
+ COALITION_NEXT_NO: "§RВи ще не обрали головну партію!§!\n\nВи повинні спочатку вибрати якусь з партій."
+ COALITION_NEXT_OK_2: "§GВаша коаліція має більшість!§!\n\nТепер ви готові правити цією країною."
+ COALITION_NEXT_NO_2: "§RВаша коаліція не має більшість!§!\n\nВи будете правити з урядом меншості."
  COALITION_NEXT_GOV_FIRST: "§YВам потрібно спочатку вибрати лідера коалції!§!"
  COALITION_PARTY_RED: "§R"
  COALITION_PARTY_GREEN: "§G"
- COALITION_FINISHED_OK: "§GThe coalition formation is finished.§!\n\nWe can now move on."
- COALITION_FINISHED_NO: "§GThe coalition formation is not finished yet.§!\n\nWe can't move on."
- COALITION_POPULARITY_TEXT: "Our new coalition will have a popularity of §Y[?ROOT.NewCoalition]%§!"
- COALITION_MINORITY_GOV_TT: "With the currently selected parties, you're creating a §Rminority government!§."
- COALITION_UNSTABLE_TT: "The selected parties are §Yfar away from each other on the political spectrum§!. The coalition may become §Runstable.§!"
+ COALITION_FINISHED_OK: "§GФормування коаліції завершено.§!\n\nМи можемо іти далі."
+ COALITION_FINISHED_NO: "§GФормування коаліції не завершено.§!\n\nМи не можемо іти далі."
+ COALITION_POPULARITY_TEXT: "Наша нова коаліція матиме популярність §Y[?ROOT.NewCoalition]%§!"
+ COALITION_MINORITY_GOV_TT: "Ця коаліція утворить §Rуряд меншості!§."
+ COALITION_UNSTABLE_TT: "Ця коаліція має партії, які §Yпогано сходяться в поглядах§!. Вона буде §Rнестабільною.§!"
 
  #### Parliament Mechanic
  # Tooltips
