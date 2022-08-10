@@ -56,3 +56,6 @@
  FoG_one_party_presidential_republic: "однопар. презид. респуб."
  FoG_one_party_socialist_republic: "однопар. соціал. респуб."
  FoG_presidential_republic: "презид. респуб." 
+
+ CT_federal: "Федеративна [THIS.GetFormofGovernment]"
+ CT_unitary: "Унітарна [THIS.GetFormofGovernment]"

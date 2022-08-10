@@ -9,5 +9,5 @@ dependencies = {
 	"The Information Age 2018 - Jun 30, 2022"
 	"The Information Age 2018 - Jul 12, 2022"
 }
-name="The Information Age 2018 - Ukraine Translate"
+name="Український Переклад для The Information Age 2018"
 supported_version="1.11.12"
