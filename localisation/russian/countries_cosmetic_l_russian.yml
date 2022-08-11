@@ -576,6 +576,20 @@
  RSE_BOS_autonomy_autonomous_region: "Республіка Сербська"
  RSE_BOS_autonomy_autonomous_region_DEF: "Республіку Сербська"
 
+### BENILUX
+ FRS_HOL_autonomy_autonomous_region: "Провінція Фрисландія"
+ FRS_HOL_autonomy_autonomous_region_DEF: "Провінція Фрисландія"
+ WLN_BEL_autonomy_autonomous_region: "Валлонія"
+ WLN_BEL_autonomy_autonomous_region_DEF: "Валлонія"
+ FLN_BEL_autonomy_autonomous_region: "Фландрія"
+ FLN_BEL_autonomy_autonomous_region_DEF: "Фландрія"
+
+### GER
+ BAV_GER_autonomy_autonomous_region: "Земля Баварія"
+ BAV_GER_autonomy_autonomous_region_DEF: "Землю Баварія"
+ FRS_GER_autonomy_autonomous_region: "Автономний Район Фрисландія"
+ FRS_GER_autonomy_autonomous_region_DEF: "Автономний Район Фрисландія"
+
 ### ISS
  LNA_ISS_autonomy_autonomous_region: "Лівійський Вілаят"
  LNA_ISS_autonomy_autonomous_region_DEF: "Лівійський Вілаят"
