@@ -21,23 +21,32 @@ guiTypes = { #TO DO - MERGE ALL CONTAINERS
 			maxHeight = 24
 			fixedsize = yes
 		}
-			
-		iconType = {
-			name = "country_type_title"
-			quadTextureSprite ="pol_idea_texticon_20x20"
-			position = { x= -145 y = -201 }
-		}
 
-		instantTextboxType = {
-			name = "country_type"
-			position = { x= -119 y = -200 }
-			font = "hoi_16mbs"
-			text = "[THIS.GetCountryType]"
-			maxWidth = 500
-			maxHeight = 20
-			format = left
+		containerWindowType = {
+			name = "country_type_container"
+			position = { x = -145 y = -201 }	
+			size = { width = 175 height = 20 }
+			orientation = UPPER_LEFT
+			clipping = no
+			
+			iconType = {
+				name = "country_type_title"
+				quadTextureSprite ="GFX_country_type_small"
+				position = { x = 0 y = 0 }
+			}
+	
+			instantTextboxType = {
+				name = "country_type_text"
+				position = { x = 26 y = 0 }
+				font = "hoi_16mbs"
+				text = "[THIS.GetCountryType]"
+				maxWidth = 500
+				maxHeight = 20
+				format = left
+			}
 		}
 	}
+
 	containerWindowType = {
 		name = "parliament_diplomacy_container"
 		position = { x = 370 y = 223 }

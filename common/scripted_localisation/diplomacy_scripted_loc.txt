@@ -43,13 +43,13 @@ defined_text = {
 		trigger = {
 			has_idea = federal
 		}
-		localization_key = CT_federal # update loc later
+		localization_key = CT_federal
 	}
 	text = {
 		trigger = {
 			has_idea = unitary
 		}
-		localization_key = CT_unitary # update loc later
+		localization_key = CT_unitary
 	}
 }
 

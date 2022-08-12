@@ -61,7 +61,7 @@ guiTypes = {
 			
 				iconType = {
 					name = "faction_title"
-					quadTextureSprite ="GFX_relation_join_faction_20x20"
+					quadTextureSprite ="GFX_country_faction_small"
 					position = { x = -3 y = -0 }
 				}
 

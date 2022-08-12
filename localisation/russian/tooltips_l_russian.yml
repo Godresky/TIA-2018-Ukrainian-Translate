@@ -54,8 +54,9 @@
  FoG_parliamentary_republic: "парлам. респуб."
  FoG_absolute_monarchy: "абсолютна монархія"
  FoG_one_party_presidential_republic: "однопар. презид. респуб."
- FoG_one_party_socialist_republic: "однопар. соціал. респуб."
+ FoG_one_party_socialist_republic: "однопар. соціял. респуб."
  FoG_presidential_republic: "презид. респуб." 
 
  CT_federal: "Федеративна [THIS.GetFormofGovernment]"
  CT_unitary: "Унітарна [THIS.GetFormofGovernment]"
+ country_type: "[THIS.GetCountryType]"

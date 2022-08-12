@@ -34,7 +34,7 @@
  social_democrat_independent_desc: "§gIndependent§!\n\nThis political group is not a party, but an alliance of independent politicians, all following the ideology of §SSocial Democracy§!."
  progressive_independent: "§PНезалежні прогресивісти§!"
  progressive_independent_desc: "§gIndependent§!\n\nThis political group is not a party, but an alliance of independent politicians, all following the ideology of §PProgressivism§!."
- socialist_independent: "§DНезалежні соціалісти§!"
+ socialist_independent: "§DНезалежні соціялісти§!"
  socialist_independent_desc: "§gIndependent§!\n\nThis political group is not a party, but an alliance of independent politicians, all following the ideology of §DSocialism§!."
  communist_independent: "§CНезалежні комуністи§!"
  communist_independent_desc: "§gIndependent§!\n\nThis political group is not a party, but an alliance of independent politicians, all following the ideology of §CCommunism§!."
@@ -132,8 +132,8 @@
  libertarian_desc: "Party Subideology: §mLibertarianism§!\n\nLibertarianism is a political philosophy that supports capitalist property rights and defends market distribution of natural resources and private property. Libertarianism supports free-market capitalism, civil liberties, especially natural law, negative rights, and a major reversal of the modern welfare state. The libertarian theory of individual rights generally follows the homestead principle and the labor theory of property, stressing self-ownership and that people have an absolute right to the property that their labor produces."
 
  #Social Liberal
- social_liberal: "§sСоціал-лібералізм§!"
- social_liberal_noun: "Соціал-ліберал"
+ social_liberal: "§sСоціял-лібералізм§!"
+ social_liberal_noun: "Соціял-ліберал"
  social_liberal_desc: "Центр"
 
  agrarian: "Agrarianism"
@@ -144,11 +144,11 @@
  social_liberal_ideology_desc: "Social liberalism is a political ideology and a variety of liberalism that endorses a market economy and the expansion of civil and political rights while also believing that the legitimate role of the government includes addressing economic and social issues such as poverty, health care and education."
 
  #Social Democrat
- social_democrat: "§SСоціал-демократія§!"
- social_democrat_noun: "Соціал-демократ"
+ social_democrat: "§SСоціял-демократія§!"
+ social_democrat_noun: "Соціял-демократ"
  social_democrat_desc: "Лівоцентризм"
 
- social_democrat_ideology: "Соціал-демократія"
+ social_democrat_ideology: "Соціял-демократія"
  social_democrat_ideology_desc: "Social democracy is a political, social and economic ideology that supports economic and social interventions to promote social justice within the framework of a liberal democratic polity and capitalist economy. The protocols and norms used to accomplish this involve a commitment to representative and participatory democracy, measures for income redistribution and regulation of the economy in the general interest and welfare state provisions."
  kemalist: "Kemalism"
  kemalist_desc: "Party Subideology: §SKemalism§!\n\nKemalism is the founding ideology of the Republic of Turkey. Kemalism, as it was implemented by Mustafa Kemal Atatürk, was defined by sweeping political, social, cultural and religious reforms designed to separate the new Turkish state from its Ottoman predecessor and embrace a Westernized way of living, including the establishment of democracy, secularism, state support of the sciences and free education."
@@ -170,8 +170,8 @@
  anarcho_primitivist_desc: "Party Subideology: §PAnarcho-primitivism§!\n\nAnarcho-primitivism is a political ideology that advocates a return to non-civilized ways of life through deindustrialization, abolition of the division of labor or specialization and abandonment of large-scale organization technologies. Anarcho-primitivists critique the origins and progress of the Industrial Revolution and industrial society. According to anarcho-primitivism, the shift from hunter-gatherer to agricultural subsistence during the Neolithic Revolution gave rise to coercion, social alienation and social stratification."
 
  #Socialist
- socialist: "§DСоціалізм§!"
- socialist_noun: "Соціаліст"
+ socialist: "§DСоціялізм§!"
+ socialist_noun: "Соціяліст"
  socialist_desc: "Ліве крило"
 
  democratic_socialist: "Democratic socialism"
@@ -218,7 +218,7 @@
  kaysone_promvihane_thought_desc: "Party Subideology: §CKaysone Promvihane Thought§!\n\nKaysone Phomvihane Thought is a political philosophy that builds upon Marxism-Leninism and Ho Chi Minh Thought with the political philosophy developed by Kaysone Phomvihane, the first leader of the Communist Lao People's Revolutionary Party. Kaysone Phomvihane Thought is Marxism-Leninism adapted to Laotian circumstances and specific time periods.The ideology includes views on the basic issues of the Laotian Revolution, specifically the application and development of Marxism-Leninism to the material conditions of Laos. The contents of Kaysone Phomvihane Thought was codified and developed by the LPRP with help from the Communist Party of Vietnam."
  ho_chi_minh_thought: "Ho Chi Minh Thought"
  ho_chi_minh_thought_desc: "Party Subideology: §CHo Chi Minh Thought§!\n\nHo Chi Minh Thought is a political philosophy that builds upon Marxism-Leninism and the ideology of Ho Chi Minh. It was developed and codified by the Communist Party of Vietnam and formalised in 1991. The term is used to cover political theories and policies considered as representing a form of Marxism-Leninism that has been adapted to Vietnamese circumstances and history. The ideology includes views on the basic issues of the Vietnamese Revolution, specifically the development and application of Marxism-Leninism to the material conditions of Vietnam."
- socialist_with_chinese_characteristics: "Соціалізм з китайською специфікою"
- socialist_with_chinese_characteristics_desc: "Партійна субідеологія: §CСоціалізм з китайською специфікою§!\n\nСоціалізм із китайською специфікою — це набір політичних теорій і політики Комуністичної партії Китаю, які, на думку їхніх прихильників, представляють марксизм-ленінізм, адаптований до китайських умов і конкретних періодів часу, включаючи теорію Ден Сяопіна, три представники (Цзян Цземінь), Науковий погляд на розвиток (Ху Цзіньтао) і думка Сі Цзіньпіна про соціалізм із китайською специфікою для нової ери. З цієї точки зору, думка Сі Цзіньпіна вважається репрезентативною марксистсько-ленінською політикою, яка підходить для поточного стану Китаю, тоді як теорія Ден Сяопіна вважалася актуальною для періоду, коли вона була сформульована.\n\nТермін увійшов у загальне вживання в епоху Ден Сяопіна і був значною мірою пов’язаний із загальною програмою Дена щодо впровадження елементів ринкової економіки як засобу стимулювання зростання за допомогою іноземних інвестицій і підвищення продуктивності, тоді як КПК зберігала як своє офіційне зобов’язання досягти комунізму, так і свою монополію на політичну владу. Теорія стверджувала, що Китай перебуває на початковій стадії соціалізму через відносно низький рівень матеріяльного багатства та потребує економічного зростання, перш ніж перейти до більш егалітарної форми соціалізму, яка, у свою чергу, призведе до комуністичного суспільства, описаного в марксистській. православ'я."
+ socialist_with_chinese_characteristics: "Соціялізм з китайською специфікою"
+ socialist_with_chinese_characteristics_desc: "Партійна субідеологія: §CСоціялізм з китайською специфікою§!\n\nСоціялізм із китайською специфікою — це набір політичних теорій і політики Комуністичної партії Китаю, які, на думку їхніх прихильників, представляють марксизм-ленінізм, адаптований до китайських умов і конкретних періодів часу, включаючи теорію Ден Сяопіна, три представники (Цзян Цземінь), Науковий погляд на розвиток (Ху Цзіньтао) і думка Сі Цзіньпіна про соціялізм із китайською специфікою для нової ери. З цієї точки зору, думка Сі Цзіньпіна вважається репрезентативною марксистсько-ленінською політикою, яка підходить для поточного стану Китаю, тоді як теорія Ден Сяопіна вважалася актуальною для періоду, коли вона була сформульована.\n\nТермін увійшов у загальне вживання в епоху Ден Сяопіна і був значною мірою пов’язаний із загальною програмою Дена щодо впровадження елементів ринкової економіки як засобу стимулювання зростання за допомогою іноземних інвестицій і підвищення продуктивності, тоді як КПК зберігала як своє офіційне зобов’язання досягти комунізму, так і свою монополію на політичну владу. Теорія стверджувала, що Китай перебуває на початковій стадії соціялізму через відносно низький рівень матеріяльного багатства та потребує економічного зростання, перш ніж перейти до більш егалітарної форми соціялізму, яка, у свою чергу, призведе до комуністичного суспільства, описаного в марксистській. православ'я."
  peoples_multiparty_democracy: "People's Multiparty Democracy"
  peoples_multiparty_democracy_desc: "Party Subideology: §CPeople's Multiparty Democracy§!\n\nPeople's Multiparty Democracy refers to the ideological line of the Nepal Communist Party. It was proclaimed in 1993. This thought abandons the traditional Leninist idea of a revolutionary communist vanguard party in favor of a democratic multi-party system. It is considered an extension of Marxism–Leninism by Madan Bhandari, the NCP leader who developed it, and is based on the home-ground politics of Nepal."
