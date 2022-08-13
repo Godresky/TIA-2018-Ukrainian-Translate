@@ -68,7 +68,7 @@ STATE_OWNER_MODIFIER_INFO: "Регіон отримує наступні мод�
  STATE_TITLE_CANTON: "§GКантон§!"
  STATE_TITLE_VOIVODESHIP: "§GВоєводство§!"
  STATE_TITLE_DISTRICT: "§GРайон§!"
- STATE_TITLE_CAPITAL_DISTRICT: "§GСтоличний Район§!"
+ STATE_TITLE_CAPITAL_DISTRICT: "§GСтоличний район§!"
  STATE_TITLE_COUNTY: "§GПовіт§!"
  STATE_TITLE_REGION: "§GРегіон§!"
  STATE_TITLE_DEPARTMENT: "§GДепартамент§!"
