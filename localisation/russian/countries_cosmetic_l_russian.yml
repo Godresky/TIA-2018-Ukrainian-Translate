@@ -555,16 +555,9 @@
  FAI_DEN_autonomy_autonomous_region_DEF: "Фарерські Острови"
  GRN_DEN_autonomy_autonomous_region: "Ґренландія"
  GRN_DEN_autonomy_autonomous_region_DEF: "Ґренландію"
- GRS_ENG_autonomy_autonomous_region: "Бейлівік Ґернсі"
- GRS_ENG_autonomy_autonomous_region_DEF: "Бейлівік Ґернсі"
+
  IRK_IRQ_autonomy_autonomous_region: "Іракський Курдистан"
  IRK_IRQ_autonomy_autonomous_region_DEF: "Іракський Курдистан"
- JRS_ENG_autonomy_autonomous_region: "Бейлівік Джерсі"
- JRS_ENG_autonomy_autonomous_region_DEF: "Бейлівік Джерсі"
- MNN_ENG_autonomy_autonomous_region: "Острів Мен"
- MNN_ENG_autonomy_autonomous_region_DEF: "Острів Мен"
- NIR_ENG_autonomy_autonomous_region: "Північна Ірландія"
- NIR_ENG_autonomy_autonomous_region_DEF: "Північна Ірландія"
  PRK_KOR_autonomy_autonomous_region: "Комітет П'яти Північних Провінцій"
  PRK_KOR_autonomy_autonomous_region_DEF: "Комітет П'яти Північних Провінцій"
  SOS_GEO_autonomy_autonomous_region: "Автономна Республіка Південна Осетія"
@@ -589,6 +582,30 @@
  BAV_GER_autonomy_autonomous_region_DEF: "Землю Баварія"
  FRS_GER_autonomy_autonomous_region: "Автономний Район Фрисландія"
  FRS_GER_autonomy_autonomous_region_DEF: "Автономний Район Фрисландія"
+
+### ENG
+ GRS_ENG_autonomy_autonomous_region: "Бейлівік Ґернсі"
+ GRS_ENG_autonomy_autonomous_region_DEF: "Бейлівік Ґернсі"
+ ALD_ENG_autonomy_autonomous_region: "Бейлівік Олдерні"
+ ALD_ENG_autonomy_autonomous_region_DEF: "Бейлівік Олдерні"
+ JRS_ENG_autonomy_autonomous_region: "Бейлівік Джерсі"
+ JRS_ENG_autonomy_autonomous_region_DEF: "Бейлівік Джерсі"
+ MNN_ENG_autonomy_autonomous_region: "Острів Мен"
+ MNN_ENG_autonomy_autonomous_region_DEF: "Острів Мен"
+ SCO_ENG_autonomy_autonomous_region: "Шотландія"
+ SCO_ENG_autonomy_autonomous_region_DEF: "Шотландію"
+ WLS_ENG_autonomy_autonomous_region: "Уельс"
+ WLS_ENG_autonomy_autonomous_region_DEF: "Уельс"
+ NIR_ENG_autonomy_autonomous_region: "Північна Ірландія"
+ NIR_ENG_autonomy_autonomous_region_DEF: "Північну Ірландію"
+ YRK_ENG_autonomy_autonomous_region: "Йоркшир"
+ YRK_ENG_autonomy_autonomous_region_DEF: "Йоркшир"
+ CRN_ENG_autonomy_autonomous_region: "Корнволл"
+ CRN_ENG_autonomy_autonomous_region_DEF: "Корнволл"
+
+### Ocean
+ MAU_ENG_autonomy_autonomous_region: "$OVERLORDADJ$ий Маврикій"
+ MAU_ENG_autonomy_autonomous_region_DEF: "$OVERLORDADJ$ий Маврикій"
 
 ### S. America
  GYA_ENG_autonomy_autonomous_region: "$OVERLORDADJ$а Ґвіана"
