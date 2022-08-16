@@ -332,10 +332,8 @@
  idea_the_holy_see_desc: "Оскільки Місто-Держава Ватикан є окремою територіяльною власністю Святого Престолу, воно підтримує чудові стосунки з іншими католицькими націями та має значний дипломатичний вплив через Главу Держави та Главу Католицької Церкви, Папу Римського."
 
  #Japan
- japanese_article_9: "Стаття 9"
- japanese_article_9_desc: "Article 9 of the Japanese Constitution forbids the Japanese state to ever use its army in anything but absolute self-defense."
- japanese_article_9_adapted: "Переглянута стаття 9"
- japanese_article_9_adapted_desc: "While the Japanese government still cannot go into aggressive warfare according to Article 9, it is now allowed to aid its allies and to deploy its armed forces outside of Japanese territory."
+ idea_article_9: "Стаття 9"
+ idea_article_9_desc: "Стаття 9 Конституції Японії — це положення в національній Конституції Японії, яке забороняє війну як засіб вирішення міжнародних суперечок за участю нашої держави. Конституція набула чинності 3 травня 1947 року після Другої світової війни. У його тексті держава офіційно відмовляється від суверенного права ведення війни та прагне до міжнародного миру, заснованого на справедливості та порядку. У статті також зазначено, що для досягнення цих цілей збройні сили з військовим потенціалом підтримуватися не будуть.\n\nЧерез статтю 9, Японії конституційно заборонено оголошувати війну іншим націям, а також заборонено брати участь у військовій службі."
 
  #People's Republic of China
  idea_great_firewall: "Великий брандмауер"

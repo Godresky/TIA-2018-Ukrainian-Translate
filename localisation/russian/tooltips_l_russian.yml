@@ -50,13 +50,12 @@
  TT_treasury_surplus: "Надлишок в скарбниці"
 
  # Country Type Scripted Localisation
+ CT_devolved: "Девольована [THIS.GetFormofGovernment]"
+ CT_federal: "Федеративна [THIS.GetFormofGovernment]"
+ CT_unitary: "Унітарна [THIS.GetFormofGovernment]"
  FoG_parliamentary_constitutional_monarchy: "парлам. констит. монархія"
  FoG_parliamentary_republic: "парлам. респуб."
  FoG_absolute_monarchy: "абсолютна монархія"
  FoG_one_party_presidential_republic: "однопар. презид. респуб."
  FoG_one_party_socialist_republic: "однопар. соціял. респуб."
  FoG_presidential_republic: "презид. респуб." 
-
- CT_federal: "Федеративна [THIS.GetFormofGovernment]"
- CT_unitary: "Унітарна [THIS.GetFormofGovernment]"
- country_type: "[THIS.GetCountryType]"

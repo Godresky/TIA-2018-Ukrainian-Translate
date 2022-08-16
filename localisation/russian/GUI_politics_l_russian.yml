@@ -4,7 +4,6 @@
  COALITION_SUPPORT_DIPLO: "[?FROM.Coalition]%"
  COALITION_TOOLTIP: "\n§YПідтримка уряду§!\n[This.GetMajorityMinorityGov]\n\nУряд §Y[ROOT.GetLeader]§! утримує §Y[?ROOT.Coalition]%§! місць в §Y[ROOT.GetParliamentName]§!, а воно включає такі політичні групи:\n\n§Y[This.GetCoalitionMember1][This.GetCoalitionMember2][This.GetCoalitionMember3][This.GetCoalitionMember4][This.GetCoalitionMember5][This.GetCoalitionMember6][This.GetCoalitionMember7][This.GetCoalitionMember8][This.GetCoalitionMember9][This.GetCoalitionMember10][This.GetCoalitionMember11][This.GetCoalitionMember12]§!"
  COALITION_TOOLTIP_DIPLO: "\n§YПідтримка уряду§!\n[FROM.GetMajorityMinorityGov]\n\nУряд §Y[FROM.GetLeader]§! утримує §Y[?FROM.Coalition]%§! місць в §Y[FROM.GetParliamentName]§!, а воно включає такі політичні групи:\n\n§Y[This.GetCoalitionMember1][This.GetCoalitionMember2][This.GetCoalitionMember3][This.GetCoalitionMember4][This.GetCoalitionMember5][This.GetCoalitionMember6][This.GetCoalitionMember7][This.GetCoalitionMember8][This.GetCoalitionMember9][This.GetCoalitionMember10][This.GetCoalitionMember11][This.GetCoalitionMember12]§!"
- POPULATION_TOOLTIP: "\n§YPopulation§!" #TEMPORARY - Will migrate
  SPEAKER: "Спікер"
  COMPOSITION: "Політичний Склад"
 
