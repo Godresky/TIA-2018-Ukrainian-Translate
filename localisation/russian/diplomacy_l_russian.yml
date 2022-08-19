@@ -1030,5 +1030,7 @@ THEIR_FEAR: "Їхній страх перед нами: $FEAR|H$"
 
  ### International Organizations
  org_african_union: "Африканський Союз"
- org_commonwealth_of_nations: "the Commonwealth of Nations"
- org_baltic_assembly: "the Baltic Assembly"
+ org_commonwealth_of_nations: "Співдружність націй"
+ org_baltic_assembly: "Балтійська асамблея"
+ org_benelux_union: "Бенілюкс"
+ org_east_african_community: "Східноафриканське співтовариство" 

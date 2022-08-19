@@ -1,17 +1,17 @@
 ﻿l_russian:
  #Modifiers
- islamist_drift: "Drift towards Islamism"
- fascist_drift: "Drift towards Fascism"
- right_wing_nationalist_drift: "Drift towards Right-Wing Nationalism"
- monarchist_drift: "Drift towards Monarchy"
- national_conservative_drift: "Drift towards National Conservatism"
- conservative_drift: "Drift towards Conservatism"
- classical_liberal_drift: "Drift towards Classical Liberalism"
- social_liberal_drift: "Drift towards Social Liberalism"
- social_democrat_drift: "Drift towards Social Democracy"
- progressive_drift: "Drift towards Progressivism"
- socialist_drift: "Drift towards Socialism"
- communist_drift: "Drift towards Communism"
+ islamist_drift: "Дрейф в сторону §Gісламізму§!"
+ fascist_drift: "Дрейф в сторону §Fфашизму§!"
+ right_wing_nationalist_drift: "Дрейф в сторону §Nправого націоналізму§!"
+ monarchist_drift: "Дрейф в сторону §xмонархізму§!"
+ national_conservative_drift: "Дрейф в сторону §rнац-консерватизму§!"
+ conservative_drift: "Дрейф в сторону §cконсерватизму§!"
+ classical_liberal_drift: "Дрейф в сторону §mклас-лібералізму§!"
+ social_liberal_drift: "Дрейф в сторону §sсоціял-лібералізму§!"
+ social_democrat_drift: "Дрейф в сторону §Sсоціял-демократії§!"
+ progressive_drift: "Дрейф в сторону §Pпрогресивізму§!"
+ socialist_drift: "Дрейф в сторону §Dсоціялізму§!"
+ communist_drift: "Дрейф в сторону §Cкомунізму§!"
 
  #Independents
  islamist_independent: "§GНезалежні ісламісти§!"
@@ -41,7 +41,7 @@
 
  #Islamist
  islamist: "§GІсламізм§!"
- islamist_noun: "Ісламіст"
+ islamist_noun: "§GІсламізм§!"
  islamist_desc: "Універсальна партія"
 
  islamist_ideology: "Islamism"
@@ -55,7 +55,7 @@
 
  #Fascist
  fascist: "§FФашизм§!"
- fascist_noun: "Фашист"
+ fascist_noun: "§FФашизм§!"
  fascist_desc: "Крайні праві"
 
  fascist_ideology: "Фашизм"
@@ -73,7 +73,7 @@
 
  #Right-Wing Nationalist
  right_wing_nationalist: "§NПравий Націоналізм§!"
- right_wing_nationalist_noun: "Правий Націоналіст"
+ right_wing_nationalist_noun: "§NПравий Націоналізм§!"
  right_wing_nationalist_desc: "Крайні праві"
 
  right_wing_nationalist_ideology: "Right-wing nationalism"
@@ -83,7 +83,7 @@
 
  #Monarchist
  monarchist: "§xМонархізм§!"
- monarchist_noun: "Монархіст"
+ monarchist_noun: "§xМонархізм§!"
  monarchist_desc: "Універсальна партія"
 
  monarchist_ideology: "Monarchism"
@@ -93,7 +93,7 @@
 
  #National Conservative
  national_conservative: "§rНац-консерватизм§!"
- national_conservative_noun: "Нац-консерватор"
+ national_conservative_noun: "§rНац-консерватизм§!"
  national_conservative_desc: "Праве крило"
 
  national_conservative_ideology: "Націонал-консерватизм"
@@ -105,7 +105,7 @@
 
  #Conservative
  conservative: "§cКонсерватизм§!"
- conservative_noun: "Консерватор"
+ conservative_noun: "§cКонсерватизм§!"
  conservative_desc: "Правоцентризм"
 
  social_conservative: "Social Conservatism"
@@ -123,7 +123,7 @@
 
  #Classical Liberal
  classical_liberal: "§mКлас-лібералізм§!"
- classical_liberal_noun: "Класичний Ліберал"
+ classical_liberal_noun: "§mКлас-лібералізм§!"
  classical_liberal_desc: "Правоцентризм"
 
  classical_liberal_ideology: "Класичний Лібералізм"
@@ -133,7 +133,7 @@
 
  #Social Liberal
  social_liberal: "§sСоціял-лібералізм§!"
- social_liberal_noun: "Соціял-ліберал"
+ social_liberal_noun: "§sСоціял-лібералізм§!"
  social_liberal_desc: "Центр"
 
  agrarian: "Agrarianism"
@@ -145,7 +145,7 @@
 
  #Social Democrat
  social_democrat: "§SСоціял-демократія§!"
- social_democrat_noun: "Соціял-демократ"
+ social_democrat_noun: "§SСоціял-демократія§!"
  social_democrat_desc: "Лівоцентризм"
 
  social_democrat_ideology: "Соціял-демократія"
@@ -157,7 +157,7 @@
 
  #Progressive
  progressive: "§PПрогресивізм§!"
- progressive_noun: "Прогресивіст"
+ progressive_noun: "§PПрогресивізм§!"
  progressive_desc: "Лівоцентризм"
 
  green: "Зелені"
@@ -171,7 +171,7 @@
 
  #Socialist
  socialist: "§DСоціялізм§!"
- socialist_noun: "Соціяліст"
+ socialist_noun: "§DСоціялізм§!"
  socialist_desc: "Ліве крило"
 
  democratic_socialist: "Democratic socialism"
@@ -201,7 +201,7 @@
 
  #Communist
  communist: "§CКомунізм§!"
- communist_noun: "Комуніст"
+ communist_noun: "§CКомунізм§!"
  communist_desc: "Крайні ліві"
 
  marxist_leninist: "Marxism-Leninism"
