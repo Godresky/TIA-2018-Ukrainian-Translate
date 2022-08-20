@@ -48,7 +48,7 @@ TRADE_ROUTE_DELIVERY_TYPE_SEA: "§T$VAL|H$ доставляється по §Hм
 CONVOYS_USAGE_DESC: "§TУ нас є $TOT|H$ конвої(в).\nУсього використано: $USED|H$\nВикористання/потреба:\n - Для морських вторгнень: $B_USE|H$/$B_NEED|H$\n - Для переправлення військ: $T_USE|H$/$T_NEED|H$\n - Для торгівлі й постачання: $S_USE|H$/$S_NEED|H$\nНевикористано: $LEFT|H$§!"
 CONVOYS: "Конвої"
  CANCEL_RESOURCE_IMPORT: "Скасувати весь імпорт ресурсу"
-CONVOYS_USAGE_DELAYED: "Конвої використовуються під час імпорту ресурсів по морю з інших держав, внутрішньому транспортуванні ресурсів і доставці припасів військам у колоніях."
+CONVOYS_USAGE_DELAYED: "§YКонвої§! використовуються під час імпорту §Yресурсів§! по морю з інших держав, внутрішньому транспортуванні §Yресурсів§! і доставці §Yприпасів військам§! у колоніях."
 RESOURCE_DETAILS_SURPLUS: "У нас є $TOTAL|H$ од. ресурсу $RESOURCE|H$.\n\nПотрібно для виробничих ліній: $NEEDED|H$\nНадлишок: $SURPLUS|G$"
 RESOURCE_DETAILS_DEFICIT: "У нас є $TOTAL|H$ од. ресурсу $RESOURCE|H$.\n\nПотрібно для виробничих ліній: $NEEDED|H$\nНестача: $DEFICIT|R$"
 RESOURCE_DETAILS_FUEL: "У нас є $TOTAL|H$ од. ресурсу $RESOURCE|H$.\n\nПоточне споживання: $ACTIVE_FUEL|H$\nМаксимальне споживання: $POTENTIAL_FUEL|H$"

@@ -46,8 +46,8 @@ EXILE_TEMPLATE_DESC: "Це шаблон військ вигнанців держ
 CONSTRUCTION_MASTER_BUILDING_LEVELS: "Держава $MASTER|H$ зараз будує $LVL|H$ рівні(в) споруди $BUILDING|H$ для нас."
 CONSTRUCTION_MASTER_BUILDING_REDUCE_LEVELS: "Ми можемо знизити рівень цієї споруди лише на $LVL|R$."
 CONSTRUCTION_MASTER_BUILDING_CANT_REDUCE: "§RМи не можемо знизити рівень цієї споруди або скасувати її будівництво.§!"
-CONSTRUCTION_INFO_MASTER: "Ми будуємо цю споруду на території держави $WHO|H$. Якщо ми не задіємо всі заводи, вони можуть допомогти нам своїми."
-CONSTRUCTION_INFO_SUBJECT: "Держава $WHO|H$ будує цю споруду для нас. Якщо вони не задіють усі заводи, ми можемо допомогти їм своїми."
+CONSTRUCTION_INFO_MASTER: "Ми будуємо цю споруду на території держави $WHO|H$. Якщо ми не задіємо всі промисловості, вони можуть допомогти нам своїми."
+CONSTRUCTION_INFO_SUBJECT: "Держава $WHO|H$ будує цю споруду для нас. Якщо вони не задіють усі промисловості, ми можемо допомогти їм своїми."
 
  #Autonomy Levels
  autonomy_puppet_state: "Маріонеткова Держава"

@@ -5,8 +5,8 @@
  option.newCountry: "На світову арену виходить нова країна."
 
  #Belgium
- belgium.1.t: "Політичні реформи в державі [BEL.GetNonIdeologyName]"
- belgium.1.d: "Ми були глибоко незадоволені неефективними політичними системами, які нав’язали нам наші лідери. Час виправити нашу систему, позбутися кількох наших парламентів і зробити [BEL.GetNonIdeologyNameDef] знову великою."
+ belgium.1.t: "Політичні реформи в державі [BEL.GetFlag][BEL.GetNonIdeologyNameDef]"
+ belgium.1.d: "Ми були глибоко незадоволені неефективними політичними системами, які нав’язали нам наші лідери. Час виправити нашу систему, позбутися кількох наших парламентів і зробити державу [BEL.GetFlag][BEL.GetNonIdeologyNameDef] знову великою."
  belgium.1.o1: "Давайте зробимо це!"
 
  #Elections
@@ -34,10 +34,10 @@
  election.6.o1: "§PПереглянути результати виборів§!"
 
  #Factions
- factions.1.t: "[From.GetName] приєдналася в НАТО"
- factions.1.d: "Після нещодавніх національних дебатів і дискусій [From.GetName] офіційно оголосила про свій вступ до Організації Північноатлантичного договору, приєднавшись до безлічі інших країн у великому військовому пакті. [From.GetLeaderTitle] [From.GetLeader] заявляє, що членство покращить співпрацю із західними країнами у сфері безпеки. [USA.GetLeaderTitle] [USA.GetLeader] похвалив [From.GetNameDef] за її відданість глобальній безпеці."
+ factions.1.t: "Держава [From.GetFlag][From.GetNameDef] приєдналася в НАТО"
+ factions.1.d: "Після нещодавніх національних дебатів і дискусій [From.GetFlag][From.GetNonIdeologyNameDef] офіційно оголосила про свій вступ до Організації Північноатлантичного договору, приєднавшись до безлічі інших країн у великому військовому пакті. [From.GetLeaderTitle] [From.GetLeader] заявявив, що членство покращить співпрацю із західними країнами у сфері безпеки. [USA.GetLeaderTitle] [USA.GetLeader] похвалив [From.GetAdjective]ий уряд за його відданість глобальній безпеці."
  factions.1.o1: "НАТО знову розширюється!"
- factions.2.t: "[From.GetName] покинула НАТО!"
+ factions.2.t: "Держава [From.GetFlag][From.GetNameDef] покинула НАТО!"
  factions.2.d: "[From.GetLeaderTitle] [From.GetLeader] сьогодні оголосив про намір країни негайно вийти з Організації Північноатлантичного договору. Це послабить військовий пакт."
  factions.2.o1: "Хороший вибір."
  factions.2.o2: "Цікаво."
@@ -163,8 +163,8 @@
  britain.17.o1: "We suppose that's that."
 
  #Islamic State
- isis.1.t: "Кінець угруповування [ISS.GetName]"
- isis.1.d: "Після багатьох років кампанії іноземних бомбардувань СООГ-ОНР, а також наземної війни, яку вели [IRQ.GetName], [FSA.GetName], [SYR.GetName] та інші, [ISS.GetName] втратила всю свою територію, зокрема в Сирії, Іраку, Афганістані, Ємені та Лівії. Із закінченням халіфату іноземні бойовики повертаються до своїх країн, і невеликий відсоток підрозділів переходить до партизанської війни."
+ isis.1.t: "Кінець угруповування [ISS.GetNameDef]"
+ isis.1.d: "Після багатьох років кампанії іноземних бомбардувань СООГ-ОНР, а також наземної війни, яку вели [IRQ.GetFlag][IRQ.GetName], [FSA.GetFlag][FSA.GetName], [SYR.GetFlag][SYR.GetName] та інші, [ISS.GetName] втратила всю свою територію, зокрема в Сирії, Іраку, Афганістані, Ємені та Лівії. Із закінченням халіфату іноземні бойовики повертаються до своїх країн, і невеликий відсоток підрозділів переходить до партизанської війни."
  isis.1.o1: "Боже, Сирія, Башар!"
  isis.1.o2: "Хай живе Курдистан!"
  isis.1.o3: "Аллах, спасе нас!"
@@ -339,24 +339,24 @@
  coup.13.o1: "Glad it's over!"
 
  #Politics
- politics.1.t: "В державі [FROM.GetNonIdeologyName] скандал через можливу фальсифікацію виборів"
+ politics.1.t: "В державі [FROM.GetFlag][FROM.GetNonIdeologyNameDef] скандал через можливу фальсифікацію виборів"
  politics.1.d: "Міжнародні спостерігачі за виборами розпочали розслідування проти [FROM.GetAdjective]ої влади, оскільки останні вибори в країні виявили надзвичайно велику кількість розбіжностей. Зараз багато хто підозрює, що уряд [FROM.GetLeader] сфальсифікував вибори на свою користь, скориставшись перевагами авторитарних інститутів країни. На прес-конференції в [FROM.Capital.GetName] представник опозиції засуджував уряд як тиранічний, перш ніж його забрали озброєні поліцейські."
  politics.1.o1: "Така ганебна поведінка!"
  politics.1.o2: "Такі безглузді звинувачення!"
- politics.2.t: "[FROM.GetName] переходить до демократії"
- politics.2.d: "Правозахисні організації та ООН високо оцінили [FROM.GetAdjective]ий уряд на чолі з [FROM.GetLeader], оскільки країна оголосила про свій намір офіційно дозволити існування опозиційних партій і провести вибори. Хоча правляча [FROM.GetRulingParty] поки що залишається при владі, опозиційні партії тепер зможуть усунути її на наступних виборах. Але чи будуть ці вибори вільними та справедливими, залишається тільки побачити." 
+ politics.2.t: "[FROM.GetFlag][FROM.GetName] переходить до демократії"
+ politics.2.d: "Правозахисні організації та ООН високо оцінили [FROM.GetFlag][FROM.GetAdjective]ий уряд на чолі з [FROM.GetLeader], оскільки країна оголосила про свій намір офіційно дозволити існування опозиційних партій і провести вибори. Хоча правляча [FROM.GetRulingParty] поки що залишається при владі, опозиційні партії тепер зможуть усунути її на наступних виборах. Але чи будуть ці вибори вільними та справедливими, залишається тільки побачити." 
  politics.2.o1: "Сміливий крок!"
  politics.2.o2: "Ми любимо демократію!"
- politics.3.t: "[FROM.GetName] повертає в сторону тоталітаризму"
- politics.3.d: "Політичний ландшафт в державі [FROM.GetNonIdeologyName] кардинально змінився, оскільки уряд під керівництвом [FROM.GetLeader] ([FROM.GetRulingParty]) оголосив про свій намір заборонити опозиційні партії та скасувати демократичні вибори. Уряд посилався на необхідність стабілізації держави та протидії зовнішньому впливу на опозиційні партії. Проте уряд засуджується багатьма країнами, групами та організаціями на міжнародному рівні. Оскільки вся опозиція заборонена, то для [FROM.GetAdjective]ого уряду видний шлях до позбавлення ще більшої кількості свобод і, можливо, перетворення на повноцінну тоталітарну диктатуру." 
+ politics.3.t: "[FROM.GetFlag][FROM.GetName] повертає в сторону тоталітаризму"
+ politics.3.d: "Політичний ландшафт в державі [FROM.GetFlag][FROM.GetNonIdeologyNameDef] кардинально змінився, оскільки уряд під керівництвом [FROM.GetLeader] ([FROM.GetRulingParty]) оголосив про свій намір заборонити опозиційні партії та скасувати демократичні вибори. Уряд посилався на необхідність стабілізації держави та протидії зовнішньому впливу на опозиційні партії. Проте він засуджується багатьма країнами, групами та організаціями на міжнародному рівні. Оскільки вся опозиція заборонена, то для [FROM.GetFlag][FROM.GetAdjective]ого уряду видний шлях до позбавлення ще більшої кількості свобод і, можливо, перетворення на повноцінну тоталітарну диктатуру." 
  politics.3.o1: "Дуже безвідповідально."
  politics.3.o2: "Нам потрібно було це зробити!"
- politics.4.t: "Кінець [FROM.GetAdjective]ій монархії"
- politics.4.d: "Нова ера почалася в державі [FROM.GetName], оскільки уряд під керівництвом [FROM.GetLeader] ([FROM.GetRulingParty]) успішно ухвалив конституційну поправку про скасування монархії в країні. Незважаючи на те, що монархія не має великої політичної влади, республіканці називали марну витрату податкових грошей, уявну відсталість і потребу в некоролівському главі держави як причини стати республікою."
+ politics.4.t: "Кінець [FROM.GetFlag][FROM.GetAdjective]ій монархії"
+ politics.4.d: "Нова ера почалася в державі [FROM.GetFlag][FROM.GetNonIdeologyNameDef], оскільки уряд під керівництвом [FROM.GetLeader] ([FROM.GetRulingParty]) успішно ухвалив конституційну поправку про скасування монархії в країні. Незважаючи на те, що монархія не має великої політичної влади, республіканці називали марну витрату податкових грошей, уявну відсталість і потребу в некоролівському главі держави як причини стати республікою."
  politics.4.o1: "Чи слід це було робити?"
  politics.4.o2: "Чудове рішення!"
- politics.5.t: "[FROM.GetName] розриває відносини з [ENG.GetAdjective]ою монархією"
- politics.5.d: "Нова ера почалася в державі [FROM.GetNonIdeologyName], оскільки уряд під керівництвом [FROM.GetLeader] ([FROM.GetRulingParty]) успішно ухвалив поправку до конституції, щоб офіційно розірвати зв’язки з [ENG.GetAdjective]ою монархією та стати республікою. Після здобуття незалежності від Британської імперії [FROM.GetName] була в Королівстській Співдружності, у якій британський монарх залишався главою держави, а монарх був представлений у країні призначеним генерал-губернатором. Оскільки [FROM.GetAdjective]і люди залишають монархію позаду, повний демонтаж залишків структур колишньої Британської імперії стає все ближчим."
+ politics.5.t: "[FROM.GetFlag][FROM.GetName] розриває відносини з [ENG.GetAdjective]ою монархією"
+ politics.5.d: "Нова ера почалася в державі [FROM.GetFlag][FROM.GetNonIdeologyNameDef], оскільки уряд під керівництвом [FROM.GetLeader] ([FROM.GetRulingParty]) успішно ухвалив поправку до конституції, щоб офіційно розірвати зв’язки з [ENG.GetFlag][ENG.GetAdjective]ою монархією та стати республікою. Після здобуття незалежності від Британської імперії держава [FROM.GetFlag][FROM.GetNonIdeologyNameDef] була в Королівстській Співдружності, у якій британський монарх залишався главою держави, а монарх був представлений у країні призначеним генерал-губернатором. Оскільки [FROM.GetFlag][FROM.GetAdjective]і люди залишають монархію позаду, повний демонтаж залишків структур колишньої Британської імперії стає все ближчим."
  politics.5.o1: "Дуже прикро!"
  politics.5.o2: "Хороша робота!"
  politics.6.t: "Зростання підтримки антиміграційних партій"
@@ -365,15 +365,15 @@
  politics.7.t: "Організовані робочі мітинги соц-демократами"
  politics.7.d: "Значною мірою через ворожу політику нашої нації щодо організованої праці багато робітників звертаються до §SСоц-демократичної§! партія, яка пообіцяла скасувати ворожу профспілкам політику нинішнього уряду."
  politics.7.o1: "Як і очікувалося."
- politics.8.t: "[FROM.GetNonIdeologyName] призначає дострокові парламентські вибори"
+ politics.8.t: "[FROM.GetFlag][FROM.GetName] призначає дострокові парламентські вибори"
  politics.8.d: "Electoral campaigning has started once again in [FROM.Capital.GetName], the [FROM.GetAdjective] capital, as President [FROM.GetLeader] announces the dissolution of the [FROM.GetParliamentName]. As the sitting government currently commands a parliamentary minority, the intent of the move is obvious; increasing the government's legislative power in the [FROM.GetParliamentName], possibly even gaining a majority. However, the gamble may backfire, as voters could instead reduce the power of the government party. It'll all be decided in 30 days."
  politics.8.o1: "Давайте виграємо їх!"
  politics.8.o2: "Справді азартна гра."
- politics.9.t: "[FROM.GetName] змінює визнання на [PRC.GetNameDef]"
+ politics.9.t: "[FROM.GetFlag][FROM.GetName] змінює визнання на державу [CHI.GetFlag][PRC.GetNameDef]"
  politics.9.d: "[FROM.GetAdjective] foreign policy has taken a rapid turn. The government under [FROM.GetLeader] ([FROM.GetRulingParty]) has declared its intention to officially establish diplomatic relations with [PRC.GetNameDef], having previously recognized [CHI.GetNameDef] as the legitimate representative of China. [FROM.GetLeader] officially claims that the government has deemed diplomatic collaboration with [PRC.GetNameDef] to be more beneficial than the previous arrangement. The true reason behind the move is however up to anyone's guess."
  politics.9.o1: "Чудовий вибір!"
  politics.9.o2: "Невдалий вибір."
- politics.10.t: "[FROM.GetName] змінює визнання на [CHI.GetNameDef]"
+ politics.10.t: "[FROM.GetFlag][FROM.GetName] змінює визнання на державу [CHI.GetFlag][CHI.GetNameDef]"
  politics.10.d: "[FROM.GetAdjective] foreign policy has taken a rapid turn. The government under [FROM.GetLeader] ([FROM.GetRulingParty]) has declared its intention to officially establish diplomatic relations with [CHI.GetNameDef], having previously recognized [PRC.GetNameDef] as the legitimate representative of China. [FROM.GetLeader] officially claims that the government has deemed [CHI.GetNameDef] to be a more lucrative diplomatic partner for the [FROM.GetAdjective] people. The true reason behind the move is however up to anyone's guess."
  politics.10.o1: "Невдалий вибір."
  politics.10.o2: "Чудовий вибір!"
@@ -383,11 +383,11 @@
  politics.12.t: "[FROM.GetAdjective] government ousted in no-confidence vote"
  politics.12.d: "A snap parliamentary election is underway in [FROM.GetNameDef], following a no-confidence vote in the [FROM.GetParliamentName] that resulted in the ousting of sitting government, headed by [FROM.GetLeader] ([FROM.GetRulingParty]). The opposition MP that introduced the motion cited the disastrous approval ratings of the sitting government as the main reason for the move. It remains to be seen what new kind of government will be formed in 30 days."
  politics.12.o1: "Politics..."
- politics.13.t: "[FROM.GetParliamentName] затверджує новий уряд більшості в державі [FROM.GetNonIdeologyName]"
- politics.13.d: "Новий уряд більшості в державі [FROM.GetName] був офіційно затверджений у стінах будівлі [FROM.GetParliamentName], під час процесу обрання [FROM.GetLeader] ([FROM.GetRulingParty]) наступним [FROM.GetLeaderTitle] країни. Завдяки тому, що новий уряд має більшість місць, він має потужний законодавчий мандат, який дозволить йому керувати проактивно."
+ politics.13.t: "[FROM.GetParliamentName] затверджує новий уряд більшості в державі [FROM.GetFlag][FROM.GetNameDef]"
+ politics.13.d: "Новий уряд більшості в державі [FROM.GetFlag][FROM.GetName] був офіційно затверджений у стінах будівлі [FROM.GetParliamentName], під час процесу обрання [FROM.GetLeader] ([FROM.GetRulingParty]) наступним [FROM.GetLeaderTitle] країни. Завдяки тому, що новий уряд має більшість місць, він має потужний законодавчий мандат, який дозволить йому керувати проактивно."
  politics.13.o1: "Демократія працює."
- politics.14.t: "[FROM.GetParliamentName] затверджує новий уряд меншості в державі [FROM.GetNonIdeologyName]"
- politics.14.d: "Новий уряд меншості в державі [FROM.GetName] був офіційно затверджений у будівлі [FROM.GetParliamentName], у процесі обрання [FROM.GetLeader] ([FROM.GetRulingParty]) наступним [FROM.GetLeaderTitle] країни. Законодавці країни не змогли домовитися про коаліційний уряд більшості, натомість доручивши партії [FROM.GetRulingParty] керувати реактивним урядом меншості. Оскільки новий уряд має лише меншість місць, то він матиме слабкі законодавчі повноваження, що вимагатиме від нього вести широкі переговори з опозиційними партіями для ухвалення закону, а також очікувати можливі небезпеки прийняття вотуму недовіри."
+ politics.14.t: "[FROM.GetParliamentName] затверджує новий уряд меншості в державі [FROM.GetFlag][FROM.GetNameDef]"
+ politics.14.d: "Новий уряд меншості в державі [FROM.GetFlag][FROM.GetNameDef] був офіційно затверджений у будівлі [FROM.GetParliamentName], у процесі обрання [FROM.GetLeader] ([FROM.GetRulingParty]) наступним [FROM.GetLeaderTitle] країни. Законодавці країни не змогли домовитися про коаліційний уряд більшості, натомість доручивши партії [FROM.GetRulingParty] керувати реактивним урядом меншості. Оскільки новий уряд має лише меншість місць, то він матиме слабкі законодавчі повноваження, що вимагатиме від нього вести широкі переговори з опозиційними партіями для ухвалення закону, а також очікувати можливі небезпеки прийняття вотуму недовіри."
  politics.14.o1: "Демократія працює."
 
  #Turkey
@@ -403,8 +403,8 @@
  turkey.4.t: "Turkish Takeover in Afrin"
  turkey.4.d: "Our rightful canton of Afrin has been occupied by the Turkish Armed Forces, the Free Syrian Army and other jihadist groups. This is a violation of international law and we will not let them kill our people!"
  turkey.4.o1: "Biji Kurdistan!"
- turkey.5.t: "[TUR.GetNonIdeologyName] починає операцію «Оливкова гілка»"
- turkey.5.d: "Шокуючим порушенням міжнародного права [TUR.GetAdjective]і збройні сили вторглися в [FSA.GetAdjective]ий регіон Афрін разом з місцевими [FSA.GetAdjective]ими повстанськими силами. Регіон контролюють Загони народного захисту, місцеве курдське ополчення, яке підтримується державою [USA.GetNonIdeologyName] в боротьбі проти угруповування [ISS.GetNonIdeologyName], але звинувачується державою [TUR.GetNonIdeologyName] в терористичній діяльності. Поки невідомо, чи вдасться операція чи ні, але в разі її успіху регіон, швидше за все, стане оплотом для угруповування [FSA.GetNonIdeologyName]."
+ turkey.5.t: "[TUR.GetFlag][TUR.GetNonIdeologyName] починає операцію «Оливкова гілка»"
+ turkey.5.d: "Шокуючим порушенням міжнародного права [TUR.GetFlag][TUR.GetAdjective]і збройні сили вторглися в [FSA.GetFlag][FSA.GetAdjective]ий регіон Афрін разом з місцевими [FSA.GetFlag][FSA.GetAdjective]ими повстанськими силами. Регіон контролюють Загони народного захисту, місцеве курдське ополчення, яке підтримується державою [USA.GetFlag][USA.GetNonIdeologyNameDef] в боротьбі проти угруповування [ISS.GetFlag][ISS.GetNonIdeologyName], але звинувачується державою [TUR.GetFlag][TUR.GetNonIdeologyName] в терористичній діяльності. Поки невідомо, чи вдасться операція чи ні, але в разі її успіху регіон, швидше за все, стане оплотом для угруповування [FSA.GetFlag][FSA.GetNameDef]."
  turkey.5.o1: "Який безлад!"
 
  #Azerbaijan
@@ -586,7 +586,7 @@
  syria.2.t: "Syrian opposition prevails against Assad regime"
  syria.2.d: "Despite incredible challenges, Sunni opposition forces have succeeded in toppling Syrian dictator Bashar al-Assad. Backed by Turkey, the wide coalition of Sunni militant groups managed to seize the major Syrian cities of Aleppo, Damascus and Homs, ensuring the collapse of the Russia and Iran-backed Ba'athist government. Despite the installation of a new moderate SNC-led government under [FSA.GetLeader], there is worry that Islamist forces such as Hay'at Tahrir al-Sham might not cooperate with the new government."
  syria.2.o1: "It might not be over just yet."
- syria.3.t: "Ultimatum from Damascus"
+ syria.3.t: "[FROM.Capital.GetCapitalVictoryPointName] надсилає ультиматум"
  syria.3.d: "We have received an ultimatum from the government in Damascus. They are demanding that we rejoin Syria, or that they will bring us back in by force! What do we do?"
  syria.3.o1: "Submit. There is no choice."
  syria.3.o2: "Defend Kurdistan!"
@@ -714,14 +714,14 @@ yemen.5.d: "After clashes in Aden, separatists from the Southern Movement, aimin
 yemen.5.o1: "Had to be done."
 
 #International Organizations
- international_organizations.1.t: "[FROM.GetNameDef] has applied to join [GetCurrentOrganizationVote]"
- international_organizations.1.d: "The non-member state of [FROM.GetNameDef] has applied to join [GetCurrentOrganizationVote] by submitting an application to the Secretary-General. As a member of the organization, we are entitled to vote on this application. If the votes in favor outnumber the votes against, it will be accepted. How does our nation vote?"
- international_organizations.1.o1: "In favor"
- international_organizations.1.o2: "Against"
- international_organizations.2.t: "Response from [GetCurrentOrganizationVote]"
- international_organizations.2.d: "Our recently submitted application to [GetCurrentOrganizationVote] has now been voted on by both the members of the organization. As it turns out, the application..."
- international_organizations.2.o1: "was accepted!"
- international_organizations.2.o2: "was rejected!"
+ international_organizations.1.t: "Держава [FROM.GetFlag][FROM.GetNameDef] подала заявку на приєднання до [GetCurrentOrganizationVote]"
+ international_organizations.1.d: "[FROM.GetFlag][FROM.GetAdjective]ий уряд, подали заявку на приєднання до [GetCurrentOrganizationVote], надіславши заявку Генеральному секретарю. Як члени організації ми маємо право голосувати за цю заявку. Якщо кількість голосів «за» перевищуватиме кількість «проти», то вона буде прийнята. Як голосує наш народ?"
+ international_organizations.1.o1: "За"
+ international_organizations.1.o2: "Проти"
+ international_organizations.2.t: "Відповідь від [GetCurrentOrganizationVote]"
+ international_organizations.2.d: "Організація [GetCurrentOrganizationVote], котра нещодавно голосувала за наш вступ, прислала відповіть. Як виявилося, наша заявка..."
+ international_organizations.2.o1: "прийнята!"
+ international_organizations.2.o2: "відхилена!"
 
 #Algeria
 algeria.1.t: "The Fifth Term"
@@ -777,9 +777,9 @@ palestine.1.o1: "Now the real work can begin!"
  libya.2.o1: "What a mess!"
 
  #Nuclear
- nuclear.2.t: "Nuclear War"
- nuclear.2.d: "For the first time since Hiroshima and Nagasaki, a nuclear weapon has been used at wartime. As per the doctrine of Mutually Assured Destruction, it is now likely that retaliatory strikes will come.\n\nAll civ... YOU KNOW WHAT? FUCK THIS! WE'RE ALL GONNA FUCKING DIE! GOD HELP US!"
- nuclear.2.o1: "War, war never changes."
+ nuclear.2.t: "Ядерна війна"
+ nuclear.2.d: "Вперше після Хіросіми і Нагасакі під час війни була застосована ядерна зброя. Згідно з доктриною взаємного гарантованого знищення, тепер цілком ймовірно, що удари у відповідь будуть нанесені.\n\nУсі цивільні... ЗНАЄТЕ ЩО? НАХУЙ ЦЕ! МИ ВСІ ЗДОХНЕМО, БЛЯТЬ! ПОМОЖИ НАМ БОГ!"
+ nuclear.2.o1: "Війна ніколи не змінюється."
 
  #Russia
  russia.1.t: "The Sergei Skripal Question"
@@ -865,24 +865,23 @@ hong_kong.1.o1: "Вільний Гонконг!"
 hong_kong.1.o2: "Демократія? Дуже смішно!" 
 
 #Kosovo
-kosovo.1.t: "[KOS.GetName] відкрито для обміну землями"
-kosovo.1.d: "Протягом багатьох років ми пропонували обмін територіями з урядом [KOS.GetName], щоб наша сторона повернула собі Північне Косово, населене сербами, одночасно передавши Прешевську долину, населену більшістю косовськими албанцями, а також відмовилася від територіяльних претензій до решти [KOS.GetName]. Сьогодні [KOS.GetName] нарешті відкрили цю пропозицію та офіційно запропонували обмін. Чи ми підтверджуємо свою позицію і приймаємо її, чи змінюємо курс і відкидаємо її?"
+kosovo.1.t: "[KOS.GetFlag][KOS.GetName] відкрито для обміну землями"
+kosovo.1.d: "Протягом багатьох років ми пропонували обмін територіями з [KOS.GetFlag][KOS.GetAdjective]им урядом, щоб наша сторона повернула собі Північне Косово, населене сербами, одночасно передавши Прешевську долину, населену більшістю косовськими албанцями, а також відмовилася від територіяльних претензій до решти територій держави [KOS.GetFlag][KOS.GetNameDef]. Сьогодні держава [KOS.GetFlag][KOS.GetNameDef] нарешті згодилися на цю пропозицію та офіційно запропонували обмін. Чи ми підтверджуємо свою позицію і приймаємо її, чи змінюємо курс і відкидаємо це?"
 kosovo.1.o1: "Прийняти."
 kosovo.1.o2: "Відкинути."
-kosovo.2.t: "Обмін земель між Косово і Сербією"
-kosovo.2.d: "Багато хто здивований сьогоднішньою безпрецедентною мирною угодою між урядами Косова та Сербії, де обидві сторони погодилися обмінятися територіями з етнічною більшістю, що належить іншій стороні. Північне Косово, в якому більшість становлять серби, сьогодні знову приєдналося до своїх братів на півночі, тоді як долина Прешево, в якій більшість становлять косовські албанці, приєднується до Косово. У рамках угоди Сербія також офіційно відмовилася від своїх територіяльних претензій щодо самого Косова, дозволяючи нормалізувати дипломатичні відносини. Угоду офіційно підписали [SER.GetLeaderTitle] [SER.GetLeader] і [KOS.GetLeaderTitle] [KOS.GetLeader]."
+kosovo.2.t: "Обмін земель між державами [KOS.GetFlag][KOS.GetNonIdeologyNameDef] та [SER.GetFlag][SER.GetNonIdeologyNameDef]"
+kosovo.2.d: "Багато хто здивований сьогоднішньою безпрецедентною мирною угодою між [KOS.GetFlag][KOS.GetAdjective]им урядом та [SER.GetFlag][SER.GetAdjective]им, де обидві сторони погодилися обмінятися територіями з етнічною більшістю, що належить іншій стороні. Північне Косово, в якому більшість становлять серби, сьогодні знову приєдналося до своїх братів на півночі, тоді як долина Прешево, в якій більшість становлять косовські албанці, приєднується до [SER.GetFlag][SER.GetNonIdeologyName]. У рамках угоди [SER.GetFlag][SER.GetNonIdeologyName] також офіційно відмовилася від своїх територіяльних претензій щодо самоъ держави [KOS.GetNameDef], дозволяючи нормалізувати дипломатичні відносини. Угоду офіційно підписали [SER.GetLeaderTitle] [SER.GetLeader] і [KOS.GetLeaderTitle] [KOS.GetLeader]."
 kosovo.2.o1: "Велике досягнення для миру." 
 
 
 #African Union
 african_union.1.t: "Африканська континентальна зона вільної торгівлі"
-african_union.1.d: "На саміті Африканського Союзу в Аддіс-Абебі в 2012 році лідери домовилися створити нову континентальну зону вільної торгівлі до 2017 року. Незважаючи на річну затримку, договір про створення Африканської континентальної зони вільної торгівлі (АКЗВТ) сьогодні був підписаний усіма державами-членами Африканського Союзу. Загальні довгострокові цілі включають: створення єдиного лібералізованого ринку; зменшення перешкод для капіталу та робочої сили для сприяння інвестиціям; розвиток регіональної інфраструктури; і створення континентального митного союзу. Загальні цілі АКЗВТ полягають у прискоренні соціально-економічного розвитку, зменшенні бідності та підвищенні конкурентоспроможності Африки у світовій економіці."
+african_union.1.d: "На саміті Африканського Союзу в Аддіс-Абебі в 2012 році лідери домовилися створити нову континентальну зону вільної торгівлі до 2017 року. Незважаючи на річну затримку, договір про створення Африканської континентальної зони вільної торгівлі (АКЗВТ) сьогодні був підписаний усіма державами-членами Африканського Союзу. Загальні довгострокові цілі включають: створення єдиного лібералізованого ринку; зменшення перешкод для капіталу та робочої сили для сприяння інвестиціям; розвиток регіональної інфраструктури; і створення континентального митного союзу. Загальні цілі АКЗВТ полягають у прискоренні соціяльно-економічного розвитку, зменшенні бідності та підвищенні конкурентоспроможності Африки у світовій економіці."
 african_union.1.o1: "Великий крок для розвитку Африки!"
 
 #East African Community
-east_african_community.1.t: "[FROM.GetNonIdeologyName] офіційно запропонувала Східноафриканську федерацію" 
-east_african_community.1.d: "The East African Federation, long having been a goal of the East African Community, has today officially been proposed by [FROM.GetNonIdeologyNameDef]. If the proposal passes, our nation would cease to exist and instead become a federal state of the EAF. Being the official proponent of the federation, [FROM.GetNonIdeologyNameDef] would become undoubtedly the leading nation in the union. Do we accept or veto the proposal?"
-east_african_community.1.d: "Східноафриканська федерація, яка давно була метою Східноафриканської спільноти, сьогодні була офіційно запропонована державою [FROM.GetNonIdeologyName]. Якщо пропозиція буде прийнята, наша країна припинить своє існування і замість цього стане федеральною державою СФ. Будучи офіційним прихильником федерації, [FROM.GetNonIdeologyName], безсумнівно, стане провідною нацією в союзі. Ми приймаємо чи ветуємо пропозицію?"
+east_african_community.1.t: "Держава [FROM.GetFlag][FROM.GetNonIdeologyNameDef] офіційно запропонувала Східноафриканську федерацію" 
+east_african_community.1.d: "Східноафриканська федерація, яка давно була метою Східноафриканської спільноти, сьогодні була офіційно запропонована державою [FROM.GetFlag][FROM.GetNonIdeologyNameDef]. Якщо пропозиція буде прийнята, наша країна припинить своє існування і замість цього стане федеральною державою СФ. Будучи офіційним прихильником федерації, [FROM.GetFlag][FROM.GetNonIdeologyName], безсумнівно, стане провідною нацією в союзі. Ми приймаємо чи ветуємо пропозицію?"
 east_african_community.1.o1: "Приймаємо."
 east_african_community.1.o2: "Вето."
 east_african_community.2.t: "Результати пропозиції утворення Східноафриканської Федерації" 
