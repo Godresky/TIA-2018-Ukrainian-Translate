@@ -144,7 +144,7 @@ NO: "Ні"
 
 FE_DIFFICULTY_MODIFIER_PLAYER_TOOLTIP: "\n\nГравець:\n$PLAYERMOD$"
 FE_DIFFICULTY_MODIFIER_AI_TOOLTIP: "\n\nШІ:\n$AIMOD$"
-FE_IRONMAN_MP_BLOCKED: "§RРежим Ironman недоступний у мережевій грі.§!"
+FE_IRONMAN_MP_BLOCKED: "§RРежим Залізна воля недоступний у мережевій грі.§!"
 FE_CUSTOM_DIFFICULTY_TOOLTIP: "Застосовується до: $COUNTRIES$\n$MODIFIER$"
 FE_RESET: "Скинути все"
 
