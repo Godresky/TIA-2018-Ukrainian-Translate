@@ -196,7 +196,7 @@ CURRENT_YEAR: "Поточний рік"
 OLDER: "Старіше"
 #SPECIAL_FORCES_DESC:1 "Only a certain percentage of our soldiers have what it takes to become Special Forces. We must husband this resource very carefully. Increasing the size of our army will allow us to find more recruits for the tougher assignments."
 #SPECIAL_FORCES_DETAILS:1 "The limit is $CAP_MULT|Y%1$ of your fielded regular battalions ($OTHER_BATS|Y$) with a minimum of $MIN_MOD|Y$"
-#ARMY_ON_BORDER_WAR_TOOLTIP:0 "Army is engaged in a border war"
+ARMY_ON_BORDER_WAR_TOOLTIP: "Армія бере участь у прикордонній війні"
 BATTALIONS_COUNT: "$NUM$ батальйон(ів)"
 MORE_THAN_NINE: "9+"
 
