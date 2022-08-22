@@ -48,6 +48,8 @@
  TT_crime_will_increase: "Рівень злочинності буде §RРости§!"
  TT_crime_will_decrease: "Рівень злочинності буде §GПадати§!"
  TT_treasury_surplus: "Надлишок в скарбниці"
+ TT_org_application: "§cГолосуватиме за або проти вашої заявки§!\n"
+ TT_org_response: "§GВи отримаєте відповідь на свою заявку§!"
 
  # Country Type Scripted Localisation
  CT_devolved: "Девольована [THIS.GetFormofGovernment]"
@@ -58,4 +60,5 @@
  FoG_absolute_monarchy: "абсолютна монархія"
  FoG_one_party_presidential_republic: "однопар. презид. респуб."
  FoG_one_party_socialist_republic: "однопар. соціял. респуб."
+ FoG_one_party_socialist_republic: "однопар. іслам. респуб."
  FoG_presidential_republic: "презид. респуб." 

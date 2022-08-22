@@ -1,4 +1,5 @@
 ﻿l_russian:
+DIPLOMATIC_ACTIONS_TITLE: "Дипломатичні дії"
 DIPLO_POSITIVE: "За: $VAL|G$"
 DIPLO_NEGATIVE: "Проти: $VAL|R$"
 GOOD_BAD_RATIO: "Для прийняття потрібно принаймні на $THRESHOLD|Y$ причин(у) §Gза§! більше, ніж §Rпроти§!.\nПоточне співвідношення: $RATIO|Y$"
@@ -1043,3 +1044,4 @@ THEIR_FEAR: "Їхній страх перед нами: $FEAR|H$"
  org_baltic_assembly: "Балтійська асамблея"
  org_benelux_union: "Бенілюкс"
  org_east_african_community: "Східноафриканське співтовариство" 
+ org_nordic_council: "Північна рада" 
