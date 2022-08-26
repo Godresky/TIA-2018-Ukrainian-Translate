@@ -626,8 +626,8 @@
 ### FRA
  BRI_FRA_autonomy_autonomous_region: "Автономний Регіон Бретань"
  BRI_FRA_autonomy_autonomous_region_DEF: "Автономний Регіон Бретань"
- CRS_FRA_autonomy_autonomous_region: "Територіальна спільнота Корсика"
- CRS_FRA_autonomy_autonomous_region_DEF: "Територіальна спільнота Корсика"
+ CRS_FRA_autonomy_autonomous_region: "Територіяльна спільнота Корсика"
+ CRS_FRA_autonomy_autonomous_region_DEF: "Територіяльна спільнота Корсика"
 
 ### GER
  BAV_GER_autonomy_autonomous_region: "Земля Баварія"

@@ -60,6 +60,8 @@ STATE_OWNER_MODIFIER_INFO: "Регіон отримує наступні мод�
 
  # State Titles
  STATE_TITLE: "[THIS.owner.GetFlag][GetStateTitle]"
+ STATE_TITLE_NONE: ""
+ STATE_TITLE_UNINHABITED_TERRITORY: "§gНезаселена територія§!"
  STATE_TITLE_TERRITORY: "§RТериторія§!"
  STATE_TITLE_PROVINCE: "§GПровінція§!"
  STATE_TITLE_STATE: "§GШтат§!"
