@@ -47,9 +47,12 @@
  TT_crime_will_stagnate: "Рівень злочинності перебуватиме в §YСтагнації§!"
  TT_crime_will_increase: "Рівень злочинності буде §RРости§!"
  TT_crime_will_decrease: "Рівень злочинності буде §GПадати§!"
- TT_treasury_surplus: "Надлишок в скарбниці"
+ TT_treasury_surplus: "Чистий профіцит балансу"
  TT_org_application: "§cГолосуватиме за або проти вашої заявки§!\n"
  TT_org_response: "§GВи отримаєте відповідь на свою заявку§!"
+ TT_add_money: "§YМи отримаємо§!:£money_texticon §G[?transaction_value]§!"
+ TT_subtract_money: "§YМи витратимо§!:£money_texticon §R[?transaction_value]§!"
+ TT_canal_finished: "§GКанал закінчено§!"
 
  # Country Type Scripted Localisation
  CT_devolved: "Девольована [THIS.GetFormofGovernment]"
