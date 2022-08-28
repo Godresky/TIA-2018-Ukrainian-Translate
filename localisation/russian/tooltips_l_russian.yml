@@ -15,7 +15,7 @@
  snap_election_in_progress: "Тривають позачергові вибори"
 
  # Custom Tooltips
- tooltip_ahistorical_option: "This option is only available when Historical Mode is disabled.\n"
+ tooltip_ahistorical_option: "Ця опція доступна лише тоді, коли історичний режим вимкнено.\n"
  tooltip_civil_war_warning: "§RЦе спричинить громадянську війну!§W\n"
  presidential_majority_government: "§PПрезидентський уряд більшості§!"
  parliamentary_majority_government: "§PПарламентський уряд більшості§!"
@@ -34,12 +34,12 @@
  TT_electoral_fraud_unlocked: "Розблоковує §YФальсифікація виборів§!"
  TT_coalition_governments_unlocked: "Розблоковує §YКоаліційний уряд§!"
  TT_parliamentary_election_results: "§Y[ROOT.GetParliamentName]§! §Y[GetYear]§! року був обраний!"
- TT_parliamentary_monarchy: "The §Y[ROOT.GetParliamentName]§! has been filled with independent monarchist technocrats, abolishing party politics."
- TT_population_control: "§RActively reducing population growth won't improve public opinion, but may grant economic benefits in the long run.§!"
- TT_first_amendment: "§YFirst Amendment§!: prevents the government from making laws which regulate an establishment of religion, or that would prohibit the free exercise of religion, or abridge the freedom of speech, the freedom of the press, the freedom of assembly, or the right to petition the government for redress of grievances."
- TT_second_amendment: "§YSecond Amendment§!: protects the right to keep and bear arms."
- TT_shooting: "§YRegulating firearms may prevent similar events from occurring in the future.§!"
- TT_canal_not_built: "§YThis canal has not yet been constructed.§!"
+ TT_parliamentary_monarchy: "§Y[ROOT.GetParliamentName]§! була заповнена незалежними монархічними технократами, скасувавши партійну політику."
+ TT_population_control: "§RАктивне скорочення зростання населення не покращить громадську думку, але може дати економічні вигоди в довгостроковій перспективі.§!"
+ TT_first_amendment: "§YПерша поправка§!: перешкоджає уряду приймати закони, які регулюють встановлення релігії, або які б забороняли вільне сповідування релігії, або обмежували свободу слова, свободу преси, свободу зібрань або право подавати петиції до уряду."
+ TT_second_amendment: "§YДруга поправка§!: захищає право на зберігання та носіння зброї."
+ TT_shooting: "§YРегулювання вогнепальної зброї може запобігти подібним подіям у майбутньому.§!"
+ TT_canal_not_built: "§YЦей канал ще не побудований.§!"
  TT_will_affect_income: "§PЦя ідея змінить дохід.§!"
  TT_will_affect_expenses: "§SЦя ідея змінить витрати.§!"
  TT_set_capital: "§PЗробити столичним регіоном§!\nВартість: §Y500 Політичної влади§!\nПотрібно: §YРегіон національний і під повним контролем§!"
@@ -50,8 +50,8 @@
  TT_treasury_surplus: "Чистий профіцит балансу"
  TT_org_application: "§cГолосуватиме за або проти вашої заявки§!\n"
  TT_org_response: "§GВи отримаєте відповідь на свою заявку§!"
- TT_add_money: "§YМи отримаємо§!:£money_texticon §G[?transaction_value]§!"
- TT_subtract_money: "§YМи витратимо§!:£money_texticon §R[?transaction_value]§!"
+ TT_add_money: "§YМи отримаємо§!: £money_texticon §G[?transaction_value]§!"
+ TT_subtract_money: "§YМи витратимо§!: £money_texticon §R[?transaction_value]§!"
  TT_canal_finished: "§GКанал закінчено§!"
 
  # Country Type Scripted Localisation
