@@ -14,6 +14,7 @@
  POLITICS_IDEOLOGY:0 "§TІдеологія: $IDEOLOGY|H$§!"
  POLITICS_LEADER:0 "§TЛідер: $LEADER|H$§!"
  POLITICS_POPULARITY:0 "§TПопулярність: §H$VALUE|2$%§!§!"
+ POLITICS_POLLING_TEXT:0 "Опитування"
 POLITICS_POPULARITY_INCREASE_SPY: "$SPY|H$ збільшує популярність (§H$VALUE|2$%§! щотижнево)"
 POLITICS_IDEOLOGY_POPULARITY_CHANGE: "Зміна популярності ідеології $IDEOLOGY|H$: $VALUE|+2%$"
 POLITICS_SCORE: "§TЗагальний рахунок: $VALUE|0H$§!"
@@ -118,12 +119,12 @@ not_releaseable: "§RЖодна з Ваших територій не є нац�
  POLITICS_GOAL_LEADS_TO_ENTRY:0 "$GOAL|Y$"
  MANAGE_GOVERNMENT_DESC:0 "Change laws, hire or fire ministers and contract companies for research. Most actions here will cost §YPolitical Power§!"
 POLITICS_JUSTIFY_WARGOAL: "§TДержава $OWNER|H$ виправдовує ціль війни $TYPE|H$ проти держави $TARGET|H$§!"
- POLITICS_TIMEDACTIVITY_PROGRESS:0 ": $PROGRESS|1Y%$"
- POLITICS_TIMEDACTIVITY_WARGOAL_PROGRESS:0 "§T$TYPE|H$ progress: $PROGRESS|1H%$§!"
- POLITICS_TIMED_ACTIVITY_STATES:0 "$TYPE|H$ $STATES|H$ from $TARGET|H$"
- POLITICS_TIMED_ACTIVITY_PP_PROGRESS:0 "Progress ( £pol_power ): $CURRENT|H1$/$REQUIRED|H1$"
- POLITICS_TIMED_ACTIVITY_PP_DAILY:0 "Daily increase ( £pol_power ): $PP|H1$"
- POLITICS_TIMED_ACTIVITY_DAY_PROGRESS:0 "Progress: $CURRENT|H1$/$REQUIRED|H1$ days"
+POLITICS_TIMEDACTIVITY_PROGRESS: ": $PROGRESS|1Y%$"
+POLITICS_TIMEDACTIVITY_WARGOAL_PROGRESS: "§T$TYPE|H$: виконано на $PROGRESS|1H%$§!"
+POLITICS_TIMED_ACTIVITY_STATES: "$TYPE|H$ регіонів $STATES|H$ в держави $TARGET|H$"
+POLITICS_TIMED_ACTIVITY_PP_PROGRESS: "Прогрес (£pol_power£): $CURRENT|H1$/$REQUIRED|H1$" # G
+POLITICS_TIMED_ACTIVITY_PP_DAILY: "Щоденний приріст (£pol_power£): $PP|H1$"
+POLITICS_TIMED_ACTIVITY_DAY_PROGRESS: "Прогрес: $CURRENT|H1$/$REQUIRED|H1$ дн." # G
  POLITICS_TIMED_ACTIVITY_FINISHED:0 "§TExpected to finish: $DATE|H$§!"
  POLITICS_TIMED_ACTIVITY_WARGOAL_DESC:0 "§TWhen $OWNER|H$ has finished justifying the war goal it will be able to declare war on $TARGET|H$§!"
  FOCUS_AT_WAR:0 "§TTakes $PEACE|H0$ days to complete§!"

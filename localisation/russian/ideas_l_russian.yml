@@ -282,7 +282,9 @@
  shanghai_cooperation_organization_member: "Член Шанхайської організації співробітництва"
  shanghai_cooperation_organization_member_desc: "Ця країна є членом Шанхайської організації співробітництва."
  idea_benelux_union_member: "Член Бенілюксу"
- idea_benelux_union_member_desc: "Ця країна є членом Бенілюксу."
+ idea_benelux_union_member_desc: "Ця країна є членом Бенілюксу, регіональної організації, яка сприяє міжурядовому співробітництву між національними країн-учасниць."
+ idea_treaty_on_the_prohibition_of_nuclear_weapons: "Договір про заборону ядерної зброї"
+ idea_treaty_on_the_prohibition_of_nuclear_weapons_desc: "Ця країна підписала Договір про заборону ядерної зброї (ДЗЯЗ), юридично обов’язкову міжнародну угоду про повну заборону ядерної зброї з кінцевою метою її повного знищення."
 
  #Bosnia
  idea_dayton_agreement: "Дейтонська угода"
