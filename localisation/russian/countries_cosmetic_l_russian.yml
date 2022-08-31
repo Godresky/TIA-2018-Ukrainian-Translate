@@ -655,6 +655,22 @@
  CRN_ENG_autonomy_autonomous_region: "Корнволл"
  CRN_ENG_autonomy_autonomous_region_DEF: "Корнволл"
 
+### ITA
+ STY_ITA_autonomy_autonomous_region: "Автономна Провінція Больцано - Південний Тіроль"
+ STY_ITA_autonomy_autonomous_region_DEF: "Автономна Провінція Больцано - Південний Тіроль"
+ VNC_ITA_autonomy_autonomous_region: "Венето"
+ VNC_ITA_autonomy_autonomous_region_DEF: "Венето"
+ LOM_ITA_autonomy_autonomous_region: "Ломбардія"
+ LOM_ITA_autonomy_autonomous_region_DEF: "Ломбардія"
+ SRD_ITA_autonomy_autonomous_region: "Автономний Регіон Сардинія"
+ SRD_ITA_autonomy_autonomous_region_DEF: "Автономний Регіон Сардинія"
+ VAT_ITA_autonomy_autonomous_region: "Автономне Місто Святого Престолу"
+ VAT_ITA_autonomy_autonomous_region_DEF: "Автономне Місто Святого Престолу"
+ SMR_ITA_autonomy_autonomous_region: "Автономна Провінція Сан-Марино"
+ SMR_ITA_autonomy_autonomous_region_DEF: "Автономна Провінція Сан-Марино"
+ MLT_ITA_autonomy_autonomous_region: "Автономні Острова Мальти"
+ MLT_ITA_autonomy_autonomous_region_DEF: "Автономні Острова Мальти"
+
 ### Ocean
  MAU_ENG_autonomy_autonomous_region: "$OVERLORDADJ$ий Маврикій"
  MAU_ENG_autonomy_autonomous_region_DEF: "$OVERLORDADJ$ий Маврикій"

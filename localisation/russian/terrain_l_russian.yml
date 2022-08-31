@@ -1,7 +1,4 @@
 ﻿l_russian:
- UNIT_TERRAIN_MODIFIER: "Вплив на бойову одиницю:"
- MOVEMENT_COST: "Вартість руху по цьому типу місцевості: x$VALUE|H$"
-
  # Terrain
  unknown: "Невідомо"
  unknown_desc: ""

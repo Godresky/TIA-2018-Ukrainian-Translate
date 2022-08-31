@@ -4125,10 +4125,10 @@ infantry_equipment_short: "Піхотне осн."
  #########################
  ### SUPPORT EQUIPMENT ###
  #########################
- support_equipment:0 "Support Equipment"
- support_equipment_short:0 "Support Eq."
+support_equipment: "Додаткове оснащення"
+support_equipment_short: "Додаткове осн."
  support_equipment_desc:0 "Radios, Jeeps, Pontoons & other equipment used to support troops."
- support_equipment_1:0 "Support Equipment"
+support_equipment_1: "Додаткове оснащення"
  support_equipment_1_desc:0 "Radios, Jeeps, Pontoons & other equipment used to support troops."
  #######################
  ### ARMOR EQUIPMENT ###
@@ -4222,12 +4222,12 @@ infantry_equipment_short: "Піхотне осн."
  mechanized_equipment_5_short:0 "Gen 4 IFV"
  mechanized_equipment_5_desc:0 "Gen 4 Mechanized"
  ## LIGHT MECHANIZED ##
- light_mechanized_equipment:0 "Light Mechanized"
- light_mechanized_equipment_short:0 "Light Mechanized"
- light_mechanized_equipment_desc:0 "Light Mechanized Equipment"
- armored_personnel_carrier:0 "Armored Personnel Carrier"
- light_mechanized_equipment_short:0 "Armored Personnel Carrier"
- light_mechanized_equipment_desc:0 "Armored Personnel Carrier"
+ light_mechanized_equipment:0 "Легка механізація"
+ light_mechanized_equipment_short:0 "Легка механізація"
+ light_mechanized_equipment_desc:0 "Легко механізоване обладнання"
+ armored_personnel_carrier:0 "Бронетранспортер"
+ light_mechanized_equipment_short:0 "Бронетранспортер"
+ light_mechanized_equipment_desc:0 "Бронетранспортер"
  light_mechanized_equipment_1:0 "Gen 1 Light Mechanized"
  light_mechanized_equipment_1_short:0 "Gen 1 APC"
  light_mechanized_equipment_1_desc:0 "Gen 1 Light Mechanized"
