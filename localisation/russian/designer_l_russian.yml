@@ -81,7 +81,7 @@ DESIGNER_EMPTY_NAME: "§RШаблон дивізій не може мати по
 
 REINFORCE_WITH_RESEARCHED_EQUIPMENT: "Клацніть, щоб підкріплювати новодослідженим оснащенням"
 REINFORCE_WITH_RESEARCHED_EQUIPMENT_FORBIDDEN: "На даний момент нове оснащення заборонене."
-DESIGNER_EQUIPMENT_CHANGE:2 $UNITS|Y$ дивізій використовують цей шаблон.\nВимоги до оснащення ($EQ|Y$) зміняться загалом на $TOT|R$.\nУ нас є $STOCK|Y$ на складі.\nЯкщо ми приймемо зміни в цьому шаблоні, за нашими оцінками, у сховищі лишиться $END$."
+DESIGNER_EQUIPMENT_CHANGE:2 "$UNITS|Y$ дивізій використовують цей шаблон.\nВимоги до оснащення ($EQ|Y$) зміняться загалом на $TOT|R$.\nУ нас є $STOCK|Y$ на складі.\nЯкщо ми приймемо зміни в цьому шаблоні, за нашими оцінками, у сховищі лишиться $END$."
 DIVISION_EQUIPMENT: "Оснащення"
 EQUIPMENT_TYPE_NOW_FORBIDDEN: "\nВідтепер §Rзаборонені§! типи оснащення:\n"
 EQUIPMENT_TYPE_NOW_ALLOWED: "\nВідтепер §Gдозволені§! типи оснащення:\n"

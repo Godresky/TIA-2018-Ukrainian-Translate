@@ -6,7 +6,7 @@
  ongoing_UN_application: "Подана заявка в ООН"
  ongoing_EU_application: "Подана заявка в ЄС"
  second_referendum_stay: "Другий референдум: Залишитися"
- ongoing_brexit_trade_agreement_vote: "Триває голосування про торгову угоду щодо Брексіту"
+ ongoing_brexit_trade_agreement_vote: "Триває голосування про торгову угоду щодо Брекзиту"
  ongoing_generic_application: "Поточна заявка не в ООН/ЄС"
  first_amendment_repealed: "Перша поправка скасована"
  second_amendment_repealed: "Друга поправка скасована"
@@ -54,7 +54,7 @@
  TT_subtract_money: "§YМи витратимо§!: £money_texticon §R[?transaction_value]§!"
  TT_canal_finished: "§GКанал закінчено§!"
  TT_legislative_election_event_majority: "§GБільшість§!. Це надасть новому уряду потужних законодавчих повноважень, які дозволять йому керувати продуктивніше"
- TT_legislative_election_event_minority: "§GМеншість§!. Це залишить новому уряду слабкі законодавчі повноваження, які вимагатимуть від нього широких переговорів з опозиційними партіями для прийняття законодавчих актів"
+ TT_legislative_election_event_minority: "§RМеншість§!. Це залишить новому уряду слабкі законодавчі повноваження, які вимагатимуть від нього широких переговорів з опозиційними партіями для прийняття законодавчих актів"
 
  # Country Type Scripted Localisation
  CT_devolved: "Девольована [THIS.GetFormofGovernment]"

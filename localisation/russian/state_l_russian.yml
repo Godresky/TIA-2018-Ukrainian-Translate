@@ -76,7 +76,7 @@ STATE_OWNER_MODIFIER_INFO: "Регіон отримує наступні мод�
  STATE_TITLE_DEPARTMENT: "§GДепартамент§!"
 
  # State Categories
- state_nuclear_wasteland: "Ядерна Пустка"
+ state_nuclear_wasteland: "Ядерна пустка"
  state_default: "Стандартне"
  state_level_0: "Рівень 0"
  state_level_1: "Рівень 1"
@@ -84,3 +84,11 @@ STATE_OWNER_MODIFIER_INFO: "Регіон отримує наступні мод�
  state_level_3: "Рівень 3"
  state_level_4: "Рівень 4"
  state_level_5: "Рівень 5"
+
+ # State Government
+ state_government: "Прихильність до нас од. [THIS.GetStateTitle] §Y[THIS.GetName]§!"
+ state_government_federally_administered: "§gУрядова адміністрація§!"
+ governing_party: "Партія"
+ sg_affiliation: "Прихильність"
+ sg_government: "§GУряду§!"
+ sg_opposition: "§RОпозиції§!"

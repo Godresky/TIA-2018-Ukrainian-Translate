@@ -18,7 +18,7 @@
  birth_control_policy: "Політика народжуваності"
  climate_change_efforts: "Політика щодо зміни клімату (TBA)"
  minimum_wage: "Мінімальна зарплата"
- social_welfare: "Соціяльна допомога"
+ social_welfare: "Соціяльне забезпечення"
  healthcare: "Охорона здоров'я"
  education: "Освіта"
  defense: "Оборона"
@@ -321,8 +321,8 @@
  idea_sisu_desc: "Сісу — це фінське поняття, яке описується як стоїчна рішучість, цілеспрямованість, сміливість, хоробрість, стійкість, витривалість і використовується самими фінами для вираження свого національного характеру."
 
  #United Kingdom
- idea_brexit: "Брекзіт"
- idea_brexit_desc: "Brexit refers to the impending withdrawal of the United Kingdom from the European Union. It follows the referendum of 23 June 2016 when 51.9 percent of those who voted supported withdrawal. Withdrawal has been advocated by Eurosceptics, both left-wing and right-wing, while Pro-Europeanists, who also span the political spectrum, have advocated continued membership."
+ idea_brexit: "Брекзит"
+ idea_brexit_desc: "Брекзит - означає майбутній вихід Сполученого Королівства з Європейського Союзу. Це сталося після референдуму 23 червня 2016 року, коли 51,9% тих, хто проголосував, підтримали вихід. За Брекзит виступають євроскептики, як ліві, так і праві, тоді як проєвропеїсти, які також охоплюють політичний спектр, виступають за продовження членства."
 
  #Germany
  GER_bundeswehr_shortcomings: "Недоліки Бундесверу"

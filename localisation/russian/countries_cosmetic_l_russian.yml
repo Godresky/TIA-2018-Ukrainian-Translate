@@ -676,12 +676,12 @@
  MAU_ENG_autonomy_autonomous_region_DEF: "$OVERLORDADJ$ий Маврикій"
 
 ### S. America
- GYA_ENG_autonomy_autonomous_region: "$OVERLORDADJ$а Ґвіана"
- GYA_ENG_autonomy_autonomous_region_DEF: "$OVERLORDADJ$а Ґвіана"
- SUR_HOL_autonomy_autonomous_region: "$OVERLORDADJ$а Ґвіана"
- SUR_HOL_autonomy_autonomous_region_DEF: "$OVERLORDADJ$а Ґвіана"
- CAY_FRA_autonomy_autonomous_region: "$OVERLORDADJ$а Ґвіана"
- CAY_FRA_autonomy_autonomous_region_DEF: "$OVERLORDADJ$а Ґвіана"
+ GYA_ENG_autonomy_autonomous_region: "$OVERLORDADJ$а Ґвіяна"
+ GYA_ENG_autonomy_autonomous_region_DEF: "$OVERLORDADJ$а Ґвіяна"
+ SUR_HOL_autonomy_autonomous_region: "$OVERLORDADJ$а Ґвіяна"
+ SUR_HOL_autonomy_autonomous_region_DEF: "$OVERLORDADJ$а Ґвіяна"
+ CAY_FRA_autonomy_autonomous_region: "$OVERLORDADJ$а Ґвіяна"
+ CAY_FRA_autonomy_autonomous_region_DEF: "$OVERLORDADJ$а Ґвіяна"
 
 ### ISS
  LNA_ISS_autonomy_autonomous_region: "Лівійський Вілаят"
