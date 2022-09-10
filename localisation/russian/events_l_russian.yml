@@ -117,8 +117,12 @@
  britain.4.t: "Blaiklock Resigns"
  britain.4.d: "Catherine Blaiklock, leader of the recently created Brexit Party, has resigned from her post after being rightly accused of islamophobia. Political veteran and former UKIP leader Nigel Farage has now took up the job, and the party is expected to rocket in the coming months."
  britain.4.o1: "Now this is something!"
- #
- #
+ britain.5.t: "Смерть Єлизавети II"
+ britain.5.d: "" #add
+ britain.5.o1: "Боже, збережи королеву."
+ britain.6.t: "Смерть Королеви Єлизавети II"
+ britain.6.d: "" #add
+ britain.6.o1: "Спочивай з миром."
  britain.7.t: "2019 UKIP leadership election"
  britain.7.d: "Despite only leading the party for around a year, UKIP leader Gerard Batten has resigned, due to disastrous European election results, and the creation of the new Brexit Party. The resulting leadership election is contested by relative newcomers, and the 2 final candidates are Richard Braine and Freddy Vachha, both without major experience."
  britain.7.o1: "Richard Braine"
@@ -128,11 +132,11 @@
  britain.8.o1: "Keir Starmer"
  britain.8.o2: "Rebecca Long-Bailey"
  britain.8.o3: "Lisa Nandy"
- britain.9.t: "Hard Brexit"
- britain.9.d: "Despite inconclusive efforts by Pro-Europeanists to stop Brexit, Article 50 has now come into effect and the United Kingdom of Great Britain and Northern Ireland has officially declared its departure from the European Union. However, as a trade deal with the European Union was not reached in time, the British economy is expected to face major difficulties in the transition to full national sovereignty. Eurosceptics in Britain are celebrating in full force tonight."
- britain.9.o1: "Finally, it is over."
- britain.9.o2: "We have been betrayed!"
- britain.9.o3: "Good for them."
+ britain.9.t: "Жорсткий брекзит"
+ britain.9.d: "Незважаючи на безрезультатні зусилля проєвропейців зупинити брекзит, стаття 50 набула чинності, і держава [ENG.GetFlag] [ENG.GetNameDef] офіційно оголосило про свій вихід з Європейського Союзу. Однак, оскільки торгова угода з Європейським Союзом не була досягнута вчасно, очікується, що [ENG.GetAdjective]а економіка зіткнеться з великими труднощами при переході до повного національного суверенітету. [ENG.GetAdjective]і євроскептики сьогодні ввечері святкують на повну силу."
+ britain.9.o1: "Нарешті все закінчилося."
+ britain.9.o2: "Нас зрадили!"
+ britain.9.o3: "Добре для них."
  britain.10.t: "Article 50 Withdrawn"
  britain.10.d: "With the results of the recent Second Brexit Referendum showing a total collapse in support for the Leave campaign, the decision has been made by Parliament and the British government to withdraw Article 50. Despite protests from Eurosceptics, the decision has been maintained, leading Pro-Europeanists to begin celebrating in the streets. Britain will remain in the European Union."
  britain.10.o1: "So much time wasted..."
