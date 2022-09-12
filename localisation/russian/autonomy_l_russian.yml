@@ -50,7 +50,7 @@ CONSTRUCTION_INFO_MASTER: "Ми будуємо цю споруду на тери
 CONSTRUCTION_INFO_SUBJECT: "Держава $WHO|H$ будує цю споруду для нас. Якщо вони не задіють усі промисловості, ми можемо допомогти їм своїми."
 
  #Autonomy Levels
- autonomy_puppet_state: "Маріонеткова Держава"
- autonomy_autonomous_region: "Автономний Регіон"
+ autonomy_puppet_state: "Лялькова держава"
+ autonomy_autonomous_region: "Автономний регіон"
  autonomy_annex: "Анексія"
  autonomy_free: "Незалежність"

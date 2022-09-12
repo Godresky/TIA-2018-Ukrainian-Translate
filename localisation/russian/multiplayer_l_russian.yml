@@ -55,7 +55,7 @@ MP_FEW_PLAYERS: "§RПотрібний ще принаймні один грав
 COUNTRY_CONTROLLER: "$PLAYER|H$ є основним контролером держави $COUNTRY|H$."
 COUNTRY_CO_PLAYER: "$PLAYER|H$ буде спільно керувати державою $COUNTRY|H$."
 COUNTRY_PROMOTE: "§GКлацніть§!, щоб проголосити $PLAYER|H$ основним контролером держави $COUNTRY|H$."
-COUNTRY_PROMOTE_HINT: "$PLAYER|H$ може проголосити вас основним контролером держави $COUNTRY|H$."
+COUNTRY_PROMOTE_HINT: "$PLAYER|H$ може проголосити Вас основним контролером держави $COUNTRY|H$."
 SAVE_PROG: "$VALUE|%0$"
 START_FILE_TRANSFER: "Надсилання файлу збереження до: $NAME|H$."
 SAVEGAME_LOADED: "§GЗавантажено§!"

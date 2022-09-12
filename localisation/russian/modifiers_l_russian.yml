@@ -1116,7 +1116,7 @@ MODIFIER_MAX_SURRENDER_LIMIT_OFFSET: "Мінімальний ліміт капі
  war_support_bad_modifier: "Патріотизм"
  MODIFIER_WAR_SUPPORT_FACTOR: "Патріотизм"
  MODIFIER_WAR_SUPPORT_WEEKLY: "Патріотизм за тиждень"
- MODIFIER_WAR_SUPPORT_WEEKLY_FACTOR: ""Щотижневий приріст патріотизму"
+ MODIFIER_WAR_SUPPORT_WEEKLY_FACTOR: "Щотижневий приріст патріотизму"
 
 MODIFIER_EQUIPMENT_CAPTURE: "Приріст співвідношення захоплення оснащення"
 MODIFIER_EQUIPMENT_CAPTURE_FACTOR: "Модифікатор співвідношення захоплення оснащення"
