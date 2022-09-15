@@ -367,12 +367,12 @@
  idea_the_islamic_state_desc: "The Islamic State has emerged to become one of the most effective jihadist forces in history, largely due to their unique tactics and structure. Led by Caliph [ISS.GetLeader], the group is decentralized and spread out across several regions, with units largely independent of central leadership and experienced in guerrilla tactics."
 
  #North Korea
- idea_songun: "Сонгун"
- idea_songun_desc: "Сонгун — це військова політика [PRK.GetNameWithFlag], яка віддає перевагу Корейській народній армії в державних справах і розподілі ресурсів. Політичне та економічне життя в [PRK.GetNameWithFlag] керує принципом «перш за все військові», де політика «перш за все військова» домінує в політичній системі; лінія військово-господарського будівництва, що виступає як економічна система; і ідеологія військового призначення, яка виступає в якості керівної ідеології."
+ idea_songun: "Сонґун"
+ idea_songun_desc: "Сонґун — це військова політика держави [PRK.GetFlag] [PRK.GetNameDef], яка віддає перевагу Корейській народній армії в державних справах і розподілі ресурсів. Політичне та економічне життя в державі [PRK.GetFlag] [PRK.GetNameDef] керує принципом «перш за все військові», де політика «перш за все військова» домінує в політичній системі; лінія військово-господарського будівництва, що виступає як економічна система та ідеологія військового призначення, яка виступає в якості керівної ідеології."
 
  #Hong Kong
  idea_FOMLACM: "ЗВВПДКС"
- idea_FOMLACM_desc: "Законопроєкт про Втікачів і Взаємну Правову Допомогу в Кримінальних Справах (ЗВВПДКС), незважаючи на сильний спротив з боку продемократичного табору, офіційно був прийнятий [HKN.GetParliamentName], дозволяючи уряду [HKN.GetNameWithFlag] безпосередньо екстрадувати злочинців до [PRC.GetNameWithFlag]."
+ idea_FOMLACM_desc: "Законопроєкт про Втікачів і Взаємну Правову Допомогу в Кримінальних Справах (ЗВВПДКС), незважаючи на сильний спротив з боку продемократичного табору, офіційно був прийнятий [HKN.GetParliamentName], дозволяючи уряду держави [HKN.GetFlag] [HKN.GetNameDef] безпосередньо екстрадувати злочинців до держави [PRC.GetFlag] [PRC.GetNameDef]."
 
  #Ukraine
  idea_decommunization_completed: "Декомунізацію завершено"

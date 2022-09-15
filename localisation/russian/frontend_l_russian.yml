@@ -177,4 +177,6 @@ ACHIEVEMENTS_LOGGED_IN_MICROSOFT: "Виконано вхід в аккаунт M
 ACHIEVEMENTS_DIFFICULTY: "Складність – Регуляр або вище"
 ACHIEVEMENTS_OK: "§HДосягнення доступні!§!"
 ACHIEVEMENTS_NOT_OK: "§RДосягнення недоступні.§!"
- social_policy:0 "Соціяльна Політика"
+social_policy: "Соціяльна політика"
+FE_GREAT_POWERS: "Великі держави"
+FE_MIDDLE_POWERS: "Регіональні держави"

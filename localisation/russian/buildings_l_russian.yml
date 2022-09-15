@@ -17,7 +17,7 @@ NAVAL_BASE_LEVEL_UNKNOWN: "§YМорська база§!"
 NAVAL_BASE_SUPPLY_LIMIT: "Пропускна здатність: $VAL|Y$"
 NAVAL_BASE_CAPACITY: "Місткість: $USED|1G$/$TOTAL|0G$"
 NAVAL_BASE_CAPACITY_OVER: "Місткість: $USED|1R$/$TOTAL|0R$"
-NAVAL_BASE_CAPACITY_PENALTY: "Штраф до швидкості ремонту від місткості: $PENALTY|%0R$"
+NAVAL_BASE_CAPACITY_PENALTY: "Штраф до швидкости ремонту від місткости: $PENALTY|%0R$"
 
  BUILDING_LEVEL: "§TРегіональний рівень: $LEVEL|H$§!"
 BUILDING_CURRENT_MAX_LEVEL_CAPPED: "Поточний максимальний рівень обмежений через:"

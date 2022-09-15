@@ -30,8 +30,11 @@
  election.5.o1: "Уряд"
  election.5.o2: "Опозиція"
  election.6.t: "Проміжні вибори [GetYear] року"
- election.6.d: "Оскільки минуло 2 роки після останніх президентських виборів, настав час регулярних проміжних виборів, на яких буде вирішено хто буде керувати [ROOT.GetParliamentName] до наступних президентських виборів. Більшість у [ROOT.GetLeaderTitle] чи в Опозиції?"
+ election.6.d: "Оскільки минуло 2 роки після останніх президентських виборів, настав час регулярних проміжних виборів, на яких буде вирішено хто буде керувати [ROOT.GetParliamentName] до наступних президентських виборів. Цікаво, більшість займе [ROOT.GetLeaderTitle] чи в опозиція?"
  election.6.o1: "§PПереглянути результати виборів§!"
+ election.7.t: "Губернаторські вибори [GetYear] року"
+ election.7.d: "Поряд з національними виборами, які тривають, у кожній федеративній одиниці нашої країни, також проводяться вибори губернаторів, де виборці вирішать, яка партія очолить регіональну виконавчу владу."
+ election.7.o1: "§PПереглянути результати виборів§!"
 
  #Factions
  factions.1.t: "Держава [From.GetFlag] [From.GetNameDef] приєдналася в НАТО"
@@ -121,7 +124,7 @@
  britain.5.d: "Єлизавета II, голова дому Віндзорів, мирно пішла з життя у віці 96 років. Вона має титул найдовше правлячого британського монарха, і її смерть є кінцем доби. Її старший син, Карл III, змінив її на посаді глави дому Віндзорів."
  britain.5.o1: "Боже, бережи королеву."
  britain.6.t: "Смерть Королеви Єлизавети II"
- britain.6.d: "" #add
+ britain.6.d: "Єлизавета II, королева Сполученого Королівства та інших королівств Співдружності, мирно померла у віці 96 років. Вона має титул найдовше правлячого британського монарха, і її смерть є кінцем епохи. Її старший син, Карл III, став її наступником на посаді короля Сполученого Королівства та інших королівств Співдружності»."
  britain.6.o1: "Спочивай з миром."
  britain.7.t: "2019 UKIP leadership election"
  britain.7.d: "Despite only leading the party for around a year, UKIP leader Gerard Batten has resigned, due to disastrous European election results, and the creation of the new Brexit Party. The resulting leadership election is contested by relative newcomers, and the 2 final candidates are Richard Braine and Freddy Vachha, both without major experience."
