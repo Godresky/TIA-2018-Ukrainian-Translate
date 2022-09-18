@@ -6,7 +6,7 @@
  won_a_war: "Виграв війну"
 
  # Unique
- the_unabomber: "Унівебомбер"
+ the_unabomber: "Універбомбер"
  morbidly_obese: "Патологічне ожиріння"
  morbidly_obese_desc: "Його неможливо врятувати."
  mutti_merkel: "Мама Меркель"
@@ -15,13 +15,13 @@
 
  # Subject
  subject_pro_autonomy: "За автономію"
- subject_pro_integration: "за інтеграцію"
+ subject_pro_integration: "За інтеграцію"
 
  # Diplomacy
  friend_of_america: "Друг Америки"
  enemy_of_america: "Ворог Америки"
- friend_of_russia: "Друг росії"
- enemy_of_russia: "Ворог росії"
+ friend_of_russia: "Друг рашки"
+ enemy_of_russia: "Ворог рашки"
  friend_of_china: "Друг Китаю"
  enemy_of_china: "Ворог Китаю"
  friend_of_germany: "Друг Німеччини"

@@ -103,7 +103,7 @@
  civil_liberties_libertarian: "Лібертаріянізм"
  civil_liberties_libertarian_desc: "Громадянські свободи є важливою частиною будь-якого функціонуючого суспільства! Наші люди заслуговують на право організовуватися, право на протест, вільну пресу та вільний суд."
  civil_liberties_authoritarian: "Авторитаризм"
- civil_liberties_authoritarian_desc: "Правопорядок є важливою частиною будь-якого функціонуючого суспільства! Нам потрібно переконатися, що підривна діяльність, яка підтримується іноземними державами, не втручається в нашу політику, преса не має поширювати підривну пропаганду, а судова система має поважати авторитет уряду. Будь-які звинувачення у фальсифікації виборів є неправдивими."
+ civil_liberties_authoritarian_desc: "Правопорядок є важливою частиною будь-якого функціонуючого суспільства! Нам потрібно переконатися, що підривна діяльність, яка підтримується іноземними державами, не втручається в нашу політику, преса не має поширювати підривну пропаґанду, а судова система має поважати авторитет уряду. Будь-які звинувачення у фальсифікації виборів є неправдивими."
  civil_liberties_totalitarian: "Тоталітаризм"
  civil_liberties_totalitarian_desc: "Тільки наш великий [ROOT.GetLeaderTitle] [ROOT.GetLeader] і [ROOT.GetRulingParty] знають, що найкраще для нашої нації. Взявши під свій контроль пресу та судову систему, заборонивши протести та придушивши будь-яке дурне інакомислення, наш лідер отримає владу, необхідну йому, щоб справді вести нашу націю до слави!"
  
@@ -233,7 +233,7 @@
  hutu_tutsi_tensions: "Напруженість між Хуту та Тутсі"
  hutu_tutsi_tensions_desc: "The Hutu and the Tutsi are two separate ethnic groups living in the border regions between the Democratic Republic of the Congo and Tanzania, especially in the two small countries Burundi and Rwanda. Burundi is dominated by the Tutsi and committed a genocide against the Hutu in 1972, whereas Rwanda is dominated by the Hutu and had thousands of Tutsis slaughtered by Hutu militias in 1994.\n\nThese two ethnic groups just seem to not get along, but have been forced into the same countries by the European-created colonial borders."
  electoral_honeymoon: "Виборчий медовий місяць"
- electoral_honeymoon_desc: "An electoral honeymoon refers to the month after a leader's election, where they face much less hostile opposition and much greater power to implement their policies. This highly valuable period of time should never go to waste."
+ electoral_honeymoon_desc: "Виборчий медовий місяць - це є час після виборів лідера, коли він стикається з набагато меншою ворожнечою від опозиції та має набагато більшу владу для реалізації своєї політики. Цей дуже цінний період часу ніколи не повинен бути даремно згаяним."
  idea_nonpartisan_political_system: "Безпартійна політична система"
  idea_nonpartisan_political_system_desc: "У цій країні створені політичні партії є рідкістю, а політика орієнтована на особистість. Парламентські альянси утворюються та розпадаються між окремими законодавцями, змушуючи їх справді виділятися, якщо вони хочуть зберегти свої місця. З меншою поляризацією та партійною політикою люди тут точно не напружуються через політику. Тут панують незалежні."
  idea_constitutional_monarchy: "Конституційна монархія"
@@ -339,8 +339,8 @@
  idea_article_9_desc: "Стаття 9 Конституції Японії — це положення в національній Конституції Японії, яке забороняє війну як засіб вирішення міжнародних суперечок за участю нашої держави. Конституція набула чинності 3 травня 1947 року після Другої світової війни. У його тексті держава офіційно відмовляється від суверенного права ведення війни та прагне до міжнародного миру, заснованого на справедливості та порядку. У статті також зазначено, що для досягнення цих цілей збройні сили з військовим потенціялом підтримуватися не будуть.\n\nЧерез статтю 9, Японії конституційно заборонено оголошувати війну іншим націям, а також заборонено брати участь у військовій службі."
 
  #People's Republic of China
- idea_great_firewall: "Великий брандмауер"
- idea_great_firewall_desc: "The Great Firewall is the combination of legislative actions and technologies enforced by the People's Republic of China to regulate the Internet domestically. Its role in internet censorship in China is to block access to selected foreign websites and to slow down cross-border internet traffic. The effect includes: limiting access to foreign information sources, blocking foreign internet tools and mobile apps, and requiring foreign companies to adapt to domestic regulations..\n\nThe policy prevents subversive information from reaching the minds of Chinese citizens, such as ideas of freedom or democracy. However, it costs a lot to maintain."
+ idea_great_firewall: "Великий вогнемур"
+ idea_great_firewall_desc: "Великий вогнемур — це сукупність законодавчих дій і технологій, запроваджених державою [PRC.GetFlag] [PRC.GetNameDef] для внутрішнього регулювання інтернету. Він цензурує інтернет тим, що блокує доступ до окремих іноземних веб-сайтів і уповільненнює транскордонний інтернет-трафік. Ефект від цього включає: обмеження доступу до іноземних джерел інформації, блокування іноземних інтернет-інструментів та мобільних додатків, а також вимогу до іноземних компаній адаптуватися до внутрішнього законодавства."
 
  #India
  idea_RAJ_south_asian_tiger: "Тигр Південної Азії"
@@ -364,11 +364,11 @@
 
  #Islamic State
  idea_the_islamic_state: "Ісламська держава"
- idea_the_islamic_state_desc: "The Islamic State has emerged to become one of the most effective jihadist forces in history, largely due to their unique tactics and structure. Led by Caliph [ISS.GetLeader], the group is decentralized and spread out across several regions, with units largely independent of central leadership and experienced in guerrilla tactics."
+ idea_the_islamic_state_desc: "«Ісламська держава» стала однією з найефективніших сил джихадистів в історії, головним чином завдяки їхній унікальній тактиці та структурі. Очолювана [ISS.GetLeaderTitle] [ISS.GetLeader], група децентралізована та розподілена по кількох регіонах, з підрозділами, які майже не залежать від центрального керівництва та мають досвід партизанської тактики."
 
  #North Korea
  idea_songun: "Сонґун"
- idea_songun_desc: "Сонґун — це військова політика держави [PRK.GetFlag] [PRK.GetNameDef], яка віддає перевагу Корейській народній армії в державних справах і розподілі ресурсів. Політичне та економічне життя в державі [PRK.GetFlag] [PRK.GetNameDef] керує принципом «перш за все військові», де політика «перш за все військова» домінує в політичній системі; лінія військово-господарського будівництва, що виступає як економічна система та ідеологія військового призначення, яка виступає в якості керівної ідеології."
+ idea_songun_desc: "Сонґун — це військова політика держави [PRK.GetFlag] [PRK.GetNameDef], яка віддає перевагу [PRK.GetAdjective]ій народній армії в державних справах і розподілі ресурсів. Політичне та економічне життя в цій державі керується принципом «перш за все військові», де ця ідеологія домінує в політичній та економічній системах."
 
  #Hong Kong
  idea_FOMLACM: "ЗВВПДКС"

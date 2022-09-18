@@ -53,7 +53,7 @@ guiTypes = {
 			name ="recommended_party"
 			position = { x= 250 y = 70 }
 			font = "hoi_24header"
-			text = "Обраний спікером: [This.GetLargestPartySeats]"
+			text = "Буде промовцем: [This.GetLargestPartySeats]"
 			format = center
 			maxWidth = 500
 			maxHeight = 24

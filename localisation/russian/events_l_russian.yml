@@ -478,10 +478,10 @@
  australia.4.o1: "Anthony Albanese"
  
  #Swaziland
- swaziland.1.t: "The Kingdom of Eswatini"
- swaziland.1.d: "Today, the tiny African country of Swaziland changed its name. Due to constant confusion with Switzerland and even Sweden, [SWZ.GetLeaderTitle] [SWZ.GetLeader] has authorized a proposal changing the country's name to the Kingdom of Eswatini, meaning Land of the Swazis. Will this finally separate them from Switzerland and Sweden?"
- swaziland.1.o1: "Switzerland has a new name?"
- swaziland.1.o2: "Finally!"
+ swaziland.1.t: "Королівство Есватіні"
+ swaziland.1.d: "Сьогодні крихітна африканська країна [SWZ.GetFlag] [SWZ.GetOldName] змінила назву. Через постійну плутанину зі державами [SWI.GetNonIdeologyNameDef] та навіть [SWE.GetNonIdeologyNameDef]. Тому сьогодні [SWZ.GetLeaderTitle] [SWZ.GetLeader] схвалив пропозицію змінити назву країни на  [SWZ.GetFlag] [SWZ.GetNameDef], що означає Землю Свазі. Питання чи справді це багато чого змінить?"
+ swaziland.1.o1: "[SWZ.GetNonIdeologyNameDef] це що?"
+ swaziland.1.o2: "Нарешті!"
 
  #Italy
  israel.1.t: "Blue and White"
@@ -869,9 +869,9 @@ south_tyrol.1.o1: "Of course."
 south_tyrol.1.o2: "Definitely not."
 
 #Hong Kong
-hong_kong.1.t: "Заворушення в Гонконгу"
-hong_kong.1.d: "Масштабні протести та заворушення спалахнули в Особливому Адміністративному районі Гонконг після законопроєкту, поданого місцевим урядом на чолі з [HKN.GetLeaderTitle] [HKN.GetLeader], який дозволяє вивозити злочинців безпосередньо в Китай. Повідомляється, що місцеві жителі озброїлися шоломами, захисними масками, протигазами та парасольками, руйнуючи урядові та китайські об'єкти та влаштовуючи бійки з поліцією. Рух протесту, включно з міськими «демократичними» та «місцевими» таборами, вимагав відкликати законопроєкт про екстрадицію, а також більше громадянських свобод і менше китайського впливу."
-hong_kong.1.o1: "Вільний Гонконг!"
+hong_kong.1.t: "Заворушення в місті [HKN.GetFlag] [HKN.GetNonIdeologyNameDef]"
+hong_kong.1.d: "Масштабні протести та заворушення спалахнули в [HKN.GetFlag] [HKN.GetNameDef] після законопроєкту, поданого місцевим урядом на чолі з [HKN.GetLeaderTitle] [HKN.GetLeader], який дозволяє вивозити злочинців безпосередньо в Китай. Повідомляється, що місцеві жителі озброїлися шоломами, захисними масками, протигазами та парасольками, руйнуючи урядові та китайські об'єкти та влаштовуючи бійки з поліцією. Рух протесту, включно з міськими «демократичними» та «місцевими» таборами, вимагав відкликати законопроєкт про екстрадицію, а також більше громадянських свобод і менше китайського впливу."
+hong_kong.1.o1: "За вільний [HKN.GetNonIdeologyNameDef]!"
 hong_kong.1.o2: "Демократія? Дуже смішно!" 
 
 #Kosovo
