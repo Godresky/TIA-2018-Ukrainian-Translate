@@ -1,4 +1,4 @@
-# The Information Age Modern Day 2018 - Ukraine Translate
+# The Information Age Modern Day 2018 - Ukrainian Translate
 Ukrainian localization for TIA 2018 modification / Українська локалізація для модифікації ТІА 2018
 
 
