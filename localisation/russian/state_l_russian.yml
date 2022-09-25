@@ -86,7 +86,7 @@ STATE_OWNER_MODIFIER_INFO: "Регіон отримує наступні мод�
  state_level_5: "Рівень 5"
 
  # State Government
- state_government: "Прихильність до нас од. [THIS.GetStateTitle] §Y[THIS.GetName]§!"
+ state_government: "Уряд в од.\n [THIS.GetStateTitle] §Y[THIS.GetName]§!"
  state_government_federally_administered: "§gУрядова адміністрація§!"
  governing_party: "Партія"
  sg_affiliation: "Прихильність"
