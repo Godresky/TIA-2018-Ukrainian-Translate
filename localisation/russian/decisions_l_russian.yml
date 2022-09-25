@@ -234,7 +234,7 @@ ON_MAP_DECISION_NAME_DEFAULT: "Вказати рішення на мапі."
  
  #Military Affairs
  military_affairs: "Воєнна політика"
- remilitarize_state: "Ремілітаризувати §m[FROM.GetName]§!"
+ remilitarize_state: "Ремілітаризувати територію §m[FROM.GetName]§!"
  remilitarize_state_desc: "[FROM.GetName] — наша суверенна земля. Чому ми повинні дотримуватися цих так званих міжнародних договорів, які змушують нас не втручатися в це нашим військовим? Це смішно!"
  launch_operation_iron_fist: "Почати операцію §O«Залізний Кулак»§!"
  launch_operation_iron_fist_desc: "[ARM.GetAdjective]і лялькової терористи так званого утворення [ART.GetFlag] [ART.GetNameDef] продовжують окупувати законні [AZR.GetAdjective]і землі, включаючи регіони: [1097.GetName] та [1295.GetName]. Настав час вигнати їх звідти раз і назавжди."

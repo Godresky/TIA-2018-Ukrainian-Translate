@@ -87,14 +87,14 @@ DIPLOMACY_MESSAGE_DECLINED_TITLE_DIPLOMACY_JOIN_FACTION: "Вступ до аль
 DIPLOMACY_MESSAGE_DECLINED_MESSAGE_DIPLOMACY_JOIN_FACTION: "\nДержава §Y$COUNTRY$§! §Rвідмовилася§! прийняти нас у їхній альянс!"
 
 DIPLOMACY_MESSAGE_ACCEPTED_TITLE_DIPLOMACY_LEND_LEASE: "Ленд-ліз прийнятий"
-DIPLOMACY_MESSAGE_ACCEPTED_MESSAGE_DIPLOMACY_LEND_LEASE: "\nДержава §Y$COUNTRY$§! §Gпогодилася§! на наш ленд-ліз.\n\nНаша матеріальна підтримка допоможе їм у їхніх справах."
+DIPLOMACY_MESSAGE_ACCEPTED_MESSAGE_DIPLOMACY_LEND_LEASE: "\nДержава §Y$COUNTRY$§! §Gпогодилася§! на наш ленд-ліз.\n\nНаша матеріяльна підтримка допоможе їм у їхніх справах."
 DIPLOMACY_MESSAGE_DECLINED_TITLE_DIPLOMACY_LEND_LEASE: "Ленд-ліз відхилений"
-DIPLOMACY_MESSAGE_DECLINED_MESSAGE_DIPLOMACY_LEND_LEASE: "\nДержава §Y$COUNTRY$§! §Rвідмовилася§! від нашого ленд-лізу!\n\nВони не отримають нашу матеріальну підтримку."
+DIPLOMACY_MESSAGE_DECLINED_MESSAGE_DIPLOMACY_LEND_LEASE: "\nДержава §Y$COUNTRY$§! §Rвідмовилася§! від нашого ленд-лізу!\n\nВони не отримають нашу матеріяльну підтримку."
 
 DIPLOMACY_MESSAGE_ACCEPTED_TITLE_DIPLOMACY_LEND_LEASE_EXISTING: "Зміни ленд-лізу прийняті"
-DIPLOMACY_MESSAGE_ACCEPTED_MESSAGE_DIPLOMACY_LEND_LEASE_EXISTING: "\nДержава §Y$COUNTRY$§! §Gпогодилася§! на наші зміни ленд-лізу.\n\nНаша продовжувана матеріальна підтримка допоможе їм у їхніх справах."
+DIPLOMACY_MESSAGE_ACCEPTED_MESSAGE_DIPLOMACY_LEND_LEASE_EXISTING: "\nДержава §Y$COUNTRY$§! §Gпогодилася§! на наші зміни ленд-лізу.\n\nНаша продовжувана матеріяльна підтримка допоможе їм у їхніх справах."
 DIPLOMACY_MESSAGE_DECLINED_TITLE_DIPLOMACY_LEND_LEASE_EXISTING: "Зміни ленд-лізу відхилені"
-DIPLOMACY_MESSAGE_DECLINED_MESSAGE_DIPLOMACY_LEND_LEASE_EXISTING: "\nДержава §Y$COUNTRY$§! §Rвідмовилася§! від наших змін ленд-лізу!\n\nВони більше не отримуватимуть нашу матеріальну підтримку."
+DIPLOMACY_MESSAGE_DECLINED_MESSAGE_DIPLOMACY_LEND_LEASE_EXISTING: "\nДержава §Y$COUNTRY$§! §Rвідмовилася§! від наших змін ленд-лізу!\n\nВони більше не отримуватимуть нашу матеріяльну підтримку."
 
 DIPLOMACY_MESSAGE_ACCEPTED_TITLE_DIPLOMACY_PEACE_PROPOSAL: "Пропозицію миру прийнято"
 DIPLOMACY_MESSAGE_ACCEPTED_MESSAGE_DIPLOMACY_PEACE_PROPOSAL: "\nДержава §Y$COUNTRY$§! §Gпогодилася§! підписати з нами мир.\n\nВійна між нашими державами була зупинена."
