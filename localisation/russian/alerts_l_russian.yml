@@ -194,7 +194,7 @@ alert_not_enough_garrison_delayed: "Нам не вистачає $NUM|*H$ люд
 alert_not_enough_garrison_delayed_equipment: "Нам не вистачає наступного оснащення:"
 ALERT_OPERATIVE_READY_TO_RECRUIT_INSTANT: "Можна завербувати агента"
 ALERT_OPERATIVE_READY_TO_RECRUIT_DELAYED: "§GКлацніть§!, щоб відкрити вікно вербування"
-ALERT_LOSING_TRAINS: "Втрата потягів через ворожі удари по логістиці!"
+ALERT_LOSING_TRAINS: "Втрата вантажівок через ворожі удари по логістиці!"
 alert_doctrine_unlock_instant: "§YЄ доступні доктрини§!"
 alert_doctrine_unlock_delayed: "Ви можете розблокувати нове: \n$DOCTRINE$"
 alert_officer_corps_instant: "§YЗміна офіцерського корпусу§!"
