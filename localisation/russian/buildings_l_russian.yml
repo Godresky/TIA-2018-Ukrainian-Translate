@@ -19,7 +19,7 @@ NAVAL_BASE_CAPACITY: "Місткість: $USED|1G$/$TOTAL|0G$"
 NAVAL_BASE_CAPACITY_OVER: "Місткість: $USED|1R$/$TOTAL|0R$"
 NAVAL_BASE_CAPACITY_PENALTY: "Штраф до швидкости ремонту від місткости: $PENALTY|%0R$"
 
- BUILDING_LEVEL: "§TРегіональний рівень: $LEVEL|H$§!"
+BUILDING_LEVEL: "§TРегіональний рівень: $LEVEL|H$§!"
 BUILDING_CURRENT_MAX_LEVEL_CAPPED: "Поточний максимальний рівень обмежений через:"
 BUILDING_CURRENT_MAX_LEVEL_NONCAPPED: "Поточний максимальний рівень не обмежений."
 BUILDING_CURRENT_MAX_LEVEL_CAPPED_MANPOWER: "Населення регіону: $MANPOWER|*Y$"

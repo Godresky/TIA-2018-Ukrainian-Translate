@@ -288,7 +288,7 @@
 
  #Bosnia
  idea_dayton_agreement: "Дейтонська угода"
- idea_dayton_agreement_desc: "The Dayton Agreement is the peace agreement reached in Dayton, Ohio on 1 November 1995. These accords put an end to the ​3-and-a-half-year-long Bosnian War. The warring parties agreed to peace and to a single sovereign state known as Bosnia and Herzegovina composed of two parts, the largely Serb-populated Republika Srpska and the Croat-Bosniak Federation of Bosnia and Herzegovina."
+ idea_dayton_agreement_desc: "Дейтонська угода — це мирна угода, укладена в Дейтоні, штат Огайо, 1 листопада 1995 року. Ці угоди поклали кінець Боснійській війні, яка тривала три з половиною роки. Ворогуючі сторони погодилися на мир і єдину суверенну державу, відому як Боснія і Герцеґовина, що складається з двох частин, переважно населеної сербами автономії [RSE.GetFlag] [RSE.GetNameDef] та хорватсько-боснійської автономії [BIH.GetFlag] [BIH.GetNameDef]."
 
  #Israel
  idea_the_jewish_state: "Єврейська держава"
