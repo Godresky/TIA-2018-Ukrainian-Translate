@@ -149,6 +149,8 @@ VOLUNTEER_THEATER_GROUP_NAME_PATTERN: "$NUMBER$ $VOLADJECTIVE$і доброво�
 THEATER_GROUP_NAME_PATTERN: "$NUMBER$ $ADJECTIVE|l$ий театр"
 NEW_THEATER_GROUP: "Новий театр"
 RESERVE_NAVY_THEATER_GROUP_NAME: "Резервні флоти"
+UNASSIGNED_AIR_WINGS: "Незгруповані авіякрила"
+AIR_GROUP_NAME_PATTERN: "$NUMBER$ $ADJECTIVE$а авіягрупа"
 NAVY_THEATER_DETACHED_TASK_FORCES: "Флот $FLEET_NAME|H$ має $NUM_SHIPS|H$ відділених кораблів у $NUM_TASK_FORCES|H$ оперативних групах"
 NAVY_THEATER_DETACHED_RESERVE_TASK_FORCES: "Резервні флоти в цьому театрі мають $NUM_SHIPS|H$ відділених кораблів у $NUM_TASK_FORCES|H$ оперативних групах"
 NAVY_THEATER_DETACHED_TASK_FORCES_ENTRY: "Оперативна група $TASK_FORCE_NAME|H$ має:"

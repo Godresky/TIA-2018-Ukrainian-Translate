@@ -1,4 +1,6 @@
 ﻿l_russian:
+
+ # System
 RESEARCH_BONUSES_TOOLTIP: "Обмежені бонуси до досліджень, які в нас є:"
 RESEARCH_BONUSES_EMPTY_TOOLTIP: "Обмежені бонуси до досліджень будуть перелічені тут."
 RESEARCH_BONUS_SPEED_DESC: "§Y$COUNT$x§! $VALUE|G%0$ бонус до досліджень: $NAME$"
@@ -1138,7 +1140,7 @@ FINISHED_RESEARCH_POPUP_DESC: "...і $NUM|H$ додаткових ефектів
  airplane_launcher_advice2_tt:0 "\nStationing a §YHelicopter Drone§! module on §YDestroyers§!, §YFrigates§! and §YCruisers§! improves their ability to detect enemy ships and provides airborne weapon systems. These are not as effective scouts as manned helicopters."
  cruiser_advice_tt:0 "\n§YDestroyers§! and §YFrigates§! are defined by their different §YWeaponry§!, with Frigates having only light naval weapons and Destroyers with at least one heavy weapon system."
  cruiser_armor_advice_tt:0 "\nMounting a better §YCIWS§! module on §YDestroyers§! and §YFrigates§! improves their ability to withstand damage by destroying incoming missiles."
- heavy_armor_advice_tt:0 "\nMounting a better §YCIWS§! module on §YHeavy Ships§! improves their ability to withstand damage by destroying incoming missiles." #§YMissile Cruisers§! and §YClippers§! are defined by their different §YArmor Schemes§!, with Clippers generally having weaker armor.
+ heavy_armor_advice_tt:0 "\nMounting a better §YCIWS§! module on §YHeavy Ships§! improves their ability to withstand damage by destroying incoming missiles."
  basic_cruiser_armor_scheme:0 "Basic Destroyer Close-in Weapon System"
  basic_cruiser_armor_scheme_desc:1 "A close-in weapon system is a point-defense weapon system for detecting and destroying short-range incoming missiles and enemy aircraft which have penetrated the outer defenses, typically mounted shipboard in a naval capacity. Nearly all classes of larger modern warships are equipped with some kind of CIWS device."
  improved_cruiser_armor_scheme:0 "Improved Destroyer Close-in Weapon System"

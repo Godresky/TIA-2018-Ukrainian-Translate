@@ -694,8 +694,8 @@
  BLZ_ENG_autonomy_autonomous_region_DEF: "$OVERLORDADJ$ий Гондурас"
 
 ### S. America
- GYA_ENG_autonomy_autonomous_region: "$OVERLORDADJ$а Ґвіяна"
- GYA_ENG_autonomy_autonomous_region_DEF: "$OVERLORDADJ$а Ґвіяна"
+ GUY_ENG_autonomy_autonomous_region: "$OVERLORDADJ$а Ґвіяна"
+ GUY_ENG_autonomy_autonomous_region_DEF: "$OVERLORDADJ$а Ґвіяна"
  SUR_HOL_autonomy_autonomous_region: "$OVERLORDADJ$а Ґвіяна"
  SUR_HOL_autonomy_autonomous_region_DEF: "$OVERLORDADJ$а Ґвіяна"
  CAY_FRA_autonomy_autonomous_region: "$OVERLORDADJ$а Ґвіяна"
@@ -746,8 +746,8 @@
  PRK_PRC_autonomy_autonomous_region_DEF: "Корейський Автономний Район"
  KOR_PRC_autonomy_autonomous_region: "Корейський Автономний Район"
  KOR_PRC_autonomy_autonomous_region_DEF: "Корейський Автономний Район"
- VIN_PRC_autonomy_autonomous_region: "В'єтнамський Автономний Район"
- VIN_PRC_autonomy_autonomous_region_DEF: "В'єтнамський Автономний Район"
+ VNM_PRC_autonomy_autonomous_region: "В'єтнамський Автономний Район"
+ VNM_PRC_autonomy_autonomous_region_DEF: "В'єтнамський Автономний Район"
  LAO_PRC_autonomy_autonomous_region: "Лаоський Автономний Район"
  LAO_PRC_autonomy_autonomous_region_DEF: "Лаоський Автономний Район"
  CAM_PRC_autonomy_autonomous_region: "Кхмерський Автономний Район"
