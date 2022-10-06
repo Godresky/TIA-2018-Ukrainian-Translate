@@ -297,7 +297,7 @@ OPERATION_TOKEN_INFILTRATED_RESISTANCE_CONTACTS_DESC: "Установлено з
 PREPARED_OPERATION_REFUND_TOOLTIP: "Operation will be refunded in $DAYS|R$ days."
 
 DIPLOMATIC_PRESSURE_OPINION_REQUIREMENTS_DRIFT: "Змінює вимоги до §Yдумки§! на $DRIFT|H$ за день"
-DIPLOMATIC_PRESSURE_TENSION_REQUIREMENTS_DRIFT: "Змінює вимоги до §Yнапруженості§! на $DRIFT|1%H$ за день"
+DIPLOMATIC_PRESSURE_TENSION_REQUIREMENTS_DRIFT: "Змінює вимоги до §Yнапружености§! на $DRIFT|1%H$ за день"
 INTEL_NETWORK_IN_STATE: "Розвідмережа в регіоні $STATE|H$ $FLAG$"
 NO_INTEL_NETWORK_IN_STATE: "Нема розвідмережі в регіоні $STATE|H$ $FLAG$"
 QUIET_INTEL_NETWORK_IN_STATE_DESC: "§RМережа неактивна§!\nРозмір мережі зберігається, але її ефекти недоступні й нею не можна скористатися для запуску операцій."

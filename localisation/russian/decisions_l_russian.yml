@@ -1,5 +1,5 @@
 ﻿l_russian:
- DECISIONVIEW_TITLE: "Події та рішення"
+DECISIONVIEW_TITLE: "Події та рішення"
 DECISIONSVIEW_EVENT_HEADER: "Події"
 POPUP_NEWS: "Показ. новини"
 POPUP_EVENTS: "Показ. події"
@@ -11,8 +11,8 @@ DECISION_NOT_KEEP_NOTIFIED: "§HСповіщення§!\n\n§GКлацніть§
 TAKE_DECISION_HEADER: "§HПрийняти рішення§!\n\n"
 NEWS_POPUP_CHECKBOX_TOOLTIP: "§GКлацніть§!, щоб увімкнути/вимкнути сповіщення про новини."
 EVENT_POPUP_CHECKBOX_TOOLTIP: "§GКлацніть§!, щоб увімкнути/вимкнути сповіщення про події."
-MINOR_EVENT_POPUP_CHECKBOX_TOOLTIP: "§GКлацніть§!, щоб увімкнути/вимкнути сповіщення про міні події, такі як льотчики-аси."
-POPUP_MINOR_EVENTS: "Міні події"
+MINOR_EVENT_POPUP_CHECKBOX_TOOLTIP: "§GКлацніть§!, щоб увімкнути/вимкнути сповіщення про мініподії, такі як льотчики-аси."
+POPUP_MINOR_EVENTS: "Показ. мініподії"
 DECISION_COST_DESC: "Прийняття цього рішення коштує £pol_power $VAL|H0$"
 DECISION_COST_NOT_ENOUGH: "Прийняття цього рішення коштує £pol_power $VAL|HR0$"
 ON_MAP_DECISION_NAME_DEFAULT: "Вказати рішення на мапі."

@@ -120,3 +120,4 @@ FUEL_MEDIUM_PRIORITY_DESC: "Середній пріоритет пального
 FUEL_HIGH_PRIORITY_DESC: "Високий пріоритет пального"
 LOGISTICS_NEED_OPERATION_REQUEST_LOW_VALUE: "У середньому ми надсилаємо $NEED|^1Y$ од. за день на операції"
 LOGISTICS_NEED_OPERATION_REQUEST_HIGH_VALUE: "У середньому ми надсилаємо $NEED|^0Y$ од. за день на операції"
+LOGISTICS_VIEWING_WHICH_COUNTRY: "Наразі Ви переглядаєте логістику держави $COUNTRY|H$."
