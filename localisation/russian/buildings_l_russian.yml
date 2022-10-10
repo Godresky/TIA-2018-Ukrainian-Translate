@@ -1,5 +1,5 @@
 ﻿l_russian:
- BUILDING_BOMBED: "Споруду $BUILDING$ підірвано!"
+BUILDING_BOMBED: "Споруду $BUILDING$ підірвано!"
 BUILDING_SABOTAGED: "Споруду $BUILDING$ саботовано!"
 BUILDING_REPAIRED: "Споруду $BUILDING$ відремонтовано!"
 BUILDING_DAMAGE_REASON_COLLATERAL: "Споруда $BUILDING$ постраждала від побічної шкоди!"
@@ -7,7 +7,7 @@ BUILDING_SCORCHED: "Споруду $BUILDING$ спалено!"
 NUKE_DROPPED: "Ядерну бомбу скинуто!"
 BUILDING_DAMAGED: "Рівень пошкоджень: $DAMAGED|-$/$CURRENT|H$"
 
- CAPACITY: "$VAL$/$MAX$"
+CAPACITY: "$VAL$/$MAX$"
 CAPACITY_PLUS: "$VAL$+$PLUS$/$MAX$"
 AIR_BASE_LEVEL: "§HВоєнне летовище§! в регіоні $NAME|H$, $VAL|H$ рівень"
 AIR_BASE_LEVEL_UNKNOWN: "§HВоєнне летовище§! в регіоні $NAME|H$"
