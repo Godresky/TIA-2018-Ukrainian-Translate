@@ -25,6 +25,7 @@
  law_enforcement: "Правоохоронні органи"
  economic_subsidies: "Економічні субсидії"
  tax_policy: "Податкова політика"
+ term_length: "Каденція"
 
  ###Laws###
 
@@ -155,6 +156,18 @@
  cheondoism: "Чеондоїзм"
  sunni_islam: "Сунітський Іслам"
  shia_islam: "Шиїтський Іслам"
+
+ #Term Length
+ one_year_term: "Річний термін"
+ two_year_term: "Дворічний термін"
+ three_year_term: "Трирічний термін"
+ four_year_term: "Чотирирічний термін"
+ five_year_term: "П'ятирічний термін"
+ six_year_term: "Шестирічний термін"
+ seven_year_term: "Семирічний термін"
+ eight_year_term: "Восьмирічний термін"
+ nine_year_term: "Дев'ятирічний термін"
+ ten_year_term: "Десятирічний термін"
 
  #Tax Policy
  very_high_taxes: "Дуже високі податки"
