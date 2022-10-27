@@ -1,4 +1,8 @@
 ﻿l_russian:
+ european_parliament_temporary_list: "ФРАКЦІЇ:\nЄвроскептики: §G[?EUU.eurosceptic_seats]%§!\nПан'європейці: §G[?EUU.pro_european_seats]§!%\n\nПОЛІТИЧНІ ГРУПИ:\nInitiative of Communist and Workers' Parties: [?EUU.INITIATIVE_seats]%\nEuropean United Left/Nordic Green Left: [?EUU.GUE_NGL_seats]%\nThe Greens/European Free Alliance: [?EUU.GREENS_EFA_seats]%\nProgressive Alliance of Socialists and Democrats: [?EUU.SD_seats]%\nAlliance of Liberals and Democrats for Europe: [?EUU.ALDE_seats]%\nEuropean People's Party: [?EUU.EPP_seats]%\nEuropean Conservatives and Reformists: [?EUU.ECR_seats]%\nIdentity & Democracy: [?EUU.ID_seats]%\nAlliance for Peace and Freedom: [?EUU.APF_seats]%\nNon-Inscrits: [?EUU.NI_seats]%" #TEMPORARY
+
+
+
  # Flag Tooltips
  forming_government: "Зараз формує уряд"
  climate_change_mechanic_implemented: "Впроваджено механізм зміни клімату"
@@ -15,7 +19,7 @@
 
  # Custom Tooltips
  tooltip_ahistorical_option: "Ця опція доступна лише тоді, коли історичний режим вимкнено.\n"
- tooltip_civil_war_warning: "§RЦе спричинить громадянську війну!§W\n"
+ tooltip_civil_war_warning: "§RЦе спричинить громадянську війну!§!\n"
  presidential_majority_government: "§GПрезидентський уряд більшості§!"
  parliamentary_majority_government: "§GПарламентський уряд більшості§!"
  randomly_selected_majority_government: "§GДовільно обраний уряд більшості§!"

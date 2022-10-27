@@ -1760,9 +1760,9 @@ CANT_MOVE_SUPPLY_CAPITAL_SURRENDER_LIMIT: "§RВи не можете перем�
 CANT_MOVE_SUPPLY_CAPITAL_NOT_CONTROLLED: "§RВи не можете перемістити свій столичний центр в неконтрольовані провінції.§!"
 CANT_MOVE_SUPPLY_CAPITAL_NO_BUILD_NODE: "§RВи не можете перемістити свій столичний центр в провінцію без логістичного центру.§!"
 CANT_MOVE_SUPPLY_CAPITAL_ON_COOLDOWN: "§RВи не можете перемістити свій столичний центр наступні $NUM$ дн.§!"
- ARMY_BADGE_DIVISIONS_SUMMARY_ITEM_HEADER:0 "§GClick§! to select divisions.\n§GShift + Click§! to toggle selection."
+ARMY_BADGE_DIVISIONS_SUMMARY_ITEM_HEADER: "§GКлацніть§!, щоб обрати дивізії.\n§GShift + Клацніть§!, щоб перемкнути вибір."
 ARMY_BADGE_ORG_STR_INDICATOR_TOOLTIP: "§HОрганізація§!\nСереднє значення: §H$ORG_MEAN$%§!\nМедіянне значення: §H$ORG_MEDIAN$%§!\n\n§HБоєздатність§!\nСереднє значення: §H$STR_MEAN$%§!\nМедіянне значення: §H$STR_MEDIAN$%§!"
- RAILWAY_CONSTUCTION_TOOLTIP: "Будівництво автостради $RAILWAY_NAME|H$ $TARGET_LEVEL|H$ рівня"
+RAILWAY_CONSTUCTION_TOOLTIP: "Будівництво автостради $RAILWAY_NAME|H$ $TARGET_LEVEL|H$ рівня"
 RAILWAY_UPGRADE_TOOLTIP: "Покращення автостради $RAILWAY_NAME|H$ з $START_LEVEL|H$ до $TARGET_LEVEL|H$ рівня"
 RAILWAY_CONSTRUCTION_ALL_COMPLETE: "Час для завершення: $TIME$"
 RAILWAY_CONSTRUCTION_ALL_COMPLETE_NEEDED_RAILWAYS: "Потрібних автострад для завершення: $NUM|H$"

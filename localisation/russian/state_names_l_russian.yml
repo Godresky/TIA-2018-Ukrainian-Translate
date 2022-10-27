@@ -935,7 +935,7 @@
  STATE_934:0 "Hirshabelle"
  STATE_935:0 "al-Mahrah"
  STATE_936:0 "Qabailistan"
- STATE_937:0 "Hajin"
+ STATE_937:0 "Хаджін"
  STATE_938:0 "Tartus"
  STATE_939:0 "Північний Пхьонан"
  STATE_940:0 "Sassandra-Marahoué"
@@ -1150,7 +1150,7 @@
  STATE_1149:0 "Йорданська долина"
  STATE_1150:0 "Аль-Халіль" #араб: Хеврон
  STATE_1151:0 "Східна Македонія"
- STATE_1152:0 "Agion Oros"
+ STATE_1152:0 "Айон-Орос"
  STATE_1153:0 "Західна Македонія"
  STATE_1154:0 "Кіклади"
  STATE_1155:0 "Ґеґерія"
