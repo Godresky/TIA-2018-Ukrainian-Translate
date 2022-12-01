@@ -66,7 +66,7 @@ MAPMODE_ALL_ENTRY_DETAILS: "§GКлацніть ЛКМ§!, щоб обрати.\
 MAPMODE_TOOLTIP_INFRASTRUCTURE: "£infrastructure_texticon Інфраструктура $INF|Y$"
 MAPMODE_TOOLTIP_MANPOWER: "£population_texticon  Населення $MP|*Y$"
 
-MAPMODE_EU_MAP_MODE_NAME:1 "Євросоюз"
-MAPMODE_EU_MAP_MODE:1 "Режим мапи: §HЄвропейський Союз§!"
-MAPMODE_EU_MAP_MODE_DESCRIPTION:1 "Цей режим показує склад §HЄвропейського Союзу§!"
-EU_map_mode_tooltip:1 "Держави-члени Європейського Союзу"
+MAPMODE_EU_MAP_MODE_NAME:1 "Евросоюз"
+MAPMODE_EU_MAP_MODE:1 "Режим мапи: §HЕвропейський Союз§!"
+MAPMODE_EU_MAP_MODE_DESCRIPTION:1 "Цей режим показує склад §HЕвропейського Союзу§!"
+EU_map_mode_tooltip:1 "Держави-члени Европейського Союзу"
