@@ -139,7 +139,6 @@ select_partner: "Вибрати"
  parliament_national_peoples_congress: "Збори Народних Представників"
  parliament_assembly_of_the_union: "Асамблея Союзу"
  parliament_sabor: "Сабор"
- parliament_national_assembly_of_peoples_power: "Національна Асамблея Народної Влади"
  parliament_folketing: "Фолькетинґ"
  parliament_national_parliament: "Національний Парламент"
  parliament_riigikogu: "Рійґікоґу"
@@ -212,6 +211,8 @@ select_partner: "Вибрати"
  POLITICAL_GROUPS: "Політичні групи"
  GOVERNMENT_COALITION_POPULARITY: "§GУряд: [?ROOT.Coalition]%§!"
  OPPOSITION_POPULARITY: "§RОпозиція: [?ROOT.Opposition]%§!"
+ PRO_EUROPEAN_POPULARITY: "§GПан'европейці: [?EUU.pro_european_seats]%§!"
+ EUROSCEPTIC_POPULARITY: "§RЕвроскептики: [?EUU.eurosceptic_seats]%§!"
 
  #### Government Mechanic 
  # Tooltips
