@@ -1,0 +1,5 @@
+﻿l_english:
+
+ # Topbar
+ MONEY_VALUE:0 "[?state_treasury]"
+ MONEY_TOOLTIP:0 "§YДержавні фінанси§!\nЧистий баланс: §Y[?state_treasury]§!\nЩомісячний дохід: §G[?monthly_revenue]§!\n- Дохід від податків: §G[?monthly_income_tax_revenue]§!\n- Корпоративний податок: §G[?monthly_corporate_tax_revenue]§!\nЩомісячні витрати: §R[?monthly_expenses]§!\n- На соціяльне забезпечення: §R[?monthly_welfare_expenses]§!\n- На охорону здоров'я: §R[?monthly_healthcare_expenses]§!\n- На освіту: §R[?monthly_welfare_expenses]§!\n- На оборону: §R[?monthly_defense_expenses]§!\n- На правоохоронні органи: §R[?monthly_law_enforcement_expenses]§!\n- На економічні субсидії: §R[?monthly_economic_subsidies]§!\nЩомісячний зміна: §Y[?monthly_net_income]§!"
