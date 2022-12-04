@@ -46,7 +46,7 @@ RULE_GROUP_AI_BEHAVIOR: "Поведінка ШІ"
 
 # DIFFICULTY SETTINGS
 CUSTOM_DIFFICULTY_GROUP_NAME: "Бафи для держав"
-custom_diff_strong_ger: "Посилити @GER Німеччину"
+custom_diff_strong_ger: "Посилити @DEU Німеччину"
 custom_diff_strong_ita: "Посилити @ITA Італію"
 custom_diff_strong_sov: "Посилити @RUS Рашку"
 custom_diff_strong_fra: "Посилити @FRA Францію"
@@ -54,7 +54,7 @@ custom_diff_strong_eng: "Посилити @ENG Об'єднане Королів�
 custom_diff_strong_usa: "Посилити @USA Сполучені Штати Америки"
 custom_diff_strong_jap: "Посилити @JAP Японію"
 custom_diff_strong_prc: "Посилити @PRC Китай"
-custom_diff_strong_raj: "Посилити @RAJ Індію"
+custom_diff_strong_raj: "Посилити @IND Індію"
 custom_diff_strong_sau: "Посилити @SAU Саудівську Аравію"
 custom_diff_strong_per: "Посилити @PER Іран"
 custom_diff_strong_iss: "Посилити @ISS Ісламську Державу"

@@ -248,7 +248,7 @@
  islamic_sectarian_violence: "Боротьба між ісламськими течіями"
  islamic_sectarian_violence_desc: "Ця країна страждає від сектантського насильства між сунітами та шиїтами."
  hutu_tutsi_tensions: "Напруженість між Хуту та Тутсі"
- hutu_tutsi_tensions_desc: "Хуту і тутсі — це дві окремі етнічні групи, які проживають у прикордонних регіонах держав [COG.GetFlag] [COG.GetNameDef] та [TZN.GetFlag] [TZN.GetNameDef], особливо в двох невеликих країнах — [BRD.GetFlag] [BRD.GetNameDef] та [RWA.GetFlag] [RWA.GetNameDef]. У державі [BRD.GetFlag] [BRD.GetNonIdeologyNameDef] домінують тутсі. Вони вчинили геноцид проти хуту в 1972 році, тоді як у державі [RWA.GetFlag] [RWA.GetNonIdeologyNameDef] домінують хуту, їх бойовики вбили тисячі тутсі 1994 році.\n\nЦі дві етнічні групи просто не ладнають, але були вимушені існувати в одній і тій ж країни через створені Европою колоніяльні кордони."
+ hutu_tutsi_tensions_desc: "Хуту і тутсі — це дві окремі етнічні групи, які проживають у прикордонних регіонах держав [COD.GetFlag] [COD.GetNameDef] та [TZN.GetFlag] [TZN.GetNameDef], особливо в двох невеликих країнах — [BRD.GetFlag] [BRD.GetNameDef] та [RWA.GetFlag] [RWA.GetNameDef]. У державі [BRD.GetFlag] [BRD.GetNonIdeologyNameDef] домінують тутсі. Вони вчинили геноцид проти хуту в 1972 році, тоді як у державі [RWA.GetFlag] [RWA.GetNonIdeologyNameDef] домінують хуту, їх бойовики вбили тисячі тутсі 1994 році.\n\nЦі дві етнічні групи просто не ладнають, але були вимушені існувати в одній і тій ж країни через створені Европою колоніяльні кордони."
  electoral_honeymoon: "Виборчий медовий місяць"
  electoral_honeymoon_desc: "Виборчий медовий місяць - це є час після виборів лідера, коли він стикається з набагато меншою ворожнечою від опозиції та має набагато більшу владу для реалізації своєї політики. Цей дуже цінний період часу ніколи не повинен бути даремно згаяним."
  idea_nonpartisan_political_system: "Безпартійна політична система"
@@ -341,12 +341,6 @@
  idea_brexit: "Брекзит"
  idea_brexit_desc: "Брекзит - означає майбутній вихід Сполученого Королівства з Европейського Союзу. Це сталося після референдуму 23 червня 2016 року, коли 51,9% тих, хто проголосував, підтримали вихід. За Брекзит виступають евроскептики, як ліві, так і праві, тоді як проевропеїсти, які також охоплюють політичний спектр, виступають за продовження членства."
 
- #Germany
- GER_bundeswehr_shortcomings: "Недоліки Бундесверу"
- GER_bundeswehr_shortcomings_desc: "The Bundeswehr is in a historically bad shape. Helicopters, Tanks, Ships, Planes - there are logistical and economic challenges with all of them. We either need to reduce the size of our military or devote serious resources to fix all our problems."
- idea_GER_german_legacy: "Німецька спадщина"
- idea_GER_german_legacy_desc: "Germany has survived both the vicious influences of fascism and communism. The German people have become deeply connected with the ideals of liberal democracy and are unlikely to accept tyranny once again."
-
  #Vatican City
  idea_the_holy_see: "Святий Престол"
  idea_the_holy_see_desc: "Оскільки Місто-Держава Ватикан є окремою територіяльною власністю Святого Престолу, воно підтримує чудові стосунки з іншими католицькими націями та має значний дипломатичний вплив через Главу Держави та Главу Католицької Церкви, Папу Римського."
@@ -358,14 +352,6 @@
  #People's Republic of China
  idea_great_firewall: "Великий вогнемур"
  idea_great_firewall_desc: "Великий вогнемур — це сукупність законодавчих дій і технологій, запроваджених державою [PRC.GetFlag] [PRC.GetNameDef] для внутрішнього регулювання інтернету. Він цензурує інтернет тим, що блокує доступ до окремих іноземних веб-сайтів і уповільненнює транскордонний інтернет-трафік. Ефект від цього включає: обмеження доступу до іноземних джерел інформації, блокування іноземних інтернет-інструментів та мобільних додатків, а також вимогу до іноземних компаній адаптуватися до внутрішнього законодавства."
-
- #India
- idea_RAJ_south_asian_tiger: "Тигр Південної Азії"
- idea_RAJ_south_asian_tiger_desc: "India, birthplace of hinduism, one of of the greatest nations on earth, has finally recovered from centuries of colonialism and endless hardship. Let the enemies of India know that there is a tiger on the prowl - perhaps not visible, but definitely dangerous."
-
- #Sweden
- idea_SWE_king_charles_xvi: "Король Карл XVI Густав"
- idea_SWE_king_charles_xvi_desc: "King Carl XVI is the king of Sweden and therefore the head of state. He took power in 1973 when his grandfather Gustav VI Adolf passed away. He is the seventh regent of the Bernadotte House and the seventy-fourth king of Sweden."
 
  #Syria
  syrian_revolution: "Сирійська революція"
@@ -389,7 +375,7 @@
 
  #Hong Kong
  idea_FOMLACM: "ЗВВПДКС"
- idea_FOMLACM_desc: "Законопроєкт про Втікачів і Взаємну Правову Допомогу в Кримінальних Справах (ЗВВПДКС), незважаючи на сильний спротив з боку продемократичного табору, офіційно був прийнятий [HKN.GetParliamentName], дозволяючи уряду держави [HKN.GetFlag] [HKN.GetNameDef] безпосередньо екстрадувати злочинців до держави [PRC.GetFlag] [PRC.GetNameDef]."
+ idea_FOMLACM_desc: "Законопроєкт про Втікачів і Взаємну Правову Допомогу в Кримінальних Справах (ЗВВПДКС), незважаючи на сильний спротив з боку продемократичного табору, офіційно був прийнятий [HKG.GetParliamentName], дозволяючи уряду держави [HKG.GetFlag] [HKG.GetNameDef] безпосередньо екстрадувати злочинців до держави [PRC.GetFlag] [PRC.GetNameDef]."
 
  #Ukraine
  idea_decommunization_completed: "Декомунізацію завершено"
