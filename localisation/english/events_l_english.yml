@@ -222,7 +222,7 @@
  european_union.3.o1: "Чудовий день для міжнародної співпраці!"
  european_union.3.o2: "Великий день для нашої нації!"
  european_union.4.t: "[FROM.GetName] залишає Европейський Союз"
- european_union.4.d: "Сьогодні [FROM.GetAdjective]ий уряд в односторонньому порядку повідомив, що їх держава залишає ряди Европейського Союзу, а [FROM.GetLeaderTitle] [FROM.GetLeader] назвав причиною такого кроку \"непримиренні розбіжності\". Якою б не була причина, держава [FROM.GetNonIdeologyNameDef] тепер втратив доступ до Европейського спільного ринку, можливість висувати представників до Европейського парламенту та всі інші переваги, які вони раніше мали. Проте прихильники цього кроку описують переорієнтацію на [FROM.GetAdjective]у національну ідентичність, а не на Европейську."
+ european_union.4.d: "Сьогодні [FROM.GetAdjective]ий уряд в односторонньому порядку повідомив, що їх держава залишає ряди Европейського Союзу, а [FROM.GetLeaderTitle] [FROM.GetLeader] назвав причиною такого кроку «непримиренні розбіжності». Якою б не була причина, держава [FROM.GetNonIdeologyNameDef] тепер втратив доступ до Европейського спільного ринку, можливість висувати представників до Европейського парламенту та всі інші переваги, які вони раніше мали. Проте прихильники цього кроку описують переорієнтацію на [FROM.GetAdjective]у національну ідентичність, а не на Европейську."
  european_union.4.o1: "Вони зробили це!"
  european_union.4.o2: "Наша незалежність забезпечена!"
  european_union.6.t: "Вибори [GetYear] року до Европарламенту в державі [ROOT.GetNonIdeologyNameDef]"
@@ -252,9 +252,12 @@
  terrorism.4.o1: "Oh my..."
 
  #France
- france.1.t: "Notre-Dame de Paris fire"
- france.1.d: "On the 15th of April 2019, a structure fire broke out beneath the roof of Notre-Dame Cathedral in Paris. By the time it was extinguished, the building's spire and most of its roof had been destroyed and its upper walls severely damaged. Extensive damage to the interior was prevented by its stone vaulted ceiling, which largely contained the burning roof as it collapsed. Three people suffered injuries related to the fire. French president [FRA.GetLeader] has said that the cathedral would be restored, but it has been estimated that restoration could require twenty years or more."
- france.1.o1: "Interesting."
+ france.1.t: "Пожежа в Соборі Паризької Богоматері"
+ france.1.d: "15 квітня 2019 року на горищі Собору Паризької Богоматері сталася пожежа. На момент гасіння шпиль будівлі та більша частина даху були зруйновані, а верхні стіни сильно пошкоджені. Значним пошкодженням інтер’єру запобігла його кам’яна склепінчаста стеля, яка перекрила палаючий дах під час обвалу. Внаслідок пожежі постраждало троє людей. Французький [FRA.GetLeaderTitle] [FRA.GetLeader] сказав, що собор буде відновлено, але за оцінками, відновлення може тривати двадцять років та навіть більше."
+ france.1.o1: "Зворушливо."
+ france.2.t: "Поновини Національного фронту"
+ france.2.d: "Після незначної поразки на минулорічних президентських виборах лідер партії Марін Ле Пен змінила поновини «Національного фронту» на «Національне об'єднання», щоб очистити партію від її §xфашистського§! минулого під керівництвом її батька Жана-Марі Ле Пена. Незначний приріст відзначено в опитуваннях, щодо НО."
+ france.2.o1: "Чи виграє вона наступного разу?"
 
  #Germany
  germany.1.t: "Die Grünen - New Party Leader"
@@ -288,7 +291,7 @@
 
  #Romania
  romania.1.t: "Міхай Тудосе йде у відставку"
- romania.1.d: "Після великого скандалу, під час якого він зробив принизливі заяви щодо [HUN.GetAdjective]ої меншини, чинний [ROM.GetLeaderTitle] Міхай Тудосе подав у відставку зі своєї посади та представника СДП на виборах. Партія висунула кандидатуру Віоріки Денчіле на цю посаду."
+ romania.1.d: "Після великого скандалу, під час якого він зробив принизливі заяви щодо [HUN.GetAdjective]ої меншини, чинний [ROM.GetLeaderTitle] Міхай Тудосе подав у відставку зі своєї посади та представника СДП на виборах. Партія висунула кандидатуру Віоріки Денчіле на цю посаду. В результаті нестабільности СДП впала приблизно на 5% в опитуваннях."
  romania.1.o1: "Він навіть року не протримався!"
 
  #Japan
@@ -393,11 +396,11 @@
  politics.8.o1: "Ми докладемо зусиль для перемоги!"
  politics.8.o2: "Справді азартна гра."
  politics.9.t: "[FROM.GetName] змінює визнання на державу [PRC.GetFlag] [PRC.GetNameDef]"
- politics.9.d: "[FROM.GetAdjective]а зовнішня політика різко змінилася. [FROM.GetLeaderTitle] [FROM.GetLeader] ([FROM.GetRulingParty]) та його уряд оголосили про намір офіційно встановити дипломатичні відносини з державою [PRC.GetFlag] [PRC.GetNameDef], попередньо визнавши її законним представником Китаю. [FROM.GetLeaderTitle] [FROM.GetLeader] офіційно стверджує, що уряд визнав дипломатичну співпрацю з державою [PRC.GetFlag] [PRC.GetNameDef] більш вигідною, ніж з утворенням [CHI.GetNameDef]. Однак ніхто не може здогадуватися про справжню причину цього кроку."
+ politics.9.d: "[FROM.GetAdjective]а зовнішня політика різко змінилася. [FROM.GetLeaderTitle] [FROM.GetLeader] ([FROM.GetRulingParty]) та його уряд оголосили про намір офіційно встановити дипломатичні відносини з державою [PRC.GetFlag] [PRC.GetNameDef], попередньо визнавши її законним представником Китаю. [FROM.GetLeaderTitle] [FROM.GetLeader] офіційно стверджує, що уряд визнав дипломатичну співпрацю з державою [PRC.GetFlag] [PRC.GetNameDef] більш вигідною, ніж з утворенням [ROC.GetNameDef]. Однак ніхто не може здогадуватися про справжню причину цього кроку."
  politics.9.o1: "Чудовий вибір!"
  politics.9.o2: "Жахливий вибір!"
- politics.10.t: "[FROM.GetName] змінює визнання на державу [CHI.GetFlag] [CHI.GetNameDef]"
- politics.10.d: "[FROM.GetAdjective]а зовнішня політика різко змінилася. [FROM.GetLeaderTitle] [FROM.GetLeader] ([FROM.GetRulingParty]) та його уряд оголосили про намір офіційно встановити дипломатичні відносини з державою [CHI.GetFlag] [CHI.GetNameDef], попередньо визнавши її законним представником Китаю. [FROM.GetLeaderTitle] [FROM.GetLeader] офіційно стверджує, що уряд вважає її більш вигідним дипломатичним партнером для [FROM.GetAdjective]ого народу. Однак ніхто не може здогадуватися про справжню причину цього кроку."
+ politics.10.t: "[FROM.GetName] змінює визнання на державу [ROC.GetFlag] [ROC.GetNameDef]"
+ politics.10.d: "[FROM.GetAdjective]а зовнішня політика різко змінилася. [FROM.GetLeaderTitle] [FROM.GetLeader] ([FROM.GetRulingParty]) та його уряд оголосили про намір офіційно встановити дипломатичні відносини з державою [ROC.GetFlag] [ROC.GetNameDef], попередньо визнавши її законним представником Китаю. [FROM.GetLeaderTitle] [FROM.GetLeader] офіційно стверджує, що уряд вважає її більш вигідним дипломатичним партнером для [FROM.GetAdjective]ого народу. Однак ніхто не може здогадуватися про справжню причину цього кроку."
  politics.10.o1: "Жахливий вибір!"
  politics.10.o2: "Чудовий вибір!"
  politics.11.t: "Вотум недовіри"
@@ -432,7 +435,7 @@
 
  #Azerbaijan
  azerbaijan.1.t: "[AZR.GetNonIdeologyName] починає операцію «Залізний кулак»"
- azerbaijan.1.d: "У ході безпрецедентної ескалації бойових дій у спірному регіоні Нагірного Карабаху [AZR.GetAdjective]і військові оголосили про початок операції «Залізний кулак». Операція спрямована на витіснення військ держави [ARM.GetFlag] [ARM.GetNameDef] та так званої держави [ART.GetFlag] [ART.GetNameDef] з окупованих [AZR.GetAdjective]их територій, що оточують центральний регіон самого Нагірного Карабаху. Кажуть, що [AZR.GetLeaderTitle] [AZR.GetLeader] держави [AZR.GetFlag] [AZR.GetNonIdeologyNameDef] оголосив «тотальну війну» проти «[ARM.GetAdjective]их терористів», тоді як [ARM.GetLeaderTitle] [ARM.GetLeader] держави [ARM.GetFlag] [ARM.GetNonIdeologyNameDef] та [ART.GetLeaderTitle] [ART.GetLeader] так званої держави [ART.GetFlag] [ART.GetNonIdeologyNameDef] обіцяють: відбити \"незаконне [AZR.GetAdjective]о-[TUR.GetAdjective]е вторгнення\" на свої \"законні території\". Оскільки майже 30-річне перемир’я нарешті було порушено, здається, що остаточне припинення конфлікту вже близько."
+ azerbaijan.1.d: "У ході безпрецедентної ескалації бойових дій у спірному регіоні Нагірного Карабаху [AZR.GetAdjective]і військові оголосили про початок операції «Залізний кулак». Операція спрямована на витіснення військ держави [ARM.GetFlag] [ARM.GetNameDef] та так званої держави [ART.GetFlag] [ART.GetNameDef] з окупованих [AZR.GetAdjective]их територій, що оточують центральний регіон самого Нагірного Карабаху. Кажуть, що [AZR.GetLeaderTitle] [AZR.GetLeader] держави [AZR.GetFlag] [AZR.GetNonIdeologyNameDef] оголосив «тотальну війну» проти «[ARM.GetAdjective]их терористів», тоді як [ARM.GetLeaderTitle] [ARM.GetLeader] держави [ARM.GetFlag] [ARM.GetNonIdeologyNameDef] та [ART.GetLeaderTitle] [ART.GetLeader] так званої держави [ART.GetFlag] [ART.GetNonIdeologyNameDef] обіцяють: відбити «незаконне [AZR.GetAdjective]о-[TUR.GetAdjective]е вторгнення» на свої «законні території». Оскільки майже 30-річне перемир’я нарешті було порушено, здається, що остаточне припинення конфлікту вже близько."
  azerbaijan.1.o1: "Вигнати терористичну нечисть!"
  azerbaijan.1.o2: "Це загострення ставить під загрозу мир у регіоні!"
  azerbaijan.2.t: "Велика перемога над утворенням [ART.GetNonIdeologyNameDef]"
@@ -550,7 +553,7 @@
  united_nations.3.o1: "Великий день для всього світу!"
  united_nations.3.o2: "Великий день для нашої нації!"
  united_nations.4.t: "[FROM.GetName] залишає ООН"
- united_nations.4.d: "У несподіваний спосіб [FROM.GetLeaderTitle] [FROM.GetLeader] сьогодні оголосив про вихід держави [FROM.GetFlag] [FROM.GetNonIdeologyNameDef] з Організації Об’єднаних Націй. [FROM.GetAdjective]ий лідер звинуватив Організацію Об'єднаних Націй у \"глобалістському імперіялізмі\" та в наявності \"програми проти [FROM.GetAdjective]ого населення\". Критики звинувачують [FROM.GetAdjective]ий уряд у тому, що він ставить під загрозу мир у всьому світі, і що вихід з ООН завдасть серйозної шкоди міжнародним відносинам країни."
+ united_nations.4.d: "У несподіваний спосіб [FROM.GetLeaderTitle] [FROM.GetLeader] сьогодні оголосив про вихід держави [FROM.GetFlag] [FROM.GetNonIdeologyNameDef] з Організації Об’єднаних Націй. [FROM.GetAdjective]ий лідер звинуватив Організацію Об'єднаних Націй у «глобалістському імперіялізмі» та в наявності «програми проти [FROM.GetAdjective]ого населення». Критики звинувачують [FROM.GetAdjective]ий уряд у тому, що він ставить під загрозу мир у всьому світі, і що вихід з ООН завдасть серйозної шкоди міжнародним відносинам країни."
  united_nations.4.o1: "Так нерозсудливо!"
  united_nations.4.o2: "Так і треба!"
 
@@ -770,20 +773,20 @@ china.2.t: "Taiwan accepts becoming a Special Administrative Region"
 china.2.d: "For many years, we have offered the traitorous government of Taiwan the opportunity to become a Special Administrative Region within China, just like Macao and Hong Kong. Against all odds, they have finally accepted the offer! China is finally whole."
 china.2.o1: "A pleasant surprise!"
 china.3.t: "An Independent Taiwan"
-china.3.d: "Ever since the \"end\" of the Chinese Civil War in 1949, the government of the Republic of China has remained exiled on the island of Taiwan as a rival government, despite being diplomatically isolated since 1971. Today's announcement by [CHI.GetLeader] has however changed the situation drastically; Taiwan is declaring independence from China as [CHI.GetNameDef], abandoning all claims to the Chinese mainland. However, [PRC.GetNameDef], having previously threatened to invade the island if independence was declared, is now likely to attempt to retake the island by force. Will this spark the Third World War?"
+china.3.d: "Ever since the \"end\" of the Chinese Civil War in 1949, the government of the Republic of China has remained exiled on the island of Taiwan as a rival government, despite being diplomatically isolated since 1971. Today's announcement by [ROC.GetLeader] has however changed the situation drastically; Taiwan is declaring independence from China as [ROC.GetNameDef], abandoning all claims to the Chinese mainland. However, [PRC.GetNameDef], having previously threatened to invade the island if independence was declared, is now likely to attempt to retake the island by force. Will this spark the Third World War?"
 china.3.o1: "An irresponsible escalation!"
 china.3.o2: "We are finally free!"
 china.3.o3: "We must stop this immediately!"
 china.4.t: "The Taiwan Special Administrative Region"
-china.4.d: "Ever since the \"end\" of the Chinese Civil War in 1949, the government of the Republic of China has remained exiled on the island of Taiwan as a rival government, despite being diplomatically isolated since 1971. Today's announcement by [CHI.GetLeader] has however changed the situation drastically; Taiwan is accepting the offer from [PRC.GetNameDef] to become a \"Special Administrative Region\" within China, as Hong Kong and Macao did in 1997. Taiwan has thereby completely abandoned all hopes of national sovereignty, and begun the process of re-integration into [PRC.GetNameDef]."
+china.4.d: "Ever since the \"end\" of the Chinese Civil War in 1949, the government of the Republic of China has remained exiled on the island of Taiwan as a rival government, despite being diplomatically isolated since 1971. Today's announcement by [ROC.GetLeader] has however changed the situation drastically; Taiwan is accepting the offer from [PRC.GetNameDef] to become a \"Special Administrative Region\" within China, as Hong Kong and Macao did in 1997. Taiwan has thereby completely abandoned all hopes of national sovereignty, and begun the process of re-integration into [PRC.GetNameDef]."
 china.4.o1: "Up to them."
 china.4.o2: "Had to be done."
 china.4.o3: "A glorious victory!"
 china.5.t: "Reclaiming our seat at the United Nations"
 china.5.d: "With the final demise of [PRC.GetNameDef], we are finally the only remaining legitimate Chinese government. This has been confirmed by the United Nations, and we will be reclaiming our permanent seat at the Security Council as soon as possible."
 china.5.o1: "Time to celebrate!"
-china.6.t: "[CHI.GetNameDef] reclaims seat at the United Nations"
-china.6.d: "Ever since the \"end\" of the Chinese Civil War in 1949, the government of the Republic of China has remained exiled on the island of Taiwan as a rival government, despite being diplomatically isolated since 1971. However, with the demise of [PRC.GetNameDef], the exile government has once again regained the undisputed position as the legitimate Chinese government. Recognizing this, the United Nations has officially readmitted [CHI.GetNameDef], and has handed over the Chinese seats at the General Assembly and Security Council."
+china.6.t: "[ROC.GetNameDef] reclaims seat at the United Nations"
+china.6.d: "Ever since the \"end\" of the Chinese Civil War in 1949, the government of the Republic of China has remained exiled on the island of Taiwan as a rival government, despite being diplomatically isolated since 1971. However, with the demise of [PRC.GetNameDef], the exile government has once again regained the undisputed position as the legitimate Chinese government. Recognizing this, the United Nations has officially readmitted [ROC.GetNameDef], and has handed over the Chinese seats at the General Assembly and Security Council."
 china.6.o1: "What a comeback!"
 china.6.o2: "A glorious victory!"
 
@@ -920,4 +923,10 @@ east_african_community.1.o2: "Вето."
 east_african_community.2.t: "Результати пропозиції утворення Східноафриканської Федерації" 
 east_african_community.2.d: "Пропозиція була...."
 east_african_community.2.o1: "Прийнята! Східноафриканська Федерація буде сформована!"
-east_african_community.2.o2: "Ветована! Ми можемо спробувати знову через рік." 
+east_african_community.2.o2: "Ветована! Ми можемо спробувати знову через рік."
+
+#Brazil
+brazil.1.t: "Лула відсторонений?" 
+brazil.1.d: "У 2017 році популярний колишній президент Луїз Інасіо Лула да Сілва (РП) оголосив про свій намір балотуватися на посаду [ROOT.GetLeaderTitle] на наступних національних виборах. Однак через закон «Чистий аркуш» 2010 року, кандидат, якому було оголошено імпічмент, який подав у відставку, щоб уникнути імпічменту, або був засуджений за рішенням колегіяльного органу, не має права обіймати державні посади протягом восьми років. Тепер Верховний федеральний суд має вирішити, чи відповідає Лула цим умовам. У разі дискваліфікації напарник Фернандо Хаддад стане новим кандидатом від РП, але менш популярний, ніж Лула, і, ймовірно, досягне гіршого результату для партії."
+brazil.1.o1: "Дискваліфікувати!"
+brazil.1.o2: "Нехай поки живе."
