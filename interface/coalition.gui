@@ -40,7 +40,7 @@ guiTypes = {
 
 		instantTextBoxType = {
 			name ="title"
-			position = { x= 220 y = 30 }
+			position = { x= 250 y = 30 }
 			font = "hoi_36header"
 			text = coalition_government_title
 			format = center
@@ -120,7 +120,7 @@ guiTypes = {
 		instantTextBoxType = {
 			name = "coalition_partners_selected1"
 			position = { x= 30 y = 350 }
-			font = "hoi_20bs"
+			font = "hoi_18mbs"
 			text = "COALITION_PARTNER_LIST"
 			format = left
 			maxWidth = 230
@@ -131,7 +131,7 @@ guiTypes = {
 		instantTextBoxType = {
 			name = "coalition_partners_selected2"
 			position = { x= 270 y = 350 }
-			font = "hoi_20bs"
+			font = "hoi_18mbs"
 			text = "COALITION_PARTNER_LIST2"
 			format = left
 			maxWidth = 230
@@ -187,7 +187,7 @@ guiTypes = {
 
 		containerWindowType = {
 			name = "groups_bar_container"
-			position = { x= 30 y = 570 }
+			position = { x= 50 y = 580 }
 			size = { width = 230 height = 40 }
 			clipping = yes
 
@@ -220,7 +220,7 @@ guiTypes = {
 
 		iconType = {
 			name = "unstable_coalition_icon"
-			spriteType = "GFX_idea_deal_with_the_devil2"	
+			spriteType = "GFX_idea_unstable_coalition"	
 			position = { x = 480 y = 538 }
 			pdx_tooltip = "COALITION_UNSTABLE_TT"
 			scale = 1.2
