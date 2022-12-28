@@ -409,7 +409,7 @@
  politics.12.t: "[FROM.GetAdjective]ий уряд було усунено шляхом вотуму недовіри"
  politics.12.d: "У державі [FROM.GetNameDef] тривають позачергові парламентські вибори після голосування за недовіру органом [FROM.GetParliamentName], яке призвело до того, що [FROM.GetLeaderTitle] [FROM.GetLeader] ([FROM.GetRulingPartyColored]) та його кабінет були усунуті. Опозиційний депутат, який вніс цю пропозицію, назвав катастрофічні рейтинги схвалення чинного уряду головною причиною цього рішення. Залишається побачити, який новий уряд буде сформовано після оголошення результатів."
  politics.12.o1: "Політики..."
- politics.13.t: "Результати [FROM.GetAdjective]их національних виборів [GetYear] року"
+ politics.13.t: "Результати [FROM.GetAdjective]их загальних виборів [GetYear] року"
  politics.13.d: "НОВИЙ УРЯД:\n[FROM.GetLeaderTitle] держави [FROM.GetNonIdeologyNameDef]: [FROM.GetLeader] ([FROM.GetRulingPartyColored])\nТип: [FROM.GetMajorityMinorityGov]\n\nРезультати - [FROM.GetParliamentName]\n[FROM.GetIslamistResults][FROM.GetFascistResults][FROM.GetRightWingNationalistResults][FROM.GetMonarchistResults][FROM.GetNationalConservativeResults][FROM.GetConservativeResults][FROM.GetClassicalLiberalResults][FROM.GetSocialLiberalResults][FROM.GetSocialDemocratResults][FROM.GetProgressiveResults][FROM.GetSocialistResults][FROM.GetCommunistResults]"
  politics.13.o1: "Демократія знову вражає."
  politics.16.t: "[FROM.GetAdjective]і Зброїні Сили придушили протест"
@@ -463,8 +463,8 @@
  slovakia.1.t: "Вбивство Яна Куцяка"
  slovakia.1.d: "Нещодавно журналіст-розслідувач Ян Куцяк був убитий у своєму будинку вогнепальним пострілом. Підозрюють, що вбивство було пов’язане з чинним урядом, оскільки він розслідував корупцію серед високопоставлених політиків. У відповідь [ROOT.GetLeaderTitle] Роберт Фіцо ([ROOT.GetRulingPartyColored]) подав у відставку з державного та партійного керівництва. Заступника Фіцо Пітера Пеллегріні було обрано, щоб зайняти нині вакантне місце глави нації."
  slovakia.1.o1: "Ще більше скандалів?"
- slovakia.2.t: "[ROOT.GetLeaderTitle] держави [SLO.GetNonIdeologyName] йде у відставку після скандалу"
- slovakia.2.d: "Нещодавно словацький журналіст-розслідувач Ян Куцяк був убитий у своєму будинку вогнепальним пострілом. Підозрюється, що вбивство було пов’язане з чинним урядом [SLO.Capital.GetName], оскільки він розслідував корупцію серед політиків вищого рівня. [SLO.GetLeaderTitle] Роберт Фіцо ([SLO.GetRulingPartyColored]) подав у відставку з державного та партійного керівництва у відповідь на скандал. Заступника Фіцо Пітера Пеллегріні було обрано, щоб зайняти нині вакантне місце глави нації."
+ slovakia.2.t: "[ROOT.GetLeaderTitle] держави [SVK.GetNonIdeologyName] йде у відставку після скандалу"
+ slovakia.2.d: "Нещодавно словацький журналіст-розслідувач Ян Куцяк був убитий у своєму будинку вогнепальним пострілом. Підозрюється, що вбивство було пов’язане з чинним урядом [SVK.Capital.GetName], оскільки він розслідував корупцію серед політиків вищого рівня. [SVK.GetLeaderTitle] Роберт Фіцо ([SVK.GetRulingPartyColored]) подав у відставку з державного та партійного керівництва у відповідь на скандал. Заступника Фіцо Пітера Пеллегріні було обрано, щоб зайняти нині вакантне місце глави нації."
  slovakia.2.o1: "Політики..."
 
  #Peru
@@ -904,8 +904,8 @@ kosovo.1.t: "[KOS.GetName] відкрито для обміну землями"
 kosovo.1.d: "Протягом багатьох років ми пропонували обмін територіями з [KOS.GetAdjective]им урядом, щоб наша сторона повернула собі Північне Косово, населене сербами, одночасно передавши Прешевську долину, населену більшістю косовськими албанцями, а також відмовилася від територіяльних претензій до решти територій держави [KOS.GetFlag] [KOS.GetNameDef]. Сьогодні держава [KOS.GetFlag] [KOS.GetNameDef] нарешті згодилися на цю пропозицію та офіційно запропонували обмін. Чи ми підтверджуємо свою позицію і приймаємо її, чи змінюємо курс і відкидаємо це?"
 kosovo.1.o1: "Прийняти."
 kosovo.1.o2: "Відкинути."
-kosovo.2.t: "Обмін земель між державами [KOS.GetNonIdeologyNameDef] та [SER.GetNonIdeologyNameDef]"
-kosovo.2.d: "Багато хто здивований сьогоднішньою безпрецедентною мирною угодою між [KOS.GetAdjective]им урядом та [SER.GetAdjective]им, де обидві сторони погодилися обмінятися територіями з етнічною більшістю, що належить іншій стороні. Північне Косово, в якому більшість становлять серби, сьогодні знову приєдналося до своїх братів на півночі, тоді як долина Прешево, в якій більшість становлять косовські албанці, приєднується до [SER.GetFlag] [SER.GetNonIdeologyName]. У рамках угоди [SER.GetFlag] [SER.GetNonIdeologyName] також офіційно відмовилася від своїх територіяльних претензій щодо самоъ держави [KOS.GetNameDef], дозволяючи нормалізувати дипломатичні відносини. Угоду офіційно підписали [SER.GetLeaderTitle] [SER.GetLeader] і [KOS.GetLeaderTitle] [KOS.GetLeader]."
+kosovo.2.t: "Обмін земель між державами [KOS.GetNonIdeologyNameDef] та [SRB.GetNonIdeologyNameDef]"
+kosovo.2.d: "Багато хто здивований сьогоднішньою безпрецедентною мирною угодою між [KOS.GetAdjective]им урядом та [SRB.GetAdjective]им, де обидві сторони погодилися обмінятися територіями з етнічною більшістю, що належить іншій стороні. Північне Косово, в якому більшість становлять серби, сьогодні знову приєдналося до своїх братів на півночі, тоді як долина Прешево, в якій більшість становлять косовські албанці, приєднується до [SRB.GetFlag] [SRB.GetNonIdeologyName]. У рамках угоди [SRB.GetFlag] [SRB.GetNonIdeologyName] також офіційно відмовилася від своїх територіяльних претензій щодо самоъ держави [KOS.GetNameDef], дозволяючи нормалізувати дипломатичні відносини. Угоду офіційно підписали [SRB.GetLeaderTitle] [SRB.GetLeader] і [KOS.GetLeaderTitle] [KOS.GetLeader]."
 kosovo.2.o1: "Велике досягнення для миру." 
 
 

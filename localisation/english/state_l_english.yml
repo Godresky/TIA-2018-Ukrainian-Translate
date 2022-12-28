@@ -58,23 +58,6 @@ STATE_OWNER_RESISTANCE_NON_CORE_INFO_WITH_MODIFIERS: "Держава $COUNTRY|H$
 STATE_OWNER_MODIFIER_INFO: "Регіон отримує наступні модифікатори через установлений окупаційний статус:"
  STATE_POPULATION_TITLE: "Населення"
 
- # State Titles
- STATE_TITLE: "[THIS.owner.GetFlag][GetStateTitle]"
- STATE_TITLE_NONE: ""
- STATE_TITLE_UNINHABITED_TERRITORY: "§gНезаселена територія§!"
- STATE_TITLE_TERRITORY: "§RТериторія§!"
- STATE_TITLE_PROVINCE: "§GПровінція§!"
- STATE_TITLE_STATE: "§GШтат§!"
- STATE_TITLE_OBLAST: "§GОбласть§!"
- STATE_TITLE_GOVERNORATE: "§GГубернаторство§!"
- STATE_TITLE_CANTON: "§GКантон§!"
- STATE_TITLE_VOIVODESHIP: "§GВоєводство§!"
- STATE_TITLE_DISTRICT: "§GРайон§!"
- STATE_TITLE_CAPITAL_DISTRICT: "§GСтоличний район§!"
- STATE_TITLE_COUNTY: "§GПовіт§!"
- STATE_TITLE_REGION: "§GРегіон§!"
- STATE_TITLE_DEPARTMENT: "§GДепартамент§!"
-
  # State Categories
  state_nuclear_wasteland: "Ядерна пустка"
  state_default: "Стандартне"

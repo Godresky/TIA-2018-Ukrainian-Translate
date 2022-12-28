@@ -27,8 +27,7 @@
  economic_subsidies: "Економічні субсидії"
  tax_policy: "Податкова політика"
  term_length: "Каденція"
- army_chief_of_staff: "Начальник штабу армії"
- navy_chief_of_staff: "Начальник штабу ВМФ"
+ electoral_threshold: "Виборчий поріг"
 
  ###Laws###
 
@@ -172,6 +171,18 @@
  nine_year_term: "Дев'ятирічний термін"
  ten_year_term: "Десятирічний термін"
 
+ #Electoral Threshold
+ natural_threshold: "Природний поріг"
+ natural_threshold_desc: "Після повного скасування виборчого бар’єру партії знадобиться лише 0,5%, щоб потрапити до будівлі [ROOT.GetParliamentName], оскільки загалом є 100 місць, а 0,5% округляє до 1 місця."
+ threshold_one_percent: "1%"
+ threshold_two_percent: "2%"
+ threshold_three_percent: "3%"
+ threshold_four_percent: "4%"
+ threshold_five_percent: "5%"
+ threshold_six_percent: "6%"
+ threshold_seven_percent: "7%"
+ threshold_eight_percent: "8%"
+
  #Tax Policy
  very_high_taxes: "Дуже високі податки"
  high_taxes: "Високі податки"
@@ -248,7 +259,7 @@
  islamic_sectarian_violence: "Боротьба між ісламськими течіями"
  islamic_sectarian_violence_desc: "Ця країна страждає від сектантського насильства між сунітами та шиїтами."
  hutu_tutsi_tensions: "Напруженість між Хуту та Тутсі"
- hutu_tutsi_tensions_desc: "Хуту і тутсі — це дві окремі етнічні групи, які проживають у прикордонних регіонах держав [COD.GetFlag] [COD.GetNameDef] та [TZN.GetFlag] [TZN.GetNameDef], особливо в двох невеликих країнах — [BRD.GetFlag] [BRD.GetNameDef] та [RWA.GetFlag] [RWA.GetNameDef]. У державі [BRD.GetFlag] [BRD.GetNonIdeologyNameDef] домінують тутсі. Вони вчинили геноцид проти хуту в 1972 році, тоді як у державі [RWA.GetFlag] [RWA.GetNonIdeologyNameDef] домінують хуту, їх бойовики вбили тисячі тутсі 1994 році.\n\nЦі дві етнічні групи просто не ладнають, але були вимушені існувати в одній і тій ж країни через створені Европою колоніяльні кордони."
+ hutu_tutsi_tensions_desc: "Хуту і тутсі — це дві окремі етнічні групи, які проживають у прикордонних регіонах держав [COD.GetFlag] [COD.GetNameDef] та [TZA.GetFlag] [TZA.GetNameDef], особливо в двох невеликих країнах — [BRD.GetFlag] [BRD.GetNameDef] та [RWA.GetFlag] [RWA.GetNameDef]. У державі [BRD.GetFlag] [BRD.GetNonIdeologyNameDef] домінують тутсі. Вони вчинили геноцид проти хуту в 1972 році, тоді як у державі [RWA.GetFlag] [RWA.GetNonIdeologyNameDef] домінують хуту, їх бойовики вбили тисячі тутсі 1994 році.\n\nЦі дві етнічні групи просто не ладнають, але були вимушені існувати в одній і тій ж країни через створені Европою колоніяльні кордони."
  electoral_honeymoon: "Виборчий медовий місяць"
  electoral_honeymoon_desc: "Виборчий медовий місяць - це є час після виборів лідера, коли він стикається з набагато меншою ворожнечою від опозиції та має набагато більшу владу для реалізації своєї політики. Цей дуже цінний період часу ніколи не повинен бути даремно згаяним."
  idea_nonpartisan_political_system: "Безпартійна політична система"

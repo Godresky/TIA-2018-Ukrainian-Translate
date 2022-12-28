@@ -1,0 +1,527 @@
+defined_text = {
+	name = get_ua_islamist_seats
+
+	text = {
+		trigger = {
+			FROM = {
+				check_variable = {
+					islamist_seats = 1
+				}
+			}
+		}
+		localization_key = "місце"
+	}
+	text = {
+		trigger = {
+			FROM = {
+				OR = {
+					check_variable = {
+						islamist_seats = 2
+					}
+					check_variable = {
+						islamist_seats = 3
+					}
+					check_variable = {
+						islamist_seats = 4
+					}
+				}
+			}
+		}
+		localization_key = "місця"
+	}
+	text = {
+		trigger = {
+			FROM = {
+				OR = {
+					check_variable = {
+						islamist_seats = 0
+					}
+					check_variable = {
+						islamist_seats > 4
+					}
+				}
+			}
+		}
+		localization_key = "місць"
+	}
+}
+
+defined_text = {
+	name = get_ua_fascist_seats
+
+	text = {
+		trigger = {
+			FROM = {
+				check_variable = {
+					fascist_seats = 1
+				}
+			}
+		}
+		localization_key = "місце"
+	}
+	text = {
+		trigger = {
+			FROM = {
+				OR = {
+					check_variable = {
+						fascist_seats = 2
+					}
+					check_variable = {
+						fascist_seats = 3
+					}
+					check_variable = {
+						fascist_seats = 4
+					}
+				}
+			}
+		}
+		localization_key = "місця"
+	}
+	text = {
+		trigger = {
+			FROM = {
+				OR = {
+					check_variable = {
+						fascist_seats = 0
+					}
+					check_variable = {
+						fascist_seats > 4
+					}
+				}
+			}
+		}
+		localization_key = "місць"
+	}
+}
+
+defined_text = {
+	name = get_ua_right_wing_populist_seats
+
+	text = {
+		trigger = {
+			FROM = {
+				check_variable = {
+					right_wing_populist_seats = 1
+				}
+			}
+		}
+		localization_key = "місце"
+	}
+	text = {
+		trigger = {
+			FROM = {
+				OR = {
+					check_variable = {
+						right_wing_populist_seats = 2
+					}
+					check_variable = {
+						right_wing_populist_seats = 3
+					}
+					check_variable = {
+						right_wing_populist_seats = 4
+					}
+				}
+			}
+		}
+		localization_key = "місця"
+	}
+	text = {
+		trigger = {
+			FROM = {
+				OR = {
+					check_variable = {
+						right_wing_populist_seats = 0
+					}
+					check_variable = {
+						right_wing_populist_seats > 4
+					}
+				}
+			}
+		}
+		localization_key = "місць"
+	}
+}
+
+defined_text = {
+	name = get_ua_conservative_seats
+
+	text = {
+		trigger = {
+			FROM = {
+				check_variable = {
+					conservative_seats = 1
+				}
+			}
+		}
+		localization_key = "місце"
+	}
+	text = {
+		trigger = {
+			FROM = {
+				OR = {
+					check_variable = {
+						conservative_seats = 2
+					}
+					check_variable = {
+						conservative_seats = 3
+					}
+					check_variable = {
+						conservative_seats = 4
+					}
+				}
+			}
+		}
+		localization_key = "місця"
+	}
+	text = {
+		trigger = {
+			FROM = {
+				OR = {
+					check_variable = {
+						conservative_seats = 0
+					}
+					check_variable = {
+						conservative_seats > 4
+					}
+				}
+			}
+		}
+		localization_key = "місць"
+	}
+}
+
+defined_text = {
+	name = get_ua_classical_liberal_seats
+
+	text = {
+		trigger = {
+			FROM = {
+				check_variable = {
+					classical_liberal_seats = 1
+				}
+			}
+		}
+		localization_key = "місце"
+	}
+	text = {
+		trigger = {
+			FROM = {
+				OR = {
+					check_variable = {
+						classical_liberal_seats = 2
+					}
+					check_variable = {
+						classical_liberal_seats = 3
+					}
+					check_variable = {
+						classical_liberal_seats = 4
+					}
+				}
+			}
+		}
+		localization_key = "місця"
+	}
+	text = {
+		trigger = {
+			FROM = {
+				OR = {
+					check_variable = {
+						classical_liberal_seats = 0
+					}
+					check_variable = {
+						classical_liberal_seats > 4
+					}
+				}
+			}
+		}
+		localization_key = "місць"
+	}
+}
+
+defined_text = {
+	name = get_ua_social_liberal_seats
+
+	text = {
+		trigger = {
+			FROM = {
+				check_variable = {
+					social_liberal_seats = 1
+				}
+			}
+		}
+		localization_key = "місце"
+	}
+	text = {
+		trigger = {
+			FROM = {
+				OR = {
+					check_variable = {
+						social_liberal_seats = 2
+					}
+					check_variable = {
+						social_liberal_seats = 3
+					}
+					check_variable = {
+						social_liberal_seats = 4
+					}
+				}
+			}
+		}
+		localization_key = "місця"
+	}
+	text = {
+		trigger = {
+			FROM = {
+				OR = {
+					check_variable = {
+						social_liberal_seats = 0
+					}
+					check_variable = {
+						social_liberal_seats > 4
+					}
+				}
+			}
+		}
+		localization_key = "місць"
+	}
+}
+
+defined_text = {
+	name = get_ua_social_democrat_seats
+
+	text = {
+		trigger = {
+			FROM = {
+				check_variable = {
+					social_democrat_seats = 1
+				}
+			}
+		}
+		localization_key = "місце"
+	}
+	text = {
+		trigger = {
+			FROM = {
+				OR = {
+					check_variable = {
+						social_democrat_seats = 2
+					}
+					check_variable = {
+						social_democrat_seats = 3
+					}
+					check_variable = {
+						social_democrat_seats = 4
+					}
+				}
+			}
+		}
+		localization_key = "місця"
+	}
+	text = {
+		trigger = {
+			FROM = {
+				OR = {
+					check_variable = {
+						social_democrat_seats = 0
+					}
+					check_variable = {
+						social_democrat_seats > 4
+					}
+				}
+			}
+		}
+		localization_key = "місць"
+	}
+}
+
+defined_text = {
+	name = get_ua_social_democrat_seats
+
+	text = {
+		trigger = {
+			FROM = {
+				check_variable = {
+					social_democrat_seats = 1
+				}
+			}
+		}
+		localization_key = "місце"
+	}
+	text = {
+		trigger = {
+			FROM = {
+				OR = {
+					check_variable = {
+						social_democrat_seats = 2
+					}
+					check_variable = {
+						social_democrat_seats = 3
+					}
+					check_variable = {
+						social_democrat_seats = 4
+					}
+				}
+			}
+		}
+		localization_key = "місця"
+	}
+	text = {
+		trigger = {
+			FROM = {
+				OR = {
+					check_variable = {
+						social_democrat_seats = 0
+					}
+					check_variable = {
+						social_democrat_seats > 4
+					}
+				}
+			}
+		}
+		localization_key = "місць"
+	}
+}
+
+defined_text = {
+	name = get_ua_progressive_seats
+
+	text = {
+		trigger = {
+			FROM = {
+				check_variable = {
+					progressive_seats = 1
+				}
+			}
+		}
+		localization_key = "місце"
+	}
+	text = {
+		trigger = {
+			FROM = {
+				OR = {
+					check_variable = {
+						progressive_seats = 2
+					}
+					check_variable = {
+						progressive_seats = 3
+					}
+					check_variable = {
+						progressive_seats = 4
+					}
+				}
+			}
+		}
+		localization_key = "місця"
+	}
+	text = {
+		trigger = {
+			FROM = {
+				OR = {
+					check_variable = {
+						progressive_seats = 0
+					}
+					check_variable = {
+						progressive_seats > 4
+					}
+				}
+			}
+		}
+		localization_key = "місць"
+	}
+}
+
+defined_text = {
+	name = get_ua_socialist_seats
+
+	text = {
+		trigger = {
+			FROM = {
+				check_variable = {
+					socialist_seats = 1
+				}
+			}
+		}
+		localization_key = "місце"
+	}
+	text = {
+		trigger = {
+			FROM = {
+				OR = {
+					check_variable = {
+						socialist_seats = 2
+					}
+					check_variable = {
+						socialist_seats = 3
+					}
+					check_variable = {
+						socialist_seats = 4
+					}
+				}
+			}
+		}
+		localization_key = "місця"
+	}
+	text = {
+		trigger = {
+			FROM = {
+				OR = {
+					check_variable = {
+						socialist_seats = 0
+					}
+					check_variable = {
+						socialist_seats > 4
+					}
+				}
+			}
+		}
+		localization_key = "місць"
+	}
+}
+
+defined_text = {
+	name = get_ua_communist_seats
+
+	text = {
+		trigger = {
+			FROM = {
+				check_variable = {
+					communist_seats = 1
+				}
+			}
+		}
+		localization_key = "місце"
+	}
+	text = {
+		trigger = {
+			FROM = {
+				OR = {
+					check_variable = {
+						communist_seats = 2
+					}
+					check_variable = {
+						communist_seats = 3
+					}
+					check_variable = {
+						communist_seats = 4
+					}
+				}
+			}
+		}
+		localization_key = "місця"
+	}
+	text = {
+		trigger = {
+			FROM = {
+				OR = {
+					check_variable = {
+						communist_seats = 0
+					}
+					check_variable = {
+						communist_seats > 4
+					}
+				}
+			}
+		}
+		localization_key = "місць"
+	}
+}

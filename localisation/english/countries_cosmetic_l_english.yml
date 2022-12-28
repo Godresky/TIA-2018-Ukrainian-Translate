@@ -594,10 +594,10 @@
  ### Subjects
  ALA_FIN_autonomy_autonomous_region: "Аландські Острови"
  ALA_FIN_autonomy_autonomous_region_DEF: "Аландські Острови"
- ABW_HOL_autonomy_autonomous_region: "Аруба"
- ABW_HOL_autonomy_autonomous_region_DEF: "Аруба"
- CUW_HOL_autonomy_autonomous_region: "Кюрасао"
- CUW_HOL_autonomy_autonomous_region_DEF: "Кюрасао"
+ ABW_NLD_autonomy_autonomous_region: "Аруба"
+ ABW_NLD_autonomy_autonomous_region_DEF: "Аруба"
+ CUW_NLD_autonomy_autonomous_region: "Кюрасао"
+ CUW_NLD_autonomy_autonomous_region_DEF: "Кюрасао"
  FRO_DNK_autonomy_autonomous_region: "Фарерські Острови"
  FRO_DNK_autonomy_autonomous_region_DEF: "Фарерські Острови"
  GRL_DNK_autonomy_autonomous_region: "Ґренландія"
@@ -633,8 +633,8 @@
  ART_AZE_autonomy_autonomous_region_DEF: "Нагірно-Карабаська Автономна Республіка"
 
 ### BENILUX
- FRS_HOL_autonomy_autonomous_region: "Провінція Фрисландія"
- FRS_HOL_autonomy_autonomous_region_DEF: "Провінція Фрисландія"
+ FRS_NLD_autonomy_autonomous_region: "Провінція Фрисландія"
+ FRS_NLD_autonomy_autonomous_region_DEF: "Провінція Фрисландія"
  WLN_BEL_autonomy_autonomous_region: "Валлонія"
  WLN_BEL_autonomy_autonomous_region_DEF: "Валлонія"
  FLN_BEL_autonomy_autonomous_region: "Фландрія"
@@ -671,6 +671,8 @@
  YRK_ENG_autonomy_autonomous_region_DEF: "Йоркшир"
  CRN_ENG_autonomy_autonomous_region: "Корнволл"
  CRN_ENG_autonomy_autonomous_region_DEF: "Корнволл"
+ GIB_ENG_autonomy_autonomous_region: "Ґібралтар"
+ GIB_ENG_autonomy_autonomous_region_DEF: "Ґібралтар"
 
 ### ITA
  STY_ITA_autonomy_autonomous_region: "Автономна Провінція Больцано - Південний Тіроль"
@@ -689,8 +691,8 @@
  MLT_ITA_autonomy_autonomous_region_DEF: "Автономні Острова Мальти"
 
 ### Ocean
- MAU_ENG_autonomy_autonomous_region: "$OVERLORDADJ$ий Маврикій"
- MAU_ENG_autonomy_autonomous_region_DEF: "$OVERLORDADJ$ий Маврикій"
+ MUS_ENG_autonomy_autonomous_region: "$OVERLORDADJ$ий Маврикій"
+ MUS_ENG_autonomy_autonomous_region_DEF: "$OVERLORDADJ$ий Маврикій"
 
 ### C. America
  BLZ_ENG_autonomy_autonomous_region: "$OVERLORDADJ$ий Гондурас"
@@ -699,8 +701,8 @@
 ### S. America
  GUY_ENG_autonomy_autonomous_region: "$OVERLORDADJ$а Ґвіяна"
  GUY_ENG_autonomy_autonomous_region_DEF: "$OVERLORDADJ$а Ґвіяна"
- SUR_HOL_autonomy_autonomous_region: "$OVERLORDADJ$а Ґвіяна"
- SUR_HOL_autonomy_autonomous_region_DEF: "$OVERLORDADJ$а Ґвіяна"
+ SUR_NLD_autonomy_autonomous_region: "$OVERLORDADJ$а Ґвіяна"
+ SUR_NLD_autonomy_autonomous_region_DEF: "$OVERLORDADJ$а Ґвіяна"
  CAY_FRA_autonomy_autonomous_region: "$OVERLORDADJ$а Ґвіяна"
  CAY_FRA_autonomy_autonomous_region_DEF: "$OVERLORDADJ$а Ґвіяна"
 
@@ -735,8 +737,8 @@
  ROC_PRC_autonomy_autonomous_region_DEF: "Особливий Адміністративний Район Тайвань"
  TWN_PRC_autonomy_autonomous_region: "Особливий Адміністративний Район Тайвань"
  TWN_PRC_autonomy_autonomous_region_DEF: "Особливий Адміністративний Район Тайвань"
- MON_PRC_autonomy_autonomous_region: "Автономний Район Вай Менґу"
- MON_PRC_autonomy_autonomous_region_DEF: "Автономний Район Вай Менґу"
+ MNG_PRC_autonomy_autonomous_region: "Автономний Район Вай Менґу"
+ MNG_PRC_autonomy_autonomous_region_DEF: "Автономний Район Вай Менґу"
  SMO_PRC_autonomy_autonomous_region: "Автономний Район Ней Менґа Цзичжицу"
  SMO_PRC_autonomy_autonomous_region_DEF: "Автономний Район Ней Менґа Цзичжицу"
  MAN_PRC_autonomy_autonomous_region: "Автономний Район Північно-Східного Китаю"
@@ -765,8 +767,8 @@
  MMR_PRC_autonomy_autonomous_region_DEF: "М'янмський Автономний Район"
  WAA_PRC_autonomy_autonomous_region: "Особливий Адміністративний Район Ва"
  WAA_PRC_autonomy_autonomous_region_DEF: "Особливий Адміністративний Район Ва"
- PHI_PRC_autonomy_autonomous_region: "Філіппінський Автономний Район"
- PHI_PRC_autonomy_autonomous_region_DEF: "Філіппінський Автономний Район"
+ PHL_PRC_autonomy_autonomous_region: "Філіппінський Автономний Район"
+ PHL_PRC_autonomy_autonomous_region_DEF: "Філіппінський Автономний Район"
 
 ### USA
  ALK_USA_autonomy_autonomous_region: "Штат Аляска"
@@ -777,8 +779,8 @@
  CAL_USA_autonomy_autonomous_region_DEF: "Штат Каліфорнія"
  HWI_USA_autonomy_autonomous_region: "Штат Гаваї"
  HWI_USA_autonomy_autonomous_region_DEF: "Штат Гаваї"
- NMI_USA_autonomy_autonomous_region: "Північні Маріянські Острови"
- NMI_USA_autonomy_autonomous_region_DEF: "Північні Маріянські Острови"
+ MNP_USA_autonomy_autonomous_region: "Північні Маріянські Острови"
+ MNP_USA_autonomy_autonomous_region_DEF: "Північні Маріянські Острови"
  PRI_USA_autonomy_autonomous_region: "Вільно Асоційована Держава Пуерто-Рико"
  PRI_USA_autonomy_autonomous_region_DEF: "Вільно Асоційоване Пуерто-Рико"
  
@@ -793,8 +795,8 @@
  CRM_RUS_communist_autonomy_puppet_state_DEF: "Кримська Радянська Соціялістична Республіка"
  BLR_RUS_communist_autonomy_puppet_state: "Білоруська Радянська Соціялістична Республіка"
  BLR_RUS_communist_autonomy_puppet_state_DEF: "Білоруська Радянська Соціялістична Республіка"
- MOL_RUS_communist_autonomy_puppet_state: "Молдавська Радянська Соціялістична Республіка"
- MOL_RUS_communist_autonomy_puppet_state_DEF: "Молдавська Радянська Соціялістична Республіка"
+ MDA_RUS_communist_autonomy_puppet_state: "Молдавська Радянська Соціялістична Республіка"
+ MDA_RUS_communist_autonomy_puppet_state_DEF: "Молдавська Радянська Соціялістична Республіка"
  TRA_RUS_communist_autonomy_puppet_state: "Придністровська Молдавська Радянська Соціялістична Республіка"
  TRA_RUS_communist_autonomy_puppet_state_DEF: "Придністровська Молдавська Радянська Соціялістична Республіка"
  DAG_RUS_communist_autonomy_puppet_state: "Дагестанська Радянська Соціялістична Республіка"
@@ -831,8 +833,8 @@
  KGZ_RUS_communist_autonomy_puppet_state_DEF: "Киргизька Радянська Соціялістична Республіка"
  TJK_RUS_communist_autonomy_puppet_state: "Таджицька Радянська Соціялістична Республіка"
  TJK_RUS_communist_autonomy_puppet_state_DEF: "Таджицька Радянська Соціялістична Республіка"
- TMS_RUS_communist_autonomy_puppet_state: "Туркменська Радянська Соціялістична Республіка"
- TMS_RUS_communist_autonomy_puppet_state_DEF: "Туркменська Радянська Соціялістична Республіка"
+ TKM_RUS_communist_autonomy_puppet_state: "Туркменська Радянська Соціялістична Республіка"
+ TKM_RUS_communist_autonomy_puppet_state_DEF: "Туркменська Радянська Соціялістична Республіка"
  UZB_RUS_communist_autonomy_puppet_state: "Узбецька Радянська Соціялістична Республіка"
  UZB_RUS_communist_autonomy_puppet_state_DEF: "Узбецька Радянська Соціялістична Республіка"
  TYV_RUS_communist_autonomy_puppet_state: "Тувинська Радянська Соціялістична Республіка"
@@ -850,8 +852,8 @@
  CRM_RUS_communist_autonomy_autonomous_region_DEF: "Кримська Автономна Радянська Соціялістична Республіка"
  BLR_RUS_communist_autonomy_autonomous_region: "Білоруська Автономна Радянська Соціялістична Республіка"
  BLR_RUS_communist_autonomy_autonomous_region_DEF: "Білоруська Автономна Радянська Соціялістична Республіка"
- MOL_RUS_communist_autonomy_autonomous_region: "Молдавська Автономна Радянська Соціялістична Республіка"
- MOL_RUS_communist_autonomy_autonomous_region_DEF: "Молдавська Автономна Радянська Соціялістична Республіка"
+ MDA_RUS_communist_autonomy_autonomous_region: "Молдавська Автономна Радянська Соціялістична Республіка"
+ MDA_RUS_communist_autonomy_autonomous_region_DEF: "Молдавська Автономна Радянська Соціялістична Республіка"
  TRA_RUS_communist_autonomy_autonomous_region: "Придністровська Молдавська Автономна Радянська Соціялістична Республіка"
  TRA_RUS_communist_autonomy_autonomous_region_DEF: "Придністровська Молдавська Автономна Радянська Соціялістична Республіка"
  DAG_RUS_communist_autonomy_autonomous_region: "Дагестанська Автономна Радянська Соціялістична Республіка"
@@ -888,8 +890,8 @@
  KGZ_RUS_communist_autonomy_autonomous_region_DEF: "Киргизька Автономна Радянська Соціялістична Республіка"
  TJK_RUS_communist_autonomy_autonomous_region: "Таджицька Автономна Радянська Соціялістична Республіка"
  TJK_RUS_communist_autonomy_autonomous_region_DEF: "Таджицька Автономна Радянська Соціялістична Республіка"
- TMS_RUS_communist_autonomy_autonomous_region: "Туркменська Автономна Радянська Соціялістична Республіка"
- TMS_RUS_communist_autonomy_autonomous_region_DEF: "Туркменська Автономна Радянська Соціялістична Республіка"
+ TKM_RUS_communist_autonomy_autonomous_region: "Туркменська Автономна Радянська Соціялістична Республіка"
+ TKM_RUS_communist_autonomy_autonomous_region_DEF: "Туркменська Автономна Радянська Соціялістична Республіка"
  UZB_RUS_communist_autonomy_autonomous_region: "Узбецька Автономна Радянська Соціялістична Республіка"
  UZB_RUS_communist_autonomy_autonomous_region_DEF: "Узбецька Автономна Радянська Соціялістична Республіка"
  TYV_RUS_communist_autonomy_autonomous_region: "Тувинська Автономна Радянська Соціялістична Республіка"
