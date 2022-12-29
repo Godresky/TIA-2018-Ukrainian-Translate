@@ -15,7 +15,6 @@
  second_amendment_repealed: "Друга поправка скасована"
  is_constitutional_monarchy: "Це конституційна монархія"
  has_monarchist_party: "Має королівську династію"
- snap_election_in_progress: "Тривають позачергові вибори"
 
  # Custom Tooltips
  tooltip_ahistorical_option: "Ця опція доступна лише тоді, коли історичний режим вимкнено.\n"

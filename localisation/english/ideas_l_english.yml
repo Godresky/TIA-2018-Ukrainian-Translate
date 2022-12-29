@@ -174,14 +174,14 @@
  #Electoral Threshold
  natural_threshold: "Природний поріг"
  natural_threshold_desc: "Після повного скасування виборчого бар’єру партії знадобиться лише 0,5%, щоб потрапити до будівлі [ROOT.GetParliamentName], оскільки загалом є 100 місць, а 0,5% округляє до 1 місця."
- threshold_one_percent: "1%"
- threshold_two_percent: "2%"
- threshold_three_percent: "3%"
- threshold_four_percent: "4%"
- threshold_five_percent: "5%"
- threshold_six_percent: "6%"
- threshold_seven_percent: "7%"
- threshold_eight_percent: "8%"
+ threshold_one_percent: "Поріг 1%"
+ threshold_two_percent: "Поріг 2%"
+ threshold_three_percent: "Поріг 3%"
+ threshold_four_percent: "Поріг 4%"
+ threshold_five_percent: "Поріг 5%"
+ threshold_six_percent: "Поріг 6%"
+ threshold_seven_percent: "Поріг 7%"
+ threshold_eight_percent: "Поріг 8%"
 
  #Tax Policy
  very_high_taxes: "Дуже високі податки"
