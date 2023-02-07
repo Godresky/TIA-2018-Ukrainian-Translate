@@ -957,7 +957,7 @@ ceasefire.3.t: "[FROM.GetNonIdeologyNameDef] відхиляє угоду про 
 ceasefire.3.d: "За нашими джерелами, [FROM.GetLeaderTitle] [FROM.GetLeader] розірвав нашу угоду про припинення вогню та використав його як туалетний папір під час дефекації. На жаль, війна продовжується."
 ceasefire.3.o1: "Прикро."
 ceasefire.4.t: "[FROM.GetNonIdeologyNameDef] та [ceasefire_receiver.GetNonIdeologyNameDef] підписали угоду про припинення вогню"
-ceasefire.4.d: "З метою припинення тривалого військового конфлікту між двома сторонами, [FROM.GetNonIdeologyNameDef] та [ceasefire_receiver.GetNonIdeologyNameDef] підписали угоду про припинення вогню, яка зупиняє війну та офіційно передає усі окуповані території окупанту. Оскільки територіальні претензії все ще залишаються, припинення вогню є лише короткостроковим вирішенням конфлікту. У всякому разі, люди з міст [FROM.Capital.GetName] та [ceasefire_receiver.Capital.GetName] будуть святкувати усю ніч."
+ceasefire.4.d: "З метою припинення тривалого військового конфлікту між двома сторонами, [FROM.GetNonIdeologyNameDef] та [ceasefire_receiver.GetNonIdeologyNameDef] підписали угоду про припинення вогню, яка зупиняє війну та офіційно передає усі окуповані території окупанту. Оскільки територіяльні претензії все ще залишаються, припинення вогню є лише короткостроковим вирішенням конфлікту. У всякому разі, люди з міст [FROM.Capital.GetName] та [ceasefire_receiver.Capital.GetName] будуть святкувати усю ніч."
 ceasefire.4.o1: "Перемога миру!"
 
 #Afghanistan
