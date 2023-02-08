@@ -372,7 +372,7 @@
 
  #Venezuela
  idea_venezuelan_presidential_crisis: "Президентська криза у Венесуелі"
- idea_venezuelan_presidential_crisis_desc: "The office of President of Venezuela is currently disputed between Nicolás Maduro (PSUV) and Juan Guaidó (MUD)."
+ idea_venezuelan_presidential_crisis_desc: "На посаду президента Венесуели наразі претендують [VEN.GetLeader] ([VEN.GetRulingPartyColored]) та Хуан Гуайдо (§3НВ§!), промовець Національної Асамблеї."
 
  #Islamic State & Al-Qaeda
  idea_the_islamic_state: "Ісламська держава"
