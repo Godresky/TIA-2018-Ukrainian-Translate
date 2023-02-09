@@ -318,7 +318,7 @@ COMMANDER_ROSTER_NAVY_TOOLTIP_DELAYED:8 "Адміралів з рівнем на
 OFFICER_REMOVE_NAME_DESC:8 "Ви справді хочете прибрати офіцера §R$NAME$§!, витративши £pol_power $COST|-0$?"
 OFFICER_REPLACE_NAME_DESC:8 "Ви впевнені? §H$OLD_NAME$§! заміниться, і натомість буде §H$NEW_NAME$§!. Вартість: $COST$."
 OFFICER_CORP_CURRENT_PREFERRED_TACTIC:8 "Обрана тактику, якій буде надаватися перевага державою: $TACTIC|H$\n"
-ARMY_LEADER_CURRENT_PREFERRED_TACTIC:8 "Обрана тактику, якій буде надаватися перевага лідером: $TACTIC|H$\n"
+ARMY_LEADER_CURRENT_PREFERRED_TACTIC:8 "Обрана тактику, якій буде надаватися перевага провідником: $TACTIC|H$\n"
 ARMY_LEADER_SELECT_TACTIC_CONFIRMATION_DESC:8 "Обрати тактику $TACTIC|H$ як ту, якій надається перевага державою $NAME$?\n\nЦей вибір не можна буде змінити в майбутньому.\n"
 ARMY_LEADER_ALREADY_HAS_PREFERRED_TACTIC:8 "Для цього персонажа уже обрана тактика, якій буде надаватися перевага.\n"
 PREFERRED_TACTIC_DESC:8 "Тактика, якій буде надаватися перевага державою з додатковою вірогідністю у $CHANCE|H$ може бути обрана під час бою."

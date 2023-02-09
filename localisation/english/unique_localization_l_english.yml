@@ -100,7 +100,7 @@
 # Leader Titles
   LEADER_TITLE: "[THIS.GetLeaderTitle]"
   LEADER_TITLE_FUHRER: "Фюрер"
-  LEADER_TITLE_SUPREME_LEADER: "Верховний лідер"
+  LEADER_TITLE_SUPREME_LEADER: "Верховний провідник"
   LEADER_TITLE_CHAIRMAN: "Голова"
   LEADER_TITLE_FIRST_SECRETARY: "Перший секретар"
   LEADER_TITLE_GENERAL_SECRETARY: "Генеральний секретар"

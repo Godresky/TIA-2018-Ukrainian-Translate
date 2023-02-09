@@ -114,12 +114,12 @@ RULE_ALLOW_LEAVE_FACTION_ALLOWED_DESC: "Суверенні держави мож
 RULE_ALLOW_LEAVE_FACTION_BLOCKED_DESC: "Суверенні держави можуть вийти з альянсу лише крізь спеціяльні події."
 
 RULE_ALLOW_KICK_FACTION: "Виключення з альянсу"
-RULE_ALLOW_KICK_FACTION_ALLOWED_DESC: "Лідер альянсу може виключати з нього будь-яку державу."
-RULE_ALLOW_KICK_FACTION_BLOCKED_DESC: "Лідер альянсу не може виключати з нього жодну державу."
+RULE_ALLOW_KICK_FACTION_ALLOWED_DESC: "Провідник альянсу може виключати з нього будь-яку державу."
+RULE_ALLOW_KICK_FACTION_BLOCKED_DESC: "Провідник альянсу не може виключати з нього жодну державу."
 
-RULE_ALLOW_TAKE_OVER_FACTION: "Перейняття лідерства в альянсі"
-RULE_ALLOW_TAKE_OVER_FACTION_ALLOWED_DESC: "Держави можуть переймати лідерство в альянсі при виконанні відповідних умов."
-RULE_ALLOW_TAKE_OVER_FACTION_BLOCKED_DESC: "Держави не можуть переймати лідерство в альянсі."
+RULE_ALLOW_TAKE_OVER_FACTION: "Перейняття провідництва в альянсі"
+RULE_ALLOW_TAKE_OVER_FACTION_ALLOWED_DESC: "Держави можуть переймати провідництва в альянсі при виконанні відповідних умов."
+RULE_ALLOW_TAKE_OVER_FACTION_BLOCKED_DESC: "Держави не можуть переймати провідництва в альянсі."
 
 RULE_PLAYER_LED_PEACE_CONFERENCES: "Керування гравця мирними конференціями"
 RULE_PLAYER_LED_PEACE_CONFERENCES_DISABLED_DESC: "Мирні конференції тривають у звичайному режимі."

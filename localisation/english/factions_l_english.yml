@@ -1,5 +1,5 @@
 ﻿l_english:
- FACTION_LEADER: "Лідер альянсу: §Y$COUNTRY$§!"
+ FACTION_LEADER: "Провідник альянсу: §Y$COUNTRY$§!"
  FACTION_MEMBER: "Член альянсу: §Y$COUNTRY$§!"
 FACTION_CREATED_UNDER_MASTER_TITLE: "Вступ в альянс метрополії"
 FACTION_CREATED_UNDER_MASTER_MESSAGE: "Ми вступили в альянс $FACTION|H$ услід за нашою метрополією"
