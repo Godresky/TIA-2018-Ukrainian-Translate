@@ -25,7 +25,7 @@ bitmapfonts = {
 			"gfx/fonts/hoi_20bs"
 			"gfx/fonts/hoi_20bs_cryllic"
 		}
-	languages = { "l_english" "l_polish" } 
+	languages = { "l_english" "l_ukrainian" "l_polish" } 
 	}
 
 	bitmapfont = {
@@ -55,7 +55,7 @@ bitmapfonts = {
 			"gfx/fonts/hoi_20bs"
 			"gfx/fonts/hoi_20bs_cryllic"
 		}
-	languages = { "l_english" "l_polish" } 
+	languages = { "l_english" "l_ukrainian" "l_polish" } 
 	}	
 	
 }
