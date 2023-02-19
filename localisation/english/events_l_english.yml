@@ -387,7 +387,7 @@
  politics.3.t: "[FROM.GetName] повертає в сторону тоталітаризму"
  politics.3.d: "Політичний ландшафт в державі [FROM.GetFlag] [FROM.GetNonIdeologyNameDef] кардинально змінився, оскільки [FROM.GetLeaderTitle] [FROM.GetLeader] ([FROM.GetRulingPartyColored]) та його уряд оголосили про свої намір заборонити опозиційні партії та скасувати демократичні вибори. [FROM.GetAdjective]ий уряд посилався на необхідність стабілізації держави та протидії зовнішньому впливу на опозиційні партії. Проте він засуджується багатьма країнами, групами та організаціями на міжнародному рівні. Оскільки вся опозиція заборонена, то для [FROM.GetAdjective]ого уряду видний шлях до позбавлення ще більшої кількості свобод, що призвело до зниження рейтингу країни до тоталітарної за індексом демократії." 
  politics.3.o1: "Дуже безвідповідально."
- politics.3.o2: "Нам потрібно було це зробити!"
+ politics.3.o2: "Це довелося зробити!"
  politics.4.t: "Кінець [FROM.GetAdjective]ої монархії"
  politics.4.d: "Нова ера почалася в державі [FROM.GetFlag] [FROM.GetNonIdeologyNameDef], оскільки [FROM.GetLeaderTitle] [FROM.GetLeader] ([FROM.GetRulingPartyColored]) та його уряд успішно ухвалили конституційну поправку про скасування монархії в країні. Незважаючи на те, що монархія не має великої політичної влади, республіканці називали марну витрату податкових грошей, уявну відсталість і потребу в некоролівському главі держави як причини стати республікою."
  politics.4.o1: "Чи слід це було робити?"
@@ -483,12 +483,12 @@
  slovakia.2.o1: "Політики..."
 
  #Peru
- peru.1.t: "Mamanivideos"
+ peru.1.t: "Маманівідеос"
  peru.1.d: "Pedro Pablo Kuczynski today announced his resignation, following the release of videos filmed by congressman Moisés Mamani showing government representatives attempting to bribe members of the opposition Fuerza Popular, which holds the majority in Congress. The bribes were reportedly made in order to prevent the impeachment of Kuczynski, who was plagued by scandals such as his recent presidential pardon of imprisoned former dictator Alberto Fujimori, and allegations of having received bribes by Brazilian firm Odebrecht. Martín Vizcarra, the First Vice President, has been sworn in as Kuczynski's replacement."
- peru.1.o1: "Corruption is unacceptable."
- peru.2.t: "Mamanivideos"
+ peru.1.o1: "Корупція неприпустима."
+ peru.2.t: "Маманівідеос"
  peru.2.d: "President Pedro Pablo Kuczynski ([PER.GetRulingPartyColored]) of [PER.GetNonIdeologyNameDef] has unexpectedly resigned from his position, after the release of videos filmed by congressman Moisés Mamani showing government representatives attempting to bribe members of the opposition party §9Fuerza Popular§!, which holds the majority in Congress. The bribes were allegedly made in order to prevent the impeachment of Kuczynski, who was plagued by scandals such as his recent presidential pardon of imprisoned former dictator Alberto Fujimori, and allegations of having received bribes by Brazilian firm Odebrecht. First Vice President Martín Vizcarra ([PER.GetRulingPartyColored]) has been sworn in as the new President."
- peru.2.o1: "Corruption? Despicable!"
+ peru.2.o1: "Корупція? Мерзенно!"
 
  #Australia
  australia.1.t: "Альянс центру"
