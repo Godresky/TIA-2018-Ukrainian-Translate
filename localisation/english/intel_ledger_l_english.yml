@@ -169,7 +169,7 @@ CIV_LEDGER_THRESHOLD_RESOURCE_ORIGIN_ROUTES: "Шляхи доставки рес
 CIV_LEDGER_THRESHOLD_RESOURCE_ROUTE_TOOLTIPS: "Детальні підказки шляхів конвоїв"
 CIV_LEDGER_THRESHOLD_TAKEN_FOCUSES: "Виконані національні фокуси"
 CIV_LEDGER_THRESHOLD_CURRENT_FOCUS: "Активний національний фокус"
-CIV_LEDGER_THRESHOLD_CURRENT_FOCUS_PROCESS: "Активний національний фокус із прогресом"
+CIV_LEDGER_THRESHOLD_CURRENT_FOCUS_PROCESS: "Активний національний фокус із проґресом"
 CIV_LEDGER_THRESHOLD_MAP_ICON_DAMAGED_COUNTS: "Історія та кількість пошкоджених споруд"
 CIV_LEDGER_THRESHOLD_TECH_COUNT: "Кількість досліджених цивільних технологій"
 CIV_LEDGER_THRESHOLD_RESEARCHED_TREE: "Досліджені цивільні технології"

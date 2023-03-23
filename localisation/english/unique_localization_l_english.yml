@@ -96,6 +96,8 @@
   STATE_TITLE_REGION: "§GРегіон§!"
   STATE_TITLE_DEPARTMENT: "§GДепартамент§!"
   STATE_TITLE_AIMAG: "§GАймак§!"
+  STATE_TITLE_BUNDESLAND: "§GЗемля§!"
+  STATE_TITLE_PERIFERIA: "§GПериферія§!"
 
 # Leader Titles
   LEADER_TITLE: "[THIS.GetLeaderTitle]"
@@ -125,3 +127,4 @@
   LEADER_TITLE_DALAI_LAMA: "Далай-лама"
   LEADER_TITLE_SIKYONG: "Сікйонґ"
   LEADER_TITLE_CHIEF_EXECUTIVE: "Генеральний директор"
+  LEADER_TITLE_CHIEF_EXECUTIVE: "Головний емір"

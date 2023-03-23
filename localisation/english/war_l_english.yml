@@ -58,7 +58,7 @@ WARSCORE_BREAKDOWN_NOCASUALTIES: "Розбивка:\nОкупація: $OCCUPATI
 WARSCORE_BREAKDOWN: "Розбивка:\nОкупація: $OCCUPATION|Y0$\nБомбардування: $BOMBING|Y0$/$BOMBING_MAX|Y0$\nПотоплено ворожих кораблів: $SUNK_SHIPS|Y0$\nВтрати: $CASUALTIES|Y0$"
 WAR_OVERVIEW_CAPITULATE_STATUS: "Вони капітулювали й більше не можуть утримати цю сторону від здачі. Щоб прибрати статус капітуляції, вони мають повернути свою столицю й бути хоча б на $LEVEL|%Y0$ близькі до капітуляції. Зараз вони близькі на $CURRENT|%Y0$."
 WAR_OVERVIEW_AGGREGATE_VIEW_HEADER: "Підсумок війни"
-WAR_OVERVIEW_CAPITULATION_PROGRESS: "Прогрес капітуляції" # G
+WAR_OVERVIEW_CAPITULATION_PROGRESS: "Проґрес капітуляції" # G
 WAR_OVERVIEW_FILTER_MINORS: "Другорядні"
 WAR_OVERVIEW_FILTER_CAPITULATED: "Капітулювали"
 WAR_OVERVIEW_FILTER_CALLABLE: "Можна закликати"
@@ -66,7 +66,7 @@ WAR_OVERVIEW_FILTER_MINORS_DESC: "Показати/приховати друго
 WAR_OVERVIEW_FILTER_CAPITULATED_DESC: "Показати/приховати країни, що капітулювали."
 WAR_OVERVIEW_FILTER_CALLABLE_DESC: "Показати/приховати країни, які можна закликати в війну."
 WAR_OVERVIEW_WAR_BUTTON_ALL: "Показати підсумки всіх війн"
-WAR_OVERVIEW_AGGREGATE_PROGRESS: "Екран підсумків не показує прогрес. Клацніть на конкретну війну, щоб побачити деталі про неї" # G
+WAR_OVERVIEW_AGGREGATE_PROGRESS: "Екран підсумків не показує проґрес. Клацніть на конкретну війну, щоб побачити деталі про неї" # G
 WAR_OVERVIEW_CALL_ALL_FACTION: "Закликати всіх членів альянсу"
 WAR_OVERVIEW_CALL_COUNTRY_LIST: "Повідомлення буде надіслане цим країнам: $COUNTRIES$"
 WAR_OVERVIEW_CALL_ALL_FACTION_DISABLED: "§RНема членів альянсу, яких можна закликати в війну§!"

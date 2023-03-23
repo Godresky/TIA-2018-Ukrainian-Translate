@@ -1105,7 +1105,7 @@ DR_COMPARED_DEPLOYED_MANPOWER: "Мобілізований людський ре
 DR_CONDITIONAL_SURRENDER_WORLD_THREAT_SCALED: "Поточна світова напруга: "
 DR_CONDITIONAL_SURRENDER_WAR_SUPPORT: "Патріотизм: "
 DR_CONDITIONAL_SURRENDER_EMBARGO: "Накладені ембарго: "
-DR_CONDITIONAL_SURRENDER_OWN_SURRENDER_LEVEL: "Прогрес власної капітуляції: "
+DR_CONDITIONAL_SURRENDER_OWN_SURRENDER_LEVEL: "Проґрес власної капітуляції: "
 DR_CONDITIONAL_SURRENDER_MINOR_WAR: "Малі держави в конфлікті: "
 embargo_relation_tt: "Ембарго зашкодить відносинам між двома країнами."
 

@@ -59,6 +59,8 @@
  TT_legislative_election_event_majority: "§GБільшість§!. Це надасть новому уряду потужних законодавчих повноважень, які дозволять йому керувати продуктивніше"
  TT_legislative_election_event_minority: "§RМеншість§!. Це залишить новому уряду слабкі законодавчі повноваження, які вимагатимуть від нього широких переговорів з опозиційними партіями для прийняття законодавчих актів"
  TT_midterms_unlocked: "Розблоковує §YПроміжні вибори§!"
+ TT_auto_government: "§BСамоуряд§! - самостійно формує максимально сильну коаліцію"
+ TT_gov_formation_ui: "Відкриває §Yпанель формування уряду§! §R(НЕ рекомендовано під час війни)§!"
 
  # Country Type Scripted Localisation
  CT_devolved: "Девольована [THIS.GetFormofGovernment]"
@@ -151,8 +153,8 @@
  coalition_social_liberal_party_seats: "- §4Соціял-ліберали ([?Root.social_liberal_seats] [Root.get_ua_social_liberal_seats])§! \n"
  coalition_social_democrat_party: "- §3Соціял-демократи§!\n"
  coalition_social_democrat_party_seats: "- §3Соціял-демократи ([?Root.social_democrat_seats] [Root.get_ua_social_democrat_seats])§!\n"
- coalition_progressive_party: "- §2Прогресивісти§! \n"
- coalition_progressive_party_seats: "- §2Прогресивісти ([?Root.progressive_seats] [Root.get_ua_progressive_seats])§! \n"
+ coalition_progressive_party: "- §2Проґресивісти§! \n"
+ coalition_progressive_party_seats: "- §2Проґресивісти ([?Root.progressive_seats] [Root.get_ua_progressive_seats])§! \n"
  coalition_socialist_party: "- §1Соціялісти§! \n"
  coalition_socialist_party_seats: "- §1Соціялісти ([?Root.socialist_seats] [Root.get_ua_socialist_seats])§! \n"
  coalition_communist_party: "- §0Комуністи§!\n"
@@ -168,7 +170,7 @@
  coalition_classical_liberal: "§5Клас-ліберали§! в уряді"
  coalition_social_liberal: "§4Соціял-ліберали§! в уряді"
  coalition_social_democrat: "§3Соціял-демократи§! в уряді"
- coalition_progressive: "§2Прогресивісти§! в уряді"
+ coalition_progressive: "§2Проґресивісти§! в уряді"
  coalition_socialist: "§1Соціялісти§! в уряді"
  coalition_communist: "§0Комуністи§! в уряді"
 
@@ -181,7 +183,7 @@
  COALITION_PARTY7_TITLE: "[This.GetEnoughMarketLiberal]Клас-ліберали§!"
  COALITION_PARTY8_TITLE: "[This.GetEnoughSocialLiberal]Соціял-ліберали§!"
  COALITION_PARTY9_TITLE: "[This.GetEnoughSocialDemocratic]Соціял-демократи§!"
- COALITION_PARTY10_TITLE: "[This.GetEnoughProgressive]Прогресивісти§!"
+ COALITION_PARTY10_TITLE: "[This.GetEnoughProgressive]Проґресивісти§!"
  COALITION_PARTY11_TITLE: "[This.GetEnoughSocialist]Соціялісти§!"
  COALITION_PARTY12_TITLE: "[This.GetEnoughCommunist]Комуністи§!"
 
@@ -209,7 +211,7 @@
 
  COMMUNIST_POPULARITY_TEXT: "§0Комуністи: [?Root.communist_seats] [Root.get_ua_communist_seats]§!"
  SOCIALISTS_POPULARITY_TEXT: "§1Соціялісти: [?Root.socialist_seats] [Root.get_ua_socialist_seats]§!"
- PROGRESSIVE_POPULARITY_TEXT: "§2Прогресивісти: [?Root.progressive_seats] [Root.get_ua_progressive_seats]§!"
+ PROGRESSIVE_POPULARITY_TEXT: "§2Проґресивісти: [?Root.progressive_seats] [Root.get_ua_progressive_seats]§!"
  SOCIAL_DEMOCRATS_POPULARITY_TEXT: "§3Соціял-демократи: [?Root.social_democrat_seats] [Root.get_ua_social_democrat_seats]§!"
  SOCIAL_LIBERAL_POPULARITY_TEXT: "§4Соціял-ліберали: [?Root.social_liberal_seats] [Root.get_ua_social_liberal_seats]§!"
  CLASSICAL_LIBERAL_POPULARITY_TEXT: "§5Клас-ліберали: [?Root.classical_liberal_seats] [Root.get_ua_classical_liberal_seats]§!"

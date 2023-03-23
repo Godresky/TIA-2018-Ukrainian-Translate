@@ -6,7 +6,7 @@ CONVEYOR_EQUIPMENT_NEED: "Необхідне оснащення:"
 CONVEYOR_MANPOWER_NEED: "Необхідні людські ресурси: $AMOUNT|H$"
 DEPLOYMENT_REQUIREMENT: "$NAME$: $AMOUNT$"
 DEPLOYMENT_DIVISION_LABEL: "Дивізія"
-DEPLOYMENT_PROGRESS_LABEL: "Прогрес" # G
+DEPLOYMENT_PROGRESS_LABEL: "Проґрес" # G
 DEPLOYMENT_PRIORITY_LABEL: "Пріоритет"
 DEPLOYMENT_DEPLOY_LABEL: "Розмістити"
 DEPLOYMENT_TEMPLATE_ITEM_ADD: "§GКлацніть, щоб додати в чергу розміщення.§!"
