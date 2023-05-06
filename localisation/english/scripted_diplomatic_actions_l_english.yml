@@ -1,7 +1,7 @@
 ﻿l_english:
 
- ### Recall Volunteers
- RECALL_VOLUNTEERS_TITLE: "Відкликати добровольців"
- RECALL_VOLUNTEERS_ACTION_DESC: "Ми можемо вирішити відкликати добровольців, яких ми відправили в інші країни."
- RECALL_VOLUNTEERS_TOOLTIP: "§RВ країні§! §Y[This.GetNameWithFlag]§! §Rє будь-які добровольці від нас, яких ми можемо повернути.§!"
- RECALL_VOLUNTEERS_TOOLTIP_G: "В країні §Y[This.GetNameWithFlag]§! є будь-які добровольці від нас, яких ми можемо повернути."
+ # Recall Volunteers
+ RECALL_VOLUNTEERS_TITLE: "Recall Volunteers"
+ RECALL_VOLUNTEERS_ACTION_DESC: "We can decide to recall the volunteers we have sent to other countries."
+ RECALL_VOLUNTEERS_TOOLTIP: "§Y[This.GetNameWithFlag]§! §Rmust have any volunteers from us we can recall.§!"
+ RECALL_VOLUNTEERS_TOOLTIP_G: "§Y[This.GetNameWithFlag]§! must have any volunteers from us we can recall."

@@ -1,29 +1,30 @@
 ﻿l_english:
- strongman: "Силач"
- humble: "Скромний"
- regent: "Регент"
- warlord: "Польовий командир"
- won_a_war: "Виграв війну"
+ trait_trait_strongman: "Силач"
+ trait_humble: "Несміливий"
+ trait_regent: "Реґент"
+ trait_warlord: "Полководець"
+ trait_won_a_war: "Виграв війну"
+ trait_celebrity: "Знаменитість"
 
  # Unique
- the_unabomber: "Універбомбер"
- morbidly_obese: "Патологічне ожиріння"
- morbidly_obese_desc: "Його неможливо врятувати."
- mutti_merkel: "Мама Меркель"
- celebrity: "Знаменитість"
- subcomandante_insurgente_galeano: "Підкомандувач повстанців Ґалеано"
+ trait_the_unabomber: "Універобомбер"
+ trait_morbidly_obese: "Сильне ожиріння"
+ trait_morbidly_obese_desc: "Його неможливо врятувати."
+ trait_mutti_merkel: "Мама Меркель"
+ trait_subcomandante_insurgente_galeano: "Підкомандувач повстанців Ґалеано"
+ trait_bitcoin_advocate: "Адвокат біткойнів"
 
  # Subject
- subject_pro_autonomy: "За автономію"
- subject_pro_integration: "За інтеграцію"
+ trait_pro_autonomy: "Підвладний: За автономію"
+ trait_pro_integration: "Підвладний: За інтеґрацію"
 
  # Diplomacy
  friend_of_america: "Друг Америки"
  enemy_of_america: "Ворог Америки"
- friend_of_russia: "Друг рашки"
- enemy_of_russia: "Ворог рашки"
- friend_of_china: "Друг Китаю"
- enemy_of_china: "Ворог Китаю"
+ friend_of_russia: "Друг Московщини"
+ enemy_of_russia: "Ворог Московщини"
+ friend_of_china: "Друг Хіни"
+ enemy_of_china: "Ворог Хіни"
  friend_of_germany: "Друг Німеччини"
  enemy_of_germany: "Ворог Німеччини"
  friend_of_britain: "Друг Британії"
@@ -35,6 +36,3 @@
  friend_of_india: "Друг Індії"
  enemy_of_india: "Ворог Індії"
 
- # Replace
- cc_leader: "Корпусний генерал"
- fm_leader: "Генерал" 

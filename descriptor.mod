@@ -4,7 +4,9 @@ tags={
 }
 dependencies={
 	"The Information Age 2018 - Early Access"
+	"TIA 2018 - Early Access"
+	"Український переклад"
 }
-name="The Information Age 2018 | Український Переклад"
+name="TIA 2018 - Український переклад"
 supported_version="1.12.9"
 remote_file_id="2866159880"

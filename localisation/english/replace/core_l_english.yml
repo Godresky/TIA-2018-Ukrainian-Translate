@@ -1,0 +1,24 @@
+﻿l_english:
+
+ # Politics
+ GOVERNMENT: "Політичні партії"
+
+ # Diplomacy
+ boost_party_popularity: "Фінансувати політичні партії"
+ boost_party: "Фінансувати партії"
+ boost_party_popularity_desc: "$SPY|H$ намагається фінансувати політичні партії ($PARTY|Y$) в державі $TARGET|Y$."
+ boost_party_popularity_general_desc: "Фінансування певної політичної партії в державі, з метою допомагти їй отримати додаткову підтримку серед населення. Завдяки цьому партія зможе отримати більше місць у парламенті або потенційно повалити уряд насильницькими методами."
+
+ # Garrison
+ GARRISON_CONF_VP: "Обороняти поселення"
+ GARRISON_CONF_PORT: "Обороняти приплави"
+ GARRISON_CONF_FORT: "Обороняти укріплення"
+ GARRISON_CONF_AIRBASE: "Обороняти летовища"
+ GARRISON_CONF_RAIL: "Обороняти вузли постачання та залізниці"
+
+ # Main Menu Buttons
+ MENU_HOMEPAGE: "Майстерня Стим"
+ MENU_FORUM: "Дискорд"
+ MENU_FACEBOOK: "Ютуб"
+ MENU_TWITTER: "Ґітгаб"
+ MENU_PRIVACY_POLICY: "Патреон"
